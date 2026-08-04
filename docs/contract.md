@@ -216,23 +216,45 @@ daily-interest/
 
 **格式和传输是分开的。**下面三条路,`manifest.json` + `discover/*.json` 的内容一个字都不用变。
 
-| | app 需要凭据吗 | 本项目 |
-|---|---|---|
-| repo 公开,走 `raw.githubusercontent.com` | 不需要 | **不适用。**`Hursa/daily-interest` 是私有仓库 |
-| **自己的服务器**(日记备份那台)镜像一份 | **不需要** | ✅ **本项目走这条。**基础设施已经在跑,图也有地方放 |
-| repo 私有,app 带 token | 需要 | **不行。**iOS 二进制可以被提取,token 等于公开 |
+**2026-08-04 决议:走 `raw.githubusercontent.com` + 只读 PAT。**仓库保持私有,不建镜像。
 
-> **2026-08-04 决议:仓库改为 `Hursa/daily-interest`,且保持私有。**
-> 因为私有,raw 那条路直接作废——不是把 URL 里的 `dailylife` 换成 `daily-interest` 就行,
-> `raw.githubusercontent.com` 对私有仓库返回 404,不带 token 拿不到任何东西。
-> 所以**唯一可用的是镜像那条**:服务器上 clone 这个私有 repo、定时 pull,再以 HTTP 对外暴露。
+| | 要凭据 | 要服务器 | 本项目 |
+|---|---|---|---|
+| **raw + 只读 PAT** | 要 | 不要 | ✅ **选这条** |
+| 仓库转公开走 raw | 不要 | 不要 | 否。`docs/contract.md` 里是 app 内部设计,不公开 |
+| 自建镜像 | 不要 | 要 | 否。多一套东西要维护,自用不值得 |
 
-镜像基址(**待定,填好后回来补**):
+原先第三行写的是「repo 私有,app 带 token —— **不行**」。那句话对**要分发的 app** 成立,
+本项目只装在自己设备上,不适用。已实测私有仓库可直接拉:
 
 ```
-https://<你的服务器>/discover/manifest.json
-https://<你的服务器>/discover/2026-08-05.json
+GET https://raw.githubusercontent.com/Hursa/daily-interest/main/manifest.json
+    Authorization: Bearer <PAT>
+→ 200，带 ETag: "83dbaa48…"
+
+同上 + If-None-Match: "83dbaa48…"
+→ 304
 ```
+
+**ETag 和条件请求都正常,所以第八节那套缓存设计一个字不用改**,只是每个请求多一个
+Authorization 头。基址:
+
+```
+https://raw.githubusercontent.com/Hursa/daily-interest/main/manifest.json
+https://raw.githubusercontent.com/Hursa/daily-interest/main/discover/2026-08-05.json
+```
+
+### token 的三条硬要求
+
+1. **必须是新建的只读 token**,不能复用生产方那个有 push 权限的。
+   fine-grained PAT → 只勾 `Hursa/daily-interest` 这一个仓库 → 权限只给 `Contents: Read`。
+   最坏情况下被抠出来,别人只能读到几篇文章
+2. **有效期设长或不设过期。**第八节第 5 条是「拉不到静默失败,不弹错不提示」,
+   两条加起来 = **token 一过期,发现页就悄无声息地停止更新**,可能几周后才发现
+3. **别硬编码进二进制。**更好的做法是 app 里给一个设置项,你手工填一次,存进 Keychain。
+   这样 token 根本不进包,`.ipa` 里没有可抠的东西
+
+> 这条决议的前提同样是 app 只在自己设备上跑。要分发的话,回来重新考虑镜像那条。
 
 生产侧不受影响:定时任务照样只往 git 里写,`manifest.json` + `discover/*.json` 的内容一个字不变。
 
@@ -314,7 +336,9 @@ https://<你的服务器>/discover/2026-08-05.json
 1. `DiscoverLibrary.loadNewest()` 现在从 **Bundle** 读 `discover-*.json`。改成从 **Application Support** 读 `<yyyy-MM-dd>.json`,Bundle 那份留作首次安装的兜底
 2. `DiscoverLibrary.imageURL(path:)` 现在只拼 Bundle 路径。改成:**`http` 开头 → 远端下载 + 缓存;否则按仓库内相对路径**
 3. 新增拉取:`manifest.json`(带 `If-None-Match`)→ 差量拉缺的日期 → 落盘 → 只留 30 天。**拉不到静默用缓存**,不弹错不提示
-   - **基址是自建镜像,不是 `raw.githubusercontent.com`**(仓库私有,raw 拿不到)。基址待定,见第四节
+   - 基址 `https://raw.githubusercontent.com/Hursa/daily-interest/main/`,
+     **每个请求带 `Authorization: Bearer <PAT>`**(仓库私有,实测 200 + ETag + 304 都正常)
+   - **token 从 Keychain 读,不硬编码**;取不到 token 也走静默失败那条路。见第四节
 4. `DiscoverBatch` 加 `schema`,大于已知版本就跳过那个文件用缓存,不崩
 
 **挑选**
