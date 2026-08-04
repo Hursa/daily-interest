@@ -1,0 +1,136 @@
+{
+  "schema": 1,
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-04T17:05:46+08:00",
+  "items": [
+    {
+      "id": "dafen-van-gogh",
+      "scope": "深圳",
+      "thesis": "靠复制名画谋生二十年之后，最难的一步不是技术，是决定自己要画什么。",
+      "title": "临摹了二十年梵高，然后他去看了真迹",
+      "body": "深圳龙岗有个村子叫大芬，八十年代末开始做油画复制。鼎盛时期这里聚集了近万名画工，全球流通的商品油画有七成出自这里，每年向欧美出口数百万幅。计酬按幅算，作业是流水线的——有人只画天空，有人只画人脸，一幅《向日葵》在几双手之间传完。\n\n赵小勇是其中一个。他从湖南来，九十年代进大芬，此后二十年几乎只画一个人的画：梵高。《向日葵》《星空》《自画像》，一遍一遍。订单最多的时候，一天能出好几张。\n\n2014年夏天，一个做欧洲生意的画商邀请他去荷兰，纪录片团队跟着。他站进阿姆斯特丹的梵高博物馆，第一次看见自己临摹了二十年的那些画的原件。他后来说的是：颜色不一样，临摹二十年，色彩和原作依然有差距。\n\n回国之后他开始画原创。这段经历拍成了纪录片《中国梵高》，2016年11月在阿姆斯特丹国际纪录片电影节首映。",
+      "image": "",
+      "link": {
+        "url": "https://www.thepaper.cn/newsDetail_forward_1591214",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "独特",
+      "_needsImage": "出口策略封锁 wikimedia，无法取图和验图",
+      "_facts": [
+        {
+          "claim": "大芬村位于深圳龙岗，自 1989 年起发展为油画复制产业聚集区",
+          "source": "https://zh.wikipedia.org/zh-cn/%E5%A4%A7%E8%8A%AC%E6%9D%91"
+        },
+        {
+          "claim": "鼎盛期大芬村产品在国际油画市场份额一度超过 70%，画工近万人",
+          "source": "https://www.jiemian.com/article/2592013.html"
+        },
+        {
+          "claim": "赵小勇 2014 年赴荷兰，在梵高博物馆见到原作后转做原创",
+          "source": "https://m.thepaper.cn/newsDetail_forward_21512469"
+        },
+        {
+          "claim": "纪录片《中国梵高》2016 年 11 月在阿姆斯特丹国际纪录片电影节首映",
+          "source": "https://www.thepaper.cn/newsDetail_forward_1591214"
+        }
+      ]
+    },
+    {
+      "id": "chengdu-teahouse-all-day",
+      "scope": "中国",
+      "thesis": "花一整天什么也不做，在别处叫虚度，在成都是件有名字有场地的正事。",
+      "title": "在成都，一杯茶可以坐一整天",
+      "body": "成都人民公园1911年开园，那时候叫少城公园。园子里有家茶馆叫鹤鸣茶社，1923年开的，民国时期是园内六大茶馆之首，今天是成都主城区现存历史最久、影响最大的一家。\n\n规矩很简单：茶钱交一次，竹椅归你，坐到你想走为止，续水不再收钱。掺茶的师傅举着长嘴铜壶，水线从头顶越过落进盖碗。碗是三件套——盖、碗、托，当地的说法是盖为天、托为地、碗为人。想让茶浓些，拿盖子在水面上刮两下。这种露天摆开的喝法有个专门的名字，叫坝坝茶。\n\n没有人赶你。隔壁桌打牌，再隔壁摆龙门阵，能从上午摆到天黑。还有拿着响夹在竹椅间穿行的舒耳郎，替人掏耳朵，一次二三十分钟。竹椅是矮的，靠背斜度很大，人一坐下去就不太想站起来——这个形状不是为了好看，是为了让你待得久。\n\n要紧的是，这些都不是给游客准备的表演项目，是本地人日常的过法。他们把在茶馆坐一天叫作「泡茶馆」，用的是「泡」这个字，和泡澡的泡是同一个。",
+      "tryThis": "找一个能坐下的地方，点一杯最便宜的东西，坐满两个小时，不带任何要做完的事。",
+      "image": "",
+      "link": {
+        "url": "https://www.chinanews.com.cn/tp/2025/01-05/10347974.shtml",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "_needsImage": "出口策略封锁 wikimedia，无法取图和验图",
+      "_facts": [
+        {
+          "claim": "鹤鸣茶社创办于 1923 年，位于成都人民公园（原少城公园）",
+          "source": "https://www.chinanews.com/sh/2021/07-21/9524866.shtml"
+        },
+        {
+          "claim": "鹤鸣是成都主城区历史最久、影响最大的茶馆，2023 年满百年",
+          "source": "https://m.jiemian.com/article/10342127.html"
+        },
+        {
+          "claim": "盖碗茶三件套与「盖为天、托为地、碗为人」的说法；舒耳郎持响夹在竹椅间采耳",
+          "source": "https://www.chinanews.com.cn/tp/2025/01-05/10347974.shtml"
+        },
+        {
+          "claim": "成都人民公园 1911 年开园，原名少城公园；鹤鸣为民国时期园内六大茶馆之首",
+          "source": "https://www.chinanews.com/sh/2021/07-21/9524866.shtml"
+        }
+      ]
+    },
+    {
+      "id": "kongo-gumi-1400-years",
+      "scope": "全球",
+      "thesis": "活过四十代人的办法不是变大，是一千四百年里只肯做同一件事：盖庙。",
+      "title": "一家公司活了一千四百年",
+      "body": "公元578年，圣德太子要建四天王寺，从朝鲜半岛的百济请来三名工匠。其中一个叫金刚重光，他留了下来，他的家族此后一千四百多年只做一件事：造和修寺庙、神社。\n\n这家公司叫金刚组，是有记载的世界上持续经营时间最长的企业。从578年到2006年，由金刚家的后人连续经营了四十代。作为参照：这段时间里日本的首都换了四次，幕府立了三个又倒了三个。\n\n它没有扩张过。业务始终是寺社建筑及城郭、文化财建筑的设计、施工、修复。四天王寺本身在历史上被烧毁、震毁过多次，每一次都是金刚组重建的——一家公司的主要客户，是它一千四百年前的第一个客户。\n\n最后让它撑不住的不是战争也不是天灾，是混凝土。二十世纪后期寺庙神社越来越多改用钢筋混凝土建造，木构的活变少，大型建筑公司也进了这个市场。2006年1月，金刚组被高松建设集团收购，成为其全资子公司。\n\n它至今仍在营业，业务仍然只有寺社建筑。",
+      "image": "",
+      "link": {
+        "url": "https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "_needsImage": "出口策略封锁 wikimedia，无法取图和验图",
+      "_facts": [
+        {
+          "claim": "金刚组创立于公元 578 年，源于圣德太子营造四天王寺",
+          "source": "https://en.wikipedia.org/wiki/Kong%C5%8D_Gumi"
+        },
+        {
+          "claim": "由金刚家族连续经营 40 代，逾 1400 年，为世界持续经营最久的企业",
+          "source": "https://worksthatwork.com/3/kongo-gumi"
+        },
+        {
+          "claim": "2006 年 1 月成为高松建设集团全资子公司，此后仍在运营",
+          "source": "https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html"
+        }
+      ]
+    },
+    {
+      "id": "concordia-winter-over",
+      "scope": "全球",
+      "thesis": "在一个九个月里谁也进不来、谁也出不去的地方，最先出问题的不是身体，是时间感。",
+      "title": "太阳落下去，四个月不再升起",
+      "body": "南极内陆有个叫 Dome C 的地方，海拔 3233 米，法国和意大利在那里合建了一座科考站，叫 Concordia。站体是两座架在可顶升支腿上的十八边形塔楼，之间用连廊接起来。\n\n它的冬天是这样的：气温掉到零下八十度；太阳五月初落到地平线以下，八月上旬才重新升起，中间四个多月是连续的黑夜。更要紧的是飞机进不来——大约九个月里，站上十几个人无论发生什么都无法撤离，外面也没有任何人能到达。距离最近的另一个有人科考站在几百公里以外。\n\n欧洲空间局把这里当成长期深空任务的地面模拟。理由很直接：极端低温、长期无光、狭小空间、固定的十几个人、救援不可能到达，还有高海拔带来的低氧——这几条和一次火星任务的重合度很高。\n\n欧空局每年出资派驻一名医生在站上过完整个冬季，研究对象包括医生自己，2025 年那位是英国医生 Nina Purvis。记录下来的变化包括睡眠结构改变、认知反应变慢和情绪波动。",
+      "image": "",
+      "link": {
+        "url": "https://blogs.esa.int/concordia/concordia-earths-most-remote-laboratory/",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "_needsImage": "出口策略封锁 wikimedia，无法取图和验图",
+      "_facts": [
+        {
+          "claim": "Concordia 站位于 Dome C，海拔约 3233 米，由法国 IPEV 与意大利 PNRA 合建",
+          "source": "https://blogs.esa.int/concordia/concordia-earths-most-remote-laboratory/"
+        },
+        {
+          "claim": "极夜约四个月，冬季气温可降至 -80°C，机组需连续九个月完全隔离、无法撤离",
+          "source": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/20_years_in_Antarctica"
+        },
+        {
+          "claim": "ESA 每年资助一名医生在站越冬，就地开展针对自身与队友的生物医学研究",
+          "source": "https://www.scientificamerican.com/article/mars-analogue-missions-concordia/"
+        },
+        {
+          "claim": "ESA 每年资助一名医生越冬；2025 年 DC21 越冬队的 ESA 医生为英国的 Nina Purvis",
+          "source": "https://blogs.esa.int/concordia/2025/11/04/in-my-antarctica-era/"
+        }
+      ]
+    }
+  ]
+}
