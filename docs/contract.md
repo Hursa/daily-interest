@@ -346,23 +346,45 @@ https://<你的服务器>/discover/2026-08-05.json
 | spec 第六节那 10 条自查 | 暂缺,自查改为对照本契约明写的规则 |
 | 网络策略 | 决定放行**全部域名**(不是只加 wikimedia),待环境侧改完,下次定时任务生效 |
 
-### 未决:配图
+### 配图:已解决(2026-08-04)
 
-生产环境的出口策略**只放行 GitHub**,`upload.wikimedia.org` / `commons.wikimedia.org` / `esa.int`
-一律 `CONNECT tunnel failed, 403`。后果是第三节「三条内容侧的硬约束」**一条都执行不了**:
+环境网络策略已放行全部域名,第三节那三条硬约束现在全部可执行。2026-08-05 那批 9 张图的实测:
 
-1. 判断两张图是不是同一张的裁切 —— 要下载,做不到
-2. 纯色图检测(灰度标准差 < 6)—— 要下载,做不到
-3. `curl -sI` 验 200 + `image/*` —— 连不上,做不到
+| 检查 | 结果 |
+|---|---|
+| `curl -sI` → 200 + `content-type: image/*` | 9/9 通过 |
+| 灰度标准差 ≥ 6(挡纯色/下载失败图) | 最低 23.7(`ConcordiaFromTower`,雪原低反差),9/9 通过 |
+| 同条内两两 dhash 比对(<25/256 判为同一张的裁切) | 最小距离 110/256,无重复 |
 
-而且 Commons 的直链路径里带一段哈希目录(`/a/a9/`),不下载就拼不出来,凭记忆写等于编。
+> dhash 阈值说明:随机两张图的期望距离约 128/256,同一张的不同裁切通常 < 25。
+> 实测最小 110,离重复很远。
 
-**决议(2026-08-04):放开环境网络策略,允许全部域名。**不只加 wikimedia 两个域名——
-配图长期不会只来自 Commons,逐个加域名等于每换一个图源就要改一次环境。
+### 未决:CC BY / CC BY-SA 图的署名没有地方显示
 
-- 改的位置:**Claude Code on the web → 本定时任务所用的 environment → 网络访问设置 → 选不限制域名那一档**
-  (会话内改不了,网关侧强制执行;文档 https://code.claude.com/docs/en/claude-code-on-the-web)
-- **对已经跑起来的容器无效**,新会话才生效——所以由下一次定时任务验证并补图
+2026-08-05 的 9 张图里 **4 张要求署名**(其余 5 张是 CC0 或公有领域,无此义务):
 
-在解决之前,`discover/*.json` 里的 `image` 留空,并且**该日期不写进 `manifest.days`**。
-按第〇节「app 只信 manifest.json」,没列进去的文件对 app 等于不存在,所以草稿留在仓库里是安全的。
+| 图 | 许可 | 作者 |
+|---|---|---|
+| Shitennoji pagoda 2021-05-26 | CC BY-SA 2.0 | m-louis .® |
+| Rokujiraisando, Shitennoji temple | CC BY 2.0 | George N |
+| Frozen face … Dome C winterover | CC BY-SA 4.0 | Dargaud |
+| Last takeoff (ESA) | CC BY-SA 2.0 | ESA_events |
+
+**契约里没有任何字段用来在界面上显示署名。**署名是许可证的硬性要求,只存在仓库里不算履行。
+当前的处理是写进 `_imageCredits`(下划线开头 = 只给人审用,app 不显示),字段形如:
+
+```json
+"_imageCredits": [
+  { "src": "https://…", "license": "CC BY-SA 2.0", "author": "m-louis .®",
+    "page": "https://commons.wikimedia.org/wiki/File:…", "attributionRequired": true }
+]
+```
+
+**三个选项,请挑一个:**
+
+1. **加一个会显示的字段**(如 `imageCredits`,去掉下划线),Codex 在图下渲染一行小字。
+   按第五节,加可选字段**不用升 `schema`**——但在 app 真的渲染出来之前,那 4 张图属于未履行署名
+2. **只用 CC0 / 公有领域的图**。代价:可选范围明显变窄,像「越冬队员结冰的脸」这种没有等价替代
+3. **先撤掉那 4 张**,只留 5 张免署名的,等 app 支持了再补
+
+在你选定之前,`2026-08-05` 已按现状挂上 `manifest.days`。**如果你倾向 2 或 3,告诉我,我当天就能换掉。**
