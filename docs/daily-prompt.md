@@ -106,8 +106,16 @@ ESA 横幅的室内办公室,大芬第二张原本是城中村航拍——两张
 
 1. 写 `discover/<今天>.json`
 2. `git add` 它
-3. **然后**改 `manifest.json`:`days` 头部插入今天;`discover/` 只留最近 90 天,
+3. **然后**改 `manifest.json`:把今天加进 `days`,**去重后按日期降序重排**
+   (不要盲目头部插入——补写历史某天或同日重跑时,头部插入会把顺序弄乱,
+   而契约第二节要求 `days` 严格新→旧);`discover/` 只留最近 90 天,
    超出的从 `days` 摘掉并删文件
+
+   ```python
+   days = sorted(set(days) | {today}, reverse=True)[:90]
+   ```
+
+   重排完再核一遍:**`days` 里的每一项都必须有对应的 `discover/<day>.json` 真实存在。**
 4. **一次 commit 同时包含两者**,再 push
 
 顺序反了会出现「manifest 说有今天,但文件还没推上去」的窗口,app 会拉到 404。
