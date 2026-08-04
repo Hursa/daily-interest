@@ -3,7 +3,7 @@
 日期:2026-08-04
 状态:定稿,双方照此实现
 上游:`2026-07-31-personal-butler-design.md` 第六节
-生产方:每天 07:04(台北)的定时任务,写入 `Hursa/daily-interest`
+生产方:每天 07:00(台北)的 routine「Daily fun fact post」,写入 `Hursa/daily-interest`
 消费方:HappyHabit 的「发现」页
 
 ---
@@ -42,7 +42,7 @@ daily-interest/
 ```json
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T07:04:31+08:00",
+  "updatedAt": "2026-08-05T07:00:31+08:00",
   "days": ["2026-08-05", "2026-08-04", "2026-08-03"]
 }
 ```
@@ -69,7 +69,7 @@ daily-interest/
 {
   "schema": 1,
   "date": "2026-08-05",
-  "generatedAt": "2026-08-05T07:04:12+08:00",
+  "generatedAt": "2026-08-05T07:00:12+08:00",
   "items": [ … ]
 }
 ```
@@ -287,7 +287,7 @@ https://raw.githubusercontent.com/Hursa/daily-interest/main/discover/2026-08-05.
 ## 六 · 一天的时序
 
 ```
-07:04  定时任务跑
+07:00  routine 跑(实际有几分钟 stagger)
        ├─ 读 manifest.days,grep 最近 14 天题材,避重
        ├─ 选题 → 写 4 条 → 自查(spec 第六节那 10 条)
        ├─ 校验每个图 URL:200 + image/*
@@ -366,7 +366,8 @@ https://raw.githubusercontent.com/Hursa/daily-interest/main/discover/2026-08-05.
 |---|---|
 | 仓库 | `Hursa/dailylife` 已删除 → 改为 **`Hursa/daily-interest`**,§一/§四/§八 已同步 |
 | 可见性 | **私有**。§四 的 raw 路线作废,只剩自建镜像一条;基址待填 |
-| 07:04 台北 | 暂不调整(现有定时任务不在本会话建立,改不了) |
+| 运行时间 | 已设为每天 **07:00 GMT+8**。平台有几分钟 stagger,不必追求精确到分 |
+| 生产方鉴权 | **PAT**。账号未连 GitHub,routine 的仓库选择器为空,故不走「挂仓库+代理注入」那条 |
 | spec 第六节那 10 条自查 | 暂缺,自查改为对照本契约明写的规则 |
 | 网络策略 | 决定放行**全部域名**(不是只加 wikimedia),待环境侧改完,下次定时任务生效 |
 
@@ -409,3 +410,26 @@ CC BY / CC BY-SA 的署名义务在**分发或公开展示**时才触发,自用�
 > 或者把包发给任何其他人,**署名义务立刻回来**,那 4 张 `attributionRequired: true` 的图
 > 就必须在界面上显示作者和许可,否则要换成 CC0 / 公有领域的图。
 > 到那天回来改这一节。
+
+### 2026-08-04 · 生产方怎么拿到仓库
+
+routine 的 **Select repositories** 列不出任何仓库(`No repositories found`),
+因为 claude.ai 账号没有连 GitHub——既没装 Claude GitHub App,也没跑过 `/web-setup`。
+**决议:不装 App,继续用 PAT。**
+
+| | |
+|---|---|
+| routine 挂仓库 | 无。工作目录每次都是空的,由 prompt 自己 clone |
+| 凭据 | 环境变量 `GH_PAT`,需要**读 + 写**(要 push 内容) |
+| 推 `main` | 直连 GitHub,不过代理,**没有分支限制**,已验证可推 |
+
+两个已知代价,别忘了:
+
+1. **环境变量对用该环境的所有人可见**,官方文档明确说没有 secrets store。
+   想收窄的话,给这个 routine 单建一个环境,别放在 `Default` 里——
+   `Default` 是所有 cloud session 共用的
+2. **token 会过期。**过期后 clone 拿到 401/403,而本页第八节第 5 条是「静默失败」,
+   两条加起来 = **发现页悄无声息地停更**。所以:建 token 时有效期设长或不设过期,
+   并且 `docs/daily-prompt.md` 第 0 节要求 clone 失败时把原文报出来,不许静默跳过
+
+> app 侧那个 token 是**另一个**,只读。别和这个混用。见本节前面「token 的三条硬要求」。
