@@ -8,13 +8,17 @@
 
 ## 0 · 准备
 
-```bash
-git clone "https://x-access-token:${GH_PAT}@github.com/Hursa/daily-interest.git" /tmp/di
-```
+**仓库已经挂在 routine 上,每次运行开始时自动 clone 到工作目录,从默认分支起。**
+不需要 token,不需要手动 clone——GitHub 凭据由代理注入,真实凭据不进容器。
 
-`GH_PAT` 从环境变量读。没有就停下来报错,**不要把 token 写进任何文件或 commit**。
+进来先确认工作目录里有 `manifest.json` 和 `docs/`。没有就说明 routine 的
+**Select repositories** 没挂上这个仓库,停下来报错,不要试图用 token 自己 clone。
 
-先完整读一遍 `docs/contract.md`。
+然后完整读一遍 `docs/contract.md`。
+
+> **推送范围**:routine 默认只能自由推 `claude/` 前缀的分支。推 `main` 需要满足:
+> 分支未受保护、没有别人从它开着 PR、且分支上没有他人署名的提交。
+> 本项目就是直接推 `main`,推不动就把 GitHub 返回的原文报出来,**不要绕过**。
 
 ## 1 · 避重
 
