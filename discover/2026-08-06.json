@@ -1,0 +1,244 @@
+{
+  "schema": 1,
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-05T12:38:25+08:00",
+  "items": [
+    {
+      "id": "shajing-oyster-moved",
+      "scope": "深圳",
+      "thesis": "一门手艺留在了地名里，靠它谋生的人早就换了片海。",
+      "title": "沙井蚝还在，蚝已经不在沙井了",
+      "body": "沙井这个地名，本身就是历史证据。今天的深圳宝安沙井街道，从宋代起就有人在附近浅海插竹养蚝，明代万历年间又加入了瓦片附着的技术，这门手艺在这片海域断续做了一千年以上。\n\n1956年，沙井蚝业生产合作社成立，鼎盛时期整个宝安有四万多亩蚝田，一年能产七八万担蚝，占了广东全省产量的一半以上。1958年，这个合作社得到国务院嘉奖，1966年还被当作全国样板拿到北京农业展览会展出。\n\n变化发生在1980年代。珠江口的工业和生活污水让近海水质变差，蚝肉发黑、口感变差，养殖户不得不往外找地方，最后落脚在江门台山的镇海湾——水质、盐度、藻类条件和沙井相近。到2002年，九成以上打着沙井蚝旗号的产品，实际养殖地已经不在沙井。\n\n陈沛忠是这门手艺的第三代传承人，做了五十多年蚝生意，现在仍在台山经营着一万亩蚝场。沙井本地留下的，是2009年建成的蚝文化博物馆、每年冬天的金蚝节，以及2022年被列入广东省级非物质文化遗产名录的沙井蚝生产习俗。",
+      "tryThis": "去附近菜市场或海鲜摊，买一斤本地生蚝，顺口问一句摊主蚝是从哪儿来的。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/%E6%B5%81%E6%B5%AE%E5%B1%B1%E8%A0%94%E6%8E%92.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Oyster_farmers_at_LFS_Fish_Market_2013.JPG",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "http://www.sz.gov.cn/szstory/202301/content/post_10394649.html",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-06",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/%E6%B5%81%E6%B5%AE%E5%B1%B1%E8%A0%94%E6%8E%92.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Chriskichau",
+          "page": "https://commons.wikimedia.org/wiki/File:流浮山蠔排.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Oyster_farmers_at_LFS_Fish_Market_2013.JPG",
+          "license": "CC BY-SA 3.0",
+          "author": "Wrightbus",
+          "page": "https://commons.wikimedia.org/wiki/File:Oyster_farmers_at_LFS_Fish_Market_2013.JPG",
+          "attributionRequired": true
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "沙井蚝养殖始于宋代，明代万历年间引入瓦片附着技术",
+          "source": "http://www.sz.gov.cn/szstory/202301/content/post_10394649.html"
+        },
+        {
+          "claim": "1970年代宝安蚝田超四万亩，年产七八万担，占广东全省产量一半以上",
+          "source": "https://news.qq.com/rain/a/20210524A09M9N00"
+        },
+        {
+          "claim": "1980年代因近海水质污染，蚝民陆续迁至台山镇海湾等地养殖",
+          "source": "https://news.qq.com/rain/a/20210524A09M9N00"
+        },
+        {
+          "claim": "2022年'沙井蚝生产习俗'列入广东省级非物质文化遗产名录",
+          "source": "https://news.qq.com/rain/a/20240301A02REO00"
+        },
+        {
+          "claim": "沙井蚝文化博物馆2009年建成，位于宝安区沙井街道",
+          "source": "https://www.dutenews.com/n/article/6776768"
+        }
+      ]
+    },
+    {
+      "id": "zigong-shenhai-well",
+      "scope": "中国",
+      "thesis": "手工凿一口井要花十几年，而它产盐产到今天，比很多机器还耐用。",
+      "title": "打了十几年的井，还在出盐",
+      "body": "燊海井在四川自贡，开凿于清道光年间，前后花了十几年，1835年正式完工，井深1001.42米——这是当时全世界第一口超过千米的井。凿井靠的不是机器，是人力加牛力的顿钻法：工人踩动木架上的碓架，把带凿头的钢钻一次次砸进岩层，再用竹竿接成的汲卤筒把地下的黑卤和天然气提上来。\n\n鼎盛时期，这口井每天能产近万立方米天然气、上万斤黑卤，配套的盐灶一度有八十多口锅同时熬盐，是自贡千年盐都最拿得出手的一处。\n\n更少见的是，它没有变成一处静止的古迹。今天的燊海井仍在产气产卤，天然气直接输送到灶房烧火，八口传统圆锅一天能熬出约两吨盐，游客也能自己动手摇一次老式的汲卤辘轳。这口井1988年被列为全国重点文物保护单位，2025年又与自贡另外十几处盐业遗址一起，被列入中国世界文化遗产预备名单。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Zigong_Shenhai_Jing_2014.04.23_18-50-09.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Shenhai_Well_%2846850630481%29.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "http://paper.people.com.cn/rmrbhwb/html/2019-10/08/content_1949221.htm",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "有力",
+      "verifiedAt": "2026-08-06",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Zigong_Shenhai_Jing_2014.04.23_18-50-09.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Zhangzhugang",
+          "page": "https://commons.wikimedia.org/wiki/File:Zigong_Shenhai_Jing_2014.04.23_18-50-09.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Shenhai_Well_%2846850630481%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "David Stanley",
+          "page": "https://commons.wikimedia.org/wiki/File:Shenhai_Well_(46850630481).jpg",
+          "attributionRequired": true
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "燊海井开凿于清道光年间，1835年完工，井深1001.42米，是当时世界第一口超千米深井",
+          "source": "https://zh.wikipedia.org/zh-hans/%E7%87%8A%E6%B5%B7%E4%BA%95"
+        },
+        {
+          "claim": "燊海井采用中国传统顿钻（冲击式）凿井法，人力畜力驱动",
+          "source": "https://www.amusingplanet.com/2026/07/the-ancient-salt-wells-of-zigong.html"
+        },
+        {
+          "claim": "如今燊海井仍在运转，天然气供八口传统圆锅熬盐，日产盐约两吨",
+          "source": "https://www.lvwo.com/dest/sichuan/zigong/20219.html"
+        },
+        {
+          "claim": "燊海井1988年被列为全国重点文物保护单位",
+          "source": "https://zh.wikipedia.org/zh-hans/%E7%87%8A%E6%B5%B7%E4%BA%95"
+        },
+        {
+          "claim": "2025年，燊海井等自贡盐业遗址被列入中国世界文化遗产预备名单",
+          "source": "https://zigong.scol.com.cn/zigong.scol.com.cn/202502/82907611.html"
+        }
+      ]
+    },
+    {
+      "id": "coopers-hill-cheese-chase",
+      "scope": "全球",
+      "thesis": "没有主办方、没有安全绳，格洛斯特郡的人还是年年追这块奶酪。",
+      "title": "追一块奶酪滚下山坡",
+      "body": "英国格洛斯特郡的库珀山，每年五月的最后一个周一都会发生同一件事：一个七八斤重的双料格洛斯特奶酪被人从山顶推下去，几十号人紧跟着往下追，谁先冲过终点谁赢，奖品就是那块奶酪本身。山坡接近一比二的坡度，奶酪滚起来时速能到一百公里以上，追的人几乎没有不摔的。\n\n这项活动最早的文字记录出现在1836年的地方报纸上，当地人相信它比这更老，但具体多老没人说得准。2010年之前它还有正式组织方，那一年因为观众太多——山坡最多容五千人，却来了一万五千人——主办方以安全为由取消了官方活动，此后再没有恢复。\n\n但每年还是有人办。没有组织委员会，没有警方许可，圣约翰急救队2012年撤出后医疗保障也没再回来，全靠当地志愿者自发组织，一年一次，雷打不动。2023年有六名参赛者因伤被救护车送医，2026年5月，德国选手Tom Kopke连续第三年拿下男子组冠军。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cheese_Rolling_2006_-_Chris_Anderson_leading_the_3rd_men%27s_downhill_race.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-06",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Dave Farrance",
+          "page": "https://commons.wikimedia.org/wiki/File:A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake,_on_Cooper%27s_Hill,_Brockworth,_Gloucestershire,_on_27_May_2013.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cheese_Rolling_2006_-_Chris_Anderson_leading_the_3rd_men%27s_downhill_race.jpg",
+          "license": "CC BY 2.0",
+          "author": "Michael Warren",
+          "page": "https://commons.wikimedia.org/wiki/File:Cheese_Rolling_2006_-_Chris_Anderson_leading_the_3rd_men%27s_downhill_race.jpg",
+          "attributionRequired": true
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "现存最早文字记录见于1836年6月9日的地方报纸",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        },
+        {
+          "claim": "库珀山坡度约50%（约1比2），奶酪滚下时速可达约112公里",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        },
+        {
+          "claim": "2010年后活动失去官方组织方，2012年圣约翰急救队撤出医疗保障",
+          "source": "https://www.bbc.co.uk/news/uk-england-gloucestershire-18322060"
+        },
+        {
+          "claim": "2023年活动中六名参赛者因伤被救护车送医",
+          "source": "https://www.bbc.co.uk/news/uk-england-gloucestershire-65776772"
+        },
+        {
+          "claim": "2026年5月25日，德国选手Tom Kopke连续第三年获得男子组冠军",
+          "source": "https://euroweeklynews.com/2026/05/25/german-youtuber-tom-kopke-beats-local-rival-in-wild-coopers-hill-cheese-rolling-chaos/"
+        }
+      ]
+    },
+    {
+      "id": "oymyakon-cold-pole",
+      "scope": "全球",
+      "thesis": "零下五十度是日常，让人留下的不是坚强，是习惯了。",
+      "title": "全世界最冷的常住村子",
+      "body": "奥伊米亚康在俄罗斯萨哈共和国，是地球上有确切气象记录、常年有人居住的最冷地方之一。1933年2月6日，这里测到零下67.7摄氏度，是官方认可的亚洲最低气温纪录；村里另立着一块纪念碑，标着1924年测到过零下71.2度，但那个数字没有按气象组织的标准测量，算不上正式纪录。\n\n冬天车子从不熄火——一旦停下，发动机和机油会直接冻住，很难再打着。地下是永久冻土，没法埋自来水管，家家户户用旱厕，靠一座烧煤的锅炉房把热水管通到各家取暖。学校有明确的停课线：气温低于零下52度，低年级学生就不用上学了。\n\n这里还养着一种雅库特马，不进马厩，零下70度也待在野外，靠自己刨开雪找草吃。村子常住人口约500人，主要靠驯鹿养殖、捕鱼和皮毛贸易维生。当地从2001年起每年办一次冷极节，游客可以买到一张冷极证书当纪念。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Oymyakon_-_190228_DSC_5736.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_Yakutian_horse_%289762345674%29.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Oymyakon",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "独特",
+      "verifiedAt": "2026-08-06",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Oymyakon_-_190228_DSC_5736.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Ilya Varlamov",
+          "page": "https://commons.wikimedia.org/wiki/File:Oymyakon_-_190228_DSC_5736.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_Yakutian_horse_%289762345674%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Maarten Takens",
+          "page": "https://commons.wikimedia.org/wiki/File:A_Yakutian_horse_(9762345674).jpg",
+          "attributionRequired": true
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "奥伊米亚康1933年2月6日测得零下67.7摄氏度，为官方认可的亚洲最低气温纪录",
+          "source": "https://en.wikipedia.org/wiki/Oymyakon"
+        },
+        {
+          "claim": "村内纪念碑标注1924年测得零下71.2度，但该数据未按气象组织标准测量，非官方纪录",
+          "source": "https://www.guinnessworldrecords.com/world-records/lowest-temperature-inhabited"
+        },
+        {
+          "claim": "当地学校气温低于零下52度时，低年级学生停课",
+          "source": "https://www.odditycentral.com/news/at-the-pole-of-cold-the-only-school-closes-when-temperatures-drop-under-52-celsius.html"
+        },
+        {
+          "claim": "雅库特马是当地特有马种，可在零下70度左右的野外自行刨雪觅食",
+          "source": "https://en.wikipedia.org/wiki/Yakutian_horse"
+        },
+        {
+          "claim": "奥伊米亚康常住人口约500人，当地从2001年起每年举办冷极节",
+          "source": "https://en.wikivoyage.org/wiki/Oymyakon"
+        }
+      ]
+    }
+  ]
+}
