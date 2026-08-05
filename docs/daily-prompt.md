@@ -121,6 +121,25 @@ ESA 横幅的室内办公室,大芬第二张原本是城中村航拍——两张
 顺序反了会出现「manifest 说有今天,但文件还没推上去」的窗口,app 会拉到 404。
 一次 commit,git 的原子性就兜住了。
 
+### push 失败的兜底(2026-08-05 踩出来的)
+
+`GH_PAT` 在这个环境里 push 会被 GitHub 拒绝(`403 Permission ... denied to <user>`)——
+这是 fine-grained PAT 缺 `Contents: Read and write` 权限时的标准报错,和账号本身
+是不是 admin 无关(`/repos/{owner}/{repo}` 那个 `permissions` 字段反映的是账号角色,
+不是这个 token 自己被授予的权限,两者可能不一致)。**排查步骤**:
+
+1. 先确认不是代理拦的:`curl -sS http://127.0.0.1:46425/__agentproxy/status`,
+   看 `recentRelayFailures` 是不是空的。空的说明请求真的到了 GitHub,是 GitHub
+   自己拒绝的,不是环境网络策略挡的
+2. 是 GitHub 拒绝的话,重试没用——**只试一次 push,失败就停**,不要在 403 上循环重试
+
+试过一次仍失败,就转成本地交付:
+
+1. `git format-patch -1 <commit>` 把这次的 commit 打成一个 patch 文件
+2. 用 SendUserFile 发给用户,附上 `git am <patch> && git push` 的操作说明
+3. 发一条 push notification 告诉用户「内容写好了但没能推上去,需要本地 push 或修
+   token 权限」——不要在 push 失败的情况下假装完成了任务
+
 ## 6 · 发完自查
 
 对照契约逐条核:字数区间、`scope`/`category`/`tone` 取值合法、`tryThis` ≤ 1 条、
