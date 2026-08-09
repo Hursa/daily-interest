@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T07:30:00+08:00",
+  "items": [
+    {
+      "id": "keukenhof-eight-weeks",
+      "scope": "全球",
+      "thesis": "一年365天只开8周，库肯霍夫选择彻底关门，而不是勉强开着。",
+      "title": "一年只开八周的花园",
+      "body": "荷兰南荷兰省的小镇里瑟，有一座叫库肯霍夫的公园。1949年，当地一批球茎种植商和出口商发起了一场露天花展，想借此打开这些花卉的出口市场，这就是它的起点。公园占地32公顷。\n\n每年10月初，40名园丁开始把700多万颗花球茎一颗颗埋进土里，球茎由100多家种植商捐赠，通常要种到12月初才能种完。等到第二年3月，埋下去的郁金香、风信子、水仙陆续冒头，加上百合、玫瑰、康乃馨，一共上百个品种。园区里还有四座常设展馆，专门用来展示球茎种植商送来评比的新培育品种。\n\n它不是一座常年开放的公园。一年里的44周，大门锁着，草坪空着；只有3月中旬到5月中旬这八周，人们才能进去。花期一过，公园关门，剩下的球茎清走，来年秋天重新种一批。它不接受政府补贴，门票收入和企业赞助是运营的全部来源。\n\n2025年的八周开放期里，库肯霍夫接待了约140万名游客，平均每天2.6万人次。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flowers_%40_Keukenhof_%2817185606951%29.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Historical_garden_%40_Keukenhof_%2816978453927%29.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://keukenhof.nl/en/about-keukenhof/",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-10",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flowers_%40_Keukenhof_%2817185606951%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "Guilhem Vellut from Annecy, France",
+          "page": "https://commons.wikimedia.org/wiki/File:Flowers_@_Keukenhof_(17185606951).jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Historical_garden_%40_Keukenhof_%2816978453927%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "Guilhem Vellut from Annecy, France",
+          "page": "https://commons.wikimedia.org/wiki/File:Historical_garden_@_Keukenhof_(16978453927).jpg",
+          "attributionRequired": true
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "库肯霍夫公园由荷兰球茎种植商和出口商于1949年发起，占地32公顷，位于南荷兰省里瑟镇",
+          "source": "https://keukenhof.nl/en/about-keukenhof/"
+        },
+        {
+          "claim": "每年约700万颗花卉球茎由100余家种植商捐赠，40名园丁自10月初开始种植，通常12月初完成",
+          "source": "https://en.wikipedia.org/wiki/Keukenhof"
+        },
+        {
+          "claim": "公园每年仅开放8周，2026年开放时间为3月19日至5月10日",
+          "source": "https://debollenstreek.com/activities/keukenhof-2026-complete-visitor-guide/"
+        },
+        {
+          "claim": "2025年库肯霍夫接待游客约140万人次，平均每天约2.65万人",
+          "source": "https://en.wikipedia.org/wiki/Keukenhof"
+        }
+      ]
+    },
+    {
+      "id": "finland-sauna-culture",
+      "scope": "全球",
+      "thesis": "桑拿在芬兰不是度假项目，是国家默认所有人每周都会做的事。",
+      "title": "320万个桑拿房，什么概念",
+      "body": "桑拿（sauna）这个词直接来自芬兰语，是极少数原样进了英语词典的芬兰语词汇之一。芬兰全国人口约550万，登记在案的桑拿房大约320万个，平均下来不到两个人就有一间。它出现在公寓楼、乡间木屋，也出现在办公楼的地下室。\n\n传统烧法是把石头堆在炉子上烧热，浇水上去激出蒸汽，芬兰语管这叫löyly。没有统一的时长和温度标准，各家凭经验掌握，常见的是七八十摄氏度上下。桑拿之后跳进湖里或雪地里冷一下，是常见的收尾动作，冷热交替才算完整走完一趟。\n\n城里的公共桑拿在1950年代之后大量关门，这些年又冒出一批对外营业的新馆子，赫尔辛基海边就有好几家，谁买票都能进去用。对本地人来说，这不是特意安排的度假项目，是过日子的固定一环。\n\n2020年12月17日，联合国教科文组织把“芬兰桑拿文化”列入人类非物质文化遗产代表作名录，是芬兰第一个入选该名录的项目。",
+      "tryThis": "把家里花洒的水温调到你能忍受的最热，冲够五分钟，再出门或到阳台吹一会冷风。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/OuluL%C3%B6yly.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Clarion_Hotel_Helsinki%2C_Sauna%2C_20231215_-_03.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-10",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/OuluL%C3%B6yly.jpg",
+          "license": "CC0",
+          "author": "Troppone",
+          "page": "https://commons.wikimedia.org/wiki/File:OuluL%C3%B6yly.jpg",
+          "attributionRequired": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Clarion_Hotel_Helsinki%2C_Sauna%2C_20231215_-_03.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "AleWi",
+          "page": "https://commons.wikimedia.org/wiki/File:Clarion_Hotel_Helsinki,_Sauna,_20231215_-_03.jpg",
+          "attributionRequired": true
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "芬兰约有320万个桑拿房，全国人口约550万",
+          "source": "https://valtioneuvosto.fi/en/-/1410845/finland-s-sauna-culture-inscribed-on-unesco-intangible-cultural-heritage-list"
+        },
+        {
+          "claim": "近九成芬兰人每周至少桑拿一次",
+          "source": "https://valtioneuvosto.fi/en/-/1410845/finland-s-sauna-culture-inscribed-on-unesco-intangible-cultural-heritage-list"
+        },
+        {
+          "claim": "2020年12月17日，芬兰桑拿文化列入联合国教科文组织人类非物质文化遗产代表作名录，是芬兰首个入选该名录的项目",
+          "source": "https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596"
+        }
+      ]
+    },
+    {
+      "id": "saturation-diving-28-days",
+      "scope": "全球",
+      "thesis": "对饱和潜水员来说，真正的极限不是下潜多深，是憋着压力等出水的那几天。",
+      "title": "潜水员在海底，一次住28天",
+      "body": "饱和潜水是一种让潜水员在深海长时间作业的技术。人体组织吸收惰性气体到饱和之后，不管在水下待一天还是十五天，体内气体含量都不会再增加——这意味着减压时间是固定的，不会因为多干几天活而变长。这个原理最早由两名研究者在1938年通过一次101英尺、27小时的实验潜水验证。\n\n具体做法是：潜水员住进停靠在海面船只上的加压生活舱，把舱内气压调到和作业深度的水压一致，一住往往接近一个月——按北海通行的行业标准，单次饱和潜水时长上限是28天。工作时他们乘潜水钟下潜到作业深度，干完活回到钟里，被吊回连接生活舱的母船。\n\n真正的极限在出水那一步。大致每30米水深要算一天减压时间，再加一天余量：从180米深处的饱和状态回到水面，减压过程要七天半左右，期间只能待在舱里，一点点降低压力，靠呼吸含氧量更高的气体把体内惰性气体慢慢排出去。\n\n1969年北海埃科菲斯克油田投产后，饱和潜水成了海底管道施工和维护的主力方式；到2017年，北海约八成的潜水作业采用氦氧饱和潜水法。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pressurised_Chambers_for_Divers.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hyperbaric_escape_module_20151203_133649.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Saturation_diving",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-08-10",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pressurised_Chambers_for_Divers.jpg",
+          "license": "CC BY 2.0",
+          "author": "Soham Banerjee",
+          "page": "https://commons.wikimedia.org/wiki/File:Pressurised_Chambers_for_Divers.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hyperbaric_escape_module_20151203_133649.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Peter Southwood",
+          "page": "https://commons.wikimedia.org/wiki/File:Hyperbaric_escape_module_20151203_133649.jpg",
+          "attributionRequired": true
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "人体组织吸收惰性气体饱和后，水下停留1天或15天所需减压时间相同；这一原理由Edgar End和Max Nohl于1938年通过101英尺、27小时的实验潜水验证",
+          "source": "https://en.wikipedia.org/wiki/Saturation_diving"
+        },
+        {
+          "claim": "北海行业标准将单次饱和潜水时长上限定为28天",
+          "source": "https://en.wikipedia.org/wiki/Saturation_diving"
+        },
+        {
+          "claim": "从180米深度减压回到水面约需7.5天，减压速率约为每小时3-6英尺",
+          "source": "https://www.harcanmarine.com/post/deep-saturation-diving/"
+        },
+        {
+          "claim": "1969年北海Ekofisk油田投产后，饱和潜水成为海底设施建设维护的核心作业方式；到2017年，北海约80%的潜水作业为氦氧饱和潜水",
+          "source": "https://en.wikipedia.org/wiki/Saturation_diving"
+        }
+      ]
+    },
+    {
+      "id": "yixing-zisha-teapot",
+      "scope": "中国",
+      "thesis": "紫砂壶好不好，不看烧了多少年，看泥片有没有用手一片片拍出来。",
+      "title": "紫砂壶不是模具倒出来的",
+      "body": "江苏宜兴丁蜀镇一带，早在宋元年间就有人用当地一种含铁量高的陶土做器皿，这种土烧出来呈紫红色，叫紫砂。真正做成今天这种小茶壶，是在明代中期，金沙寺的僧人先做出了雏形。\n\n供春是文献里最早留下名字的紫砂壶匠人，他本是官宦人家的书童，陪主人在金沙寺读书时跟寺里老僧学了做壶，传下一把“树瘿壶”。后来的时大彬进一步改掉了早期借助模具成型的做法，确立了“打身筒”“镶身筒”——用木拍子把泥片一下下拍打成型，再镶接起来。这套手法沿用至今，是现存唯一以泥片手工拍打镶接成形的传统制陶技艺。\n\n一把全手工壶，从打泥片、镶身筒、装嘴装把到最后精修，一个熟练匠人做一把也要好几天，中间任何一步出错基本得从头再来。机器灌浆能把这个过程压缩到几十分钟，但业内公认全手工壶的透气性和长期使用后的包浆效果，是灌浆壶达不到的。\n\n2006年5月20日，宜兴紫砂陶制作技艺被国务院列入第一批国家级非物质文化遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Making_a_traditional_yixing_teapot.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Yixing_ware_teapot_and_Lapsang_tea.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "http://paper.people.com.cn/rmrbhwb/html/2024-07/16/content_26069335.htm",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-08-10",
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Making_a_traditional_yixing_teapot.jpg",
+          "license": "CC BY 2.0",
+          "author": "quinn norton",
+          "page": "https://commons.wikimedia.org/wiki/File:Making_a_traditional_yixing_teapot.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Yixing_ware_teapot_and_Lapsang_tea.jpg",
+          "license": "CC0",
+          "author": "Markus Kniebes",
+          "page": "https://commons.wikimedia.org/wiki/File:Yixing_ware_teapot_and_Lapsang_tea.jpg",
+          "attributionRequired": false
+        }
+      ],
+      "_facts": [
+        {
+          "claim": "宜兴丁蜀镇一带紫砂陶技艺始于宋元，成熟于明代，是现存唯一以泥片手工拍打镶接成形的传统制陶技艺",
+          "source": "https://www.yixing.gov.cn/doc/2020/09/29/886934.shtml"
+        },
+        {
+          "claim": "时大彬确立了打身筒、镶身筒等泥片镶接成形技法，取代早期借助模具的制壶方式",
+          "source": "https://chenpot.com/sdb-gong-xian.html"
+        },
+        {
+          "claim": "2006年5月20日，宜兴紫砂陶制作技艺被国务院列入第一批国家级非物质文化遗产名录",
+          "source": "https://www.mct.gov.cn/whzx/ggtz/200606/t20060609_694679.htm"
+        }
+      ]
+    }
+  ]
+}
