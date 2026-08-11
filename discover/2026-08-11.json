@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T07:34:00+08:00",
+  "items": [
+    {
+      "id": "shenzhen-guomao-revolving-restaurant",
+      "scope": "深圳",
+      "thesis": "一栋楼有没有过时，看它顶楼那间屋子还转不转。",
+      "title": "这家餐厅转了四十年",
+      "body": "深圳国际贸易中心大厦一九八二年四月动工，一九八四年四月三十日主楼封顶，最快的时候三天盖起一层楼，这个速度后来被叫做深圳速度。大厦五十三层，高一百六十米，一九八五年底建成投入使用。\n\n顶楼往下数的第四十九层，一九八六年四月二十五日开出一家旋转餐厅，是当时全国第一家会转的餐厅。餐厅里侧直径三十四米四，绕轴心转一整圈大约要一个小时，坐下来吃一顿饭的工夫，深圳四面的景色会从窗外挨个转过去一遍。\n\n一九九二年一月二十日，邓小平在这里发表了三十多分钟的讲话，此后这里陆续接待过六百多位国家领导人和外国政要。深圳后来盖出比它高得多的楼，国贸大厦不再是第一高楼，但顶层那间屋子没有停下来。二〇一八年八月十日，中国第一张区块链电子发票，就是在这家旋转餐厅开出的。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Guomao_Building_in_Shenzhen2021.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E5%9C%8B%E8%B2%BF%E5%A4%A7%E5%BB%88_Guomao_Building_%E6%B7%B1%E5%9C%B3%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6_International_Foreign_Trade_Center_%E6%AD%B7%E5%8F%B2%E5%B1%95%E8%A6%BD_exhibition_hall_n_%E5%9C%8B%E8%B2%BF%E6%97%8B%E8%BD%89%E9%A4%90%E5%BB%B3_Revolving_Restaurant_April_2023_Px3.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "http://www.sznews.com/news/content/2019-04/30/content_21708287.htm",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-11",
+      "_facts": [
+        {
+          "claim": "深圳国贸大厦最快三天建成一层楼，创造当时国内高层建筑纪录，是深圳速度的代名词",
+          "source": "http://paper.people.com.cn/rmrbhwb/html/2017-05/25/content_1777368.htm"
+        },
+        {
+          "claim": "国贸旋转餐厅位于大厦第49层，1986年4月25日开业，是全国第一家旋转餐厅",
+          "source": "http://www.sznews.com/news/content/2019-04/30/content_21708287.htm"
+        },
+        {
+          "claim": "1992年1月20日，邓小平在国贸旋转餐厅发表重要谈话",
+          "source": "http://www.sznews.com/news/content/2019-04/30/content_21708287.htm"
+        },
+        {
+          "claim": "2018年8月10日，中国第一张区块链电子发票在深圳国贸旋转餐厅开出",
+          "source": "http://www.sznews.com/news/content/2019-04/30/content_21708287.htm"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Guomao_Building_in_Shenzhen2021.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Charlie fong",
+          "page": "https://commons.wikimedia.org/wiki/File:Guomao_Building_in_Shenzhen2021.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E5%9C%8B%E8%B2%BF%E5%A4%A7%E5%BB%88_Guomao_Building_%E6%B7%B1%E5%9C%B3%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6_International_Foreign_Trade_Center_%E6%AD%B7%E5%8F%B2%E5%B1%95%E8%A6%BD_exhibition_hall_n_%E5%9C%8B%E8%B2%BF%E6%97%8B%E8%BD%89%E9%A4%90%E5%BB%B3_Revolving_Restaurant_April_2023_Px3.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Zhdcuwm MEIONRUPAA",
+          "page": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E5%9C%8B%E8%B2%BF%E5%A4%A7%E5%BB%88_Guomao_Building_%E6%B7%B1%E5%9C%B3%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6_International_Foreign_Trade_Center_%E6%AD%B7%E5%8F%B2%E5%B1%95%E8%A6%BD_exhibition_hall_n_%E5%9C%8B%E8%B2%BF%E6%97%8B%E8%BD%89%E9%A4%90%E5%BB%B3_Revolving_Restaurant_April_2023_Px3.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "xian-guyue-still-played",
+      "scope": "西安",
+      "thesis": "乐谱记的是骨架，血肉还得从一个老艺人嘴里，一句一句喂给下一个人。",
+      "title": "这段曲谱，口传了一千年",
+      "body": "西安鼓乐起于隋唐，流传在以长安为中心的关中平原，一千多年没有断过。乐谱用的是唐代传下来的半字谱，符号和现在通行的简谱、五线谱都不一样，光看谱子认不出调子，得跟着老艺人一句一句学，谱子只是提醒，真正的旋律装在人的记忆里，靠口传心授往下递。\n\n清末民初是最兴旺的时候，光是西安城里大大小小的乐社就有五十多家，逢年过节、婚丧嫁娶都要请乐社去吹奏一场。到今天，西安周边还保留着六个百年以上的老鼓乐社，社里的乐器、谱本、演奏的规矩，都是一代一代传下来的原样。\n\n过去传承定的规矩是传男不传女、传内不传外，学的人一少，会的人一断代就散了。二〇〇四年，东仓鼓乐社第一个打破这条老规矩，开始在周边乡村免费招收孩子学吹打，不再分男女，也不再看是不是本村人。二〇〇九年，西安鼓乐被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E6%AD%A5%E6%AD%A5%E5%A8%87%E3%80%8B_01.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/10945.html",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-11",
+      "_facts": [
+        {
+          "claim": "西安鼓乐源起隋唐，是保存最完整的大型民间器乐乐种之一，被称为中国古代音乐的活化石",
+          "source": "https://www.ihchina.cn/project_details/10945.html"
+        },
+        {
+          "claim": "西安周边现存六个百年以上的鼓乐社，清末民初西安城里曾有五十余家乐社",
+          "source": "https://baike.baidu.com/item/%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90/8412775"
+        },
+        {
+          "claim": "2004年东仓鼓乐社打破传男不传女、传内不传外的旧规，开始在乡村免费招收少儿学习",
+          "source": "http://www.news.cn/local/2022-08/02/c_1128883760.htm"
+        },
+        {
+          "claim": "2006年西安鼓乐列入首批国家级非遗名录，2009年被列入联合国教科文组织人类非物质文化遗产代表作名录",
+          "source": "https://www.ihchina.cn/project_details/10945.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Liuxingy",
+          "page": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E6%AD%A5%E6%AD%A5%E5%A8%87%E3%80%8B_01.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Liuxingy",
+          "page": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E6%AD%A5%E6%AD%A5%E5%A8%87%E3%80%8B_01.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "suzhou-pingtan-teahouse-book",
+      "scope": "中国",
+      "thesis": "一部长篇能说三个月，评弹靠的不是记性好，是把故事拆成了能演一辈子的手艺。",
+      "title": "书场里，一坐就是一下午",
+      "body": "苏州评弹是评话和弹词的合称，用苏州话说书，一人或两人搭档，一把三弦一把琵琶，唱几句、说一段，中间穿插评点，行话叫说噱弹唱。清乾隆年间，艺人王周士创立了评弹史上第一个行会光裕公所，后来改名光裕社，社址在苏州第一天门八号，如今是苏州评弹团的所在地。\n\n评弹最早就是在茶馆里说的，叫茶馆书场，上午卖茶，下午晚上说书，一部长篇书，比如珍珠塔、玉蜻蜓，能连着说上两三个月，每天一折，听客今天没听完，明天接着来。学艺的人要跟着师傅走码头，师傅在台上说，徒弟在台下看，端茶递水、打点杂事，几年下来才能自己上台。\n\n现在苏州老城里还有十几家书场天天开档，长三角一带有几十个专业团体、几百位演员在演出。二〇〇四年，苏州评弹博物馆挂牌成立，馆里存着历代艺人用过的三弦、琵琶和手抄的唱本。",
+      "tryThis": "去一家评弹书场，泡一碗茶，坐满一折书的时间，中途不要离场。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Suzhou_Pingtan_Museum_of_China_20180420_01.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Suzhou_Pingtan_Museum_of_China_20180420_08.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://zh.wikipedia.org/zh-hans/%E8%AF%84%E5%BC%B9",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "独特",
+      "verifiedAt": "2026-08-11",
+      "_facts": [
+        {
+          "claim": "清乾隆年间，评弹艺人王周士创立光裕公所（后称光裕社），是评弹史上第一个行会",
+          "source": "https://www.szlib.com/DR/SuzhouForums/Content/348"
+        },
+        {
+          "claim": "光裕社社址在苏州第一天门八号，现为苏州评弹团所在地",
+          "source": "https://www.szlib.com/DR/SuzhouForums/Content/348"
+        },
+        {
+          "claim": "评弹最早的表演场所是茶馆兼营的茶馆书场，起源于清中晚期，上午卖茶，下午晚上说书",
+          "source": "https://www.ihchina.cn/project_details/13583.html"
+        },
+        {
+          "claim": "2004年苏州评弹博物馆挂牌成立",
+          "source": "https://zh.wikipedia.org/zh-hans/%E8%AF%84%E5%BC%B9"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Suzhou_Pingtan_Museum_of_China_20180420_01.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Ohtashinichiro",
+          "page": "https://commons.wikimedia.org/wiki/File:Suzhou_Pingtan_Museum_of_China_20180420_01.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Suzhou_Pingtan_Museum_of_China_20180420_08.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Ohtashinichiro",
+          "page": "https://commons.wikimedia.org/wiki/File:Suzhou_Pingtan_Museum_of_China_20180420_08.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "mount-athos-avaton-rule",
+      "scope": "全球",
+      "thesis": "阿索斯山不是靠信念守着这条界线，是靠一千多年没有一次被允许破例。",
+      "title": "这座山，女人进不去",
+      "body": "阿索斯山在希腊北部一处狭长的半岛上，公元九六三年，修士阿塔纳修斯在这里建起大拉夫拉修道院，得到拜占庭皇帝的支持，从此这片山地陆续聚起二十座主要修道院，形成一个自己管理自己的修道共和国，至今仍是希腊境内的一块自治区域。\n\n这里最硬的一条规矩叫阿瓦顿，禁止女性踏入这片土地。这条禁令由拜占庭皇帝查士丁尼在公元五三九年正式确立，之后延续了一千四百多年，中间希腊几次有人提议松动，都没能改成。现在整片山地只对男性开放，连雌性的家畜、家禽也在禁止之列，唯独猫可以进，因为要靠猫抓修道院粮仓里的老鼠。\n\n想进山的人得先申请一张叫第亚莫尼提利安的通行证，每天限量发放，东正教徒一天最多一百个名额，非东正教徒只有十个。女性游客想看这些修道院，只能坐船停在离岸五百米以外的海面上远远望一眼。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Great_Lavra_%283940478598%29.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Athos_Megisti_Lavra_St.Athanasios_1000_year_old_churchyard_tree.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Mount_Athos",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "有力",
+      "verifiedAt": "2026-08-11",
+      "_facts": [
+        {
+          "claim": "公元963年，修士阿塔纳修斯建立大拉夫拉修道院，标志阿索斯山修道共同体组织化的开端",
+          "source": "https://en.wikipedia.org/wiki/Mount_Athos"
+        },
+        {
+          "claim": "阿索斯山由二十座主要修道院组成，作为希腊境内的自治修道共和国",
+          "source": "https://en.wikipedia.org/wiki/Mount_Athos"
+        },
+        {
+          "claim": "阿瓦顿禁令由拜占庭皇帝查士丁尼于公元539年正式确立，禁止女性进入阿索斯山",
+          "source": "https://athos.guide/en/blog/athos-avaton"
+        },
+        {
+          "claim": "目前每天仅允许约100名东正教香客和10名非东正教香客凭通行证入内，女性只能在离岸500米外的船上远观",
+          "source": "https://athos.guide/en/blog/athos-avaton"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Great_Lavra_%283940478598%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "Dave Proffer",
+          "page": "https://commons.wikimedia.org/wiki/File:Great_Lavra_(3940478598).jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Athos_Megisti_Lavra_St.Athanasios_1000_year_old_churchyard_tree.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Scheinecker",
+          "page": "https://commons.wikimedia.org/wiki/File:Athos_Megisti_Lavra_St.Athanasios_1000_year_old_churchyard_tree.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
