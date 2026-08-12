@@ -1,0 +1,243 @@
+{
+  "schema": 1,
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T07:35:29+08:00",
+  "items": [
+    {
+      "id": "mumbai-dabbawala-lunch-code",
+      "scope": "全球",
+      "thesis": "达巴瓦拉的准确不是算法给的，是一套比GPS早一百年的人力分拣系统给的。",
+      "title": "送饭人不用手机，只认代号",
+      "body": "1890年，一个叫马哈德奥·哈瓦吉·巴奇的人在孟买把大约一百个送饭人组织起来，专门负责把家里做好的午饭，赶在中午前送到写字楼职员手里。孟买的火车通勤时间长，来回一趟不可能回家吃饭，也没人愿意天天吃食堂，这门生意就这样立住了。\n\n送饭人叫达巴瓦拉，达巴指的是那种叠层饭盒。系统不靠任何技术：每个饭盒盖子上写着几个字母、数字和颜色标记，分别代表取餐点、要送去的火车站和写字楼楼层。达巴瓦拉的平均识字水平大约相当于八年级，但认得这套代号——饭盒在火车站被换手好几次，靠的全是这套标记和人力，不是电话，也不是App。\n\n这套系统由1956年注册的Nutan孟买饭盒供应商信托会管理，1968年又成立了负责日常运营的孟买饭盒供应商协会。今天大约4500到5000名达巴瓦拉，每个工作日要送出17.5万到20万份午饭。2003年，时任英国王储查尔斯到孟买访问时专程去车站见过他们；2005年他与卡米拉在伦敦举行婚礼，孟买信托会的代表被邀请到场。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dabbawala%2C_Mumbai%2C_India_%2852822285094%29.jpg/960px-Dabbawala%2C_Mumbai%2C_India_%2852822285094%29.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dabbawallah_bicycle.jpg/960px-Dabbawallah_bicycle.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Dabbawala",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-13",
+      "_facts": [
+        {
+          "claim": "达巴瓦拉送饭系统由马哈德奥·哈瓦吉·巴奇于1890年在孟买创立，最初约有一百名送饭人",
+          "source": "https://en.wikipedia.org/wiki/Dabbawala"
+        },
+        {
+          "claim": "如今约4500至5000名达巴瓦拉，每个工作日运送17.5万至20万份午饭",
+          "source": "https://en.wikipedia.org/wiki/Dabbawala"
+        },
+        {
+          "claim": "达巴瓦拉的平均识字水平约相当于八年级，饭盒靠颜色和字母数字标记分拣，不依赖书面地址",
+          "source": "https://en.wikipedia.org/wiki/Dabbawala"
+        },
+        {
+          "claim": "这套系统的慈善信托1956年注册为Nutan孟买饭盒供应商信托会，商业机构孟买饭盒供应商协会1968年注册成立",
+          "source": "https://en.wikipedia.org/wiki/Dabbawala"
+        },
+        {
+          "claim": "2005年查尔斯王子与卡米拉在伦敦举行婚礼，孟买达巴瓦拉信托会代表受邀出席",
+          "source": "https://en.wikipedia.org/wiki/Dabbawala"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dabbawala%2C_Mumbai%2C_India_%2852822285094%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "Ninara",
+          "page": "https://commons.wikimedia.org/wiki/File:Dabbawala,_Mumbai,_India_(52822285094).jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dabbawallah_bicycle.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Bernard Gagnon",
+          "page": "https://commons.wikimedia.org/wiki/File:Dabbawallah_bicycle.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "hongkong-tram-largest-fleet",
+      "scope": "中国",
+      "thesis": "电车没有跟地铁比快，反而把规模做到了全世界现存双层电车队里最大的一支。",
+      "title": "全世界最大的双层电车队",
+      "body": "1904年7月30日，香港电车通车，运营方是在英国注册的香港电车电力有限公司，第一批车只有26辆单层车厢。电车司机脚下踩一个脚踏铃铛提醒行人和其他车辆，两声连响，\"叮、叮\"，香港人后来就直接管它叫叮叮车。\n\n今天电车公司拥有165辆车，除了两辆古董车和一辆开篷观光车，其余全部是双层车厢——电车公司称这是全世界现存规模最大、仍在运营的双层电车队。线路沿香港岛北岸铺了大约30公里轨道，从坚尼地城开到筲箕湾，中间还有一条通往跑马地的支线，全程约120个站，平均每250米一个。\n\n电车1974年由九龙仓集团接手，2009年法国的威立雅运输与巴黎大众运输的合资公司拿下50%股权，2010年收购剩余股权，现在的运营方是隶属法国的RATP Dev。2025年5月12日起电车票价上调，成人票由3港元涨到3.3港元，不论坐多远都是这个价钱，这是2022年以来的第一次调价。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/13-08-09-hongkong-by-RalfR-023.jpg/960px-13-08-09-hongkong-by-RalfR-023.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hong_Kong_Tramways_2_to_Shek_Tong_Tsui_04-07-2026.jpg/960px-Hong_Kong_Tramways_2_to_Shek_Tong_Tsui_04-07-2026.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.hktramways.com/en/about-hong-kong-tramways",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-13",
+      "_facts": [
+        {
+          "claim": "香港电车1904年7月30日通车，运营方为在英国注册的香港电车电力有限公司，首批投入26辆单层车",
+          "source": "https://en.wikipedia.org/wiki/Hong_Kong_Tramways"
+        },
+        {
+          "claim": "电车公司现有165辆车（含2辆古董车、1辆开篷观光车），官方称之为全世界现存规模最大的双层电车队",
+          "source": "https://www.hktramways.com/en/about-hong-kong-tramways"
+        },
+        {
+          "claim": "电车线路沿香港岛北岸从坚尼地城到筲箕湾，加上跑马地支线，全长约30公里，约120个站",
+          "source": "https://en.wikipedia.org/wiki/Hong_Kong_Tramways"
+        },
+        {
+          "claim": "威立雅运输与巴黎大众运输的合资公司2009年取得电车公司50%股权，2010年收购剩余股权",
+          "source": "https://en.wikipedia.org/wiki/Hong_Kong_Tramways"
+        },
+        {
+          "claim": "2025年5月12日起电车成人票价由3港元上调至3.3港元，为2022年以来首次调价",
+          "source": "https://www.hktramways.com/en/schedules-fares"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/13-08-09-hongkong-by-RalfR-023.jpg",
+          "license": "CC BY 3.0 / GFDL 1.2+",
+          "author": "Ralf Roletschek",
+          "page": "https://commons.wikimedia.org/wiki/File:13-08-09-hongkong-by-RalfR-023.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hong_Kong_Tramways_2_to_Shek_Tong_Tsui_04-07-2026.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "LN9267",
+          "page": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Tramways_2_to_Shek_Tong_Tsui_04-07-2026.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "svalbard-seed-vault-withdrawal",
+      "scope": "全球",
+      "thesis": "它为应对最坏的情况而建，而最坏的情况——战争——已经让它被真正启用过一次。",
+      "title": "为末日建的库，已经用过一次",
+      "body": "斯瓦尔巴全球种子库2008年2月26日启用，建在挪威斯瓦尔巴群岛朗伊尔城附近的一座砂岩山体里。存储库入口选在海拔130米处，往山体深处打了100多米，选址时特意算过：就算南北极冰盖全部融化，海水也淹不到这里。\n\n金库设计容量450万份种子样本，截至2024年5月已存有超过130万份。周围永久冻土常年维持在零下3到4摄氏度左右，就算机械制冷全部失效，库内温度升到零度也要将近两百年。种子的所有权始终留在存放方手里，挪威政府出资建造并拥有设施本身，日常运营交给北欧基因资源中心，作物多样性信托基金协调各国种子的入库，任何国家或基因库都可以免费存放。\n\n它至今被取用过三次：因为叙利亚内战切断了国际干旱地区农业研究中心在阿勒颇的原始基因库，中心先后于2015年9月、2017年和2019年8月从这里取回种子，其中2019年8月那次取走36箱，31箱送回摩洛哥、5箱送去黎巴嫩；随着在当地繁育出的新种子逐年成熟，中心又把复份种子陆续存回金库，仅这之后一次就存回四万两千多份。2016年10月，异常升温带来的融水一度渗入约15米深的入口隧道并结冰，没有触及内部库室，挪威随后拨款约2000万克朗，给隧道加装了防水层。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Global_Seed_Vault.JPG/960px-Global_Seed_Vault.JPG",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Storage_containers_in_Svalbard_Global_Seed_Vault_01.jpg/960px-Storage_containers_in_Svalbard_Global_Seed_Vault_01.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.seedvault.no/about/the-facility/",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-08-13",
+      "_facts": [
+        {
+          "claim": "斯瓦尔巴全球种子库2008年2月26日启用，选址在挪威斯瓦尔巴群岛朗伊尔城附近海拔130米的砂岩山体内",
+          "source": "https://www.seedvault.no/about/the-facility/"
+        },
+        {
+          "claim": "金库设计容量450万份种子样本，截至2024年5月已存放超过130万份",
+          "source": "https://www.croptrust.org/work/svalbard-global-seed-vault/"
+        },
+        {
+          "claim": "存放方对种子始终保有所有权，挪威政府出资并拥有设施本身，北欧基因资源中心负责日常运营",
+          "source": "https://www.croptrust.org/work/svalbard-global-seed-vault/"
+        },
+        {
+          "claim": "因叙利亚内战切断阿勒颇原始基因库，国际干旱地区农业研究中心自2015年起三次从金库取回种子，2019年8月一次取走36箱",
+          "source": "https://www.seedvault.no/2019/09/11/withdrawal-of-icarda-aleppo-seeds-accomplished/"
+        },
+        {
+          "claim": "2016年10月融水渗入约15米深的入口隧道并结冰，未触及库室，挪威其后为隧道加装防水层",
+          "source": "https://www.seedvault.no/2017/11/16/towards-a-watertight-access-tunnel/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Global_Seed_Vault.JPG",
+          "license": "CC BY-SA 3.0",
+          "author": "Miksu",
+          "page": "https://commons.wikimedia.org/wiki/File:Global_Seed_Vault.JPG",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Storage_containers_in_Svalbard_Global_Seed_Vault_01.jpg",
+          "license": "Public domain",
+          "author": "Dag Terje Filip Endresen",
+          "page": "https://commons.wikimedia.org/wiki/File:Storage_containers_in_Svalbard_Global_Seed_Vault_01.jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "iceland-geothermal-pool-culture",
+      "scope": "全球",
+      "thesis": "全国不到四十万人却有一百二十多个游泳池，冰岛把见面聊天泡进了热水里。",
+      "title": "冰岛人的广场，是一池热水",
+      "body": "1927年，游泳课被列入冰岛义务教育，全国开始一座接一座地建地热游泳池。1937年3月23日，雷克雅未克第一座公共泳池桑德霍尔正式开放，是当地最早接入地热供水的建筑之一，水从3公里外的劳加达鲁引来。更早的一座，塞尔雅瓦德劳格，1923年建在埃亚菲亚德拉冰川脚下的山谷里，一度是全国最大的泳池，2010年冰岛火山喷发时被火山灰埋过，之后由志愿者修复，至今仍免费开放。\n\n冰岛人口不到40万，全国却有120多座公共泳池。室外的热水池是这套系统里最活跃的部分：不同年纪、不同职业的人一起泡在一个池子里，聊天气、聊工作、聊本地新闻，这个角落被本地人当作全国最不正式的社交场所。\n\n进池子之前，冰岛的规矩是先不穿泳衣彻底冲淋——当地泳池氯用得很少，水质干净全靠这道程序，稍大的泳池还会有工作人员在淋浴间门口盯着。雷克雅未克市属泳池2026年5月起执行的收费标准里，成人单次门票是1500冰岛克朗，9岁以下儿童在监护人陪同下免费入场。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Isl_Seljavallalaug.JPG/960px-Isl_Seljavallalaug.JPG",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sundh%C3%B6ll_Reykjav%C3%ADkur_1.jpg/960px-Sundh%C3%B6ll_Reykjav%C3%ADkur_1.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Seljavallalaug",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "独特",
+      "verifiedAt": "2026-08-13",
+      "_facts": [
+        {
+          "claim": "1927年游泳课列入冰岛义务教育，推动全国各地建设地热游泳池",
+          "source": "https://en.wikipedia.org/wiki/Seljavallalaug"
+        },
+        {
+          "claim": "雷克雅未克首座公共泳池桑德霍尔于1937年3月23日开放，水从3公里外的地热管网引来",
+          "source": "https://en.wikipedia.org/wiki/Sundh%C3%B6ll_Reykjav%C3%ADkur"
+        },
+        {
+          "claim": "塞尔雅瓦德劳格泳池建于1923年，2010年冰岛火山喷发时被火山灰掩埋，后由志愿者修复，至今免费开放",
+          "source": "https://en.wikipedia.org/wiki/Seljavallalaug"
+        },
+        {
+          "claim": "冰岛人口截至2026年第一季度约39.5万，全国有120多座公共游泳池",
+          "source": "https://www.statice.is/publications/news-archive/inhabitants/population-in-the-1st-quarter-2026/"
+        },
+        {
+          "claim": "雷克雅未克市属泳池2026年5月起的收费标准为成人1500冰岛克朗一次，9岁以下儿童随监护人免费",
+          "source": "https://reykjavik.is/en/fees/swimming-pools"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Isl_Seljavallalaug.JPG",
+          "license": "Public domain",
+          "author": "Jabbi",
+          "page": "https://commons.wikimedia.org/wiki/File:Isl_Seljavallalaug.JPG",
+          "attributionRequired": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Sundh%C3%B6ll_Reykjav%C3%ADkur_1.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Akigka",
+          "page": "https://commons.wikimedia.org/wiki/File:Sundh%C3%B6ll_Reykjav%C3%ADkur_1.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
