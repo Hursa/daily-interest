@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T07:40:31+08:00",
+  "items": [
+    {
+      "id": "venice-gondola-asymmetric",
+      "scope": "全球",
+      "thesis": "威尼斯的船身故意左右不对称，为的是让一个船夫用一支桨把它划直。",
+      "title": "威尼斯贡多拉，故意做歪的船",
+      "body": "贡多拉是威尼斯运河上最古老的交通工具，也是今天全世界唯一仍在批量手工建造的传统木船。造一艘船要用到八种木材——椴木、橡木、桃花心木、胡桃木、樱桃木、冷杉、落叶松和榆木，拼接成280块零件，整个工期大约两个月。\n\n这艘船最特别的地方肉眼就能看出来：船身左右并不对称，左侧比右侧宽出一截。这不是工艺瑕疵，而是刻意为之——贡多拉只由船夫一人站在船尾，用一支长桨划动，左右不对称的船体能抵消单侧划桨带来的偏转力，让船能笔直向前。桨靠在一个叫forcola的木质支架上，形状复杂，同一个支点能让桨完成八种不同的动作：慢划、快划、转弯、减速、倒划、刹停，全凭手腕角度的变化。\n\n十七、十八世纪，威尼斯运河上跑着八千到一万艘贡多拉，到1878年还剩四千艘。今天，威尼斯持证的贡多拉船夫大约400人，在用的贡多拉数量与此基本相当。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Squero_di_San_Trovaso_%28Venice%29_02.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/Gondola", "label": "去看看" },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-08-14",
+      "_facts": [
+        { "claim": "贡多拉由280块木料、8种木材（椴木、橡木、桃花心木、胡桃木、樱桃木、冷杉、落叶松、榆木）手工拼成，工期约两个月", "source": "https://en.wikipedia.org/wiki/Gondola" },
+        { "claim": "船身左右不对称是刻意设计，用来抵消单人单桨划船带来的偏转力", "source": "https://en.wikipedia.org/wiki/Gondola" },
+        { "claim": "桨架forcola形状复杂，同一支点能让桨完成八种不同的划法", "source": "https://en.wikipedia.org/wiki/Gondola" },
+        { "claim": "17-18世纪威尼斯有八千到一万艘贡多拉，到1878年降至约四千艘", "source": "https://en.wikipedia.org/wiki/Gondola" },
+        { "claim": "今天威尼斯持证贡多拉船夫约400人，在用贡多拉数量与此基本相当", "source": "https://en.wikipedia.org/wiki/Gondola" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Squero_di_San_Trovaso_%28Venice%29_02.jpg", "license": "CC BY-SA 4.0", "author": "Abxbay", "page": "https://commons.wikimedia.org/wiki/File:Squero_di_San_Trovaso_(Venice)_02.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "chaoshan-gongfu-tea",
+      "scope": "中国",
+      "thesis": "潮汕人把喝茶叫食茶，讲究的不是茶叶好坏，是三个杯子轮着走的那套动作。",
+      "title": "潮汕人喝茶，喝的是流程",
+      "body": "在潮汕，喝茶不叫喝茶，叫食茶。一天里，工夫茶炉从早上开到晚上，谁进门先递一杯，是待客的第一件事，也是最不能省的一件事，家里、店铺柜台后头、修车摊边上，都能摆下这一整套家伙。\n\n冲泡的规矩比茶叶本身讲究：茶壶或盖碗容量通常只有60到200毫升，配的茶杯更小，25到100毫升，一次只倒小半杯，杯数固定跟着在场的人走。洗茶是第一步，滚水冲进壶里马上倒掉，只为烫壶烫杯、把茶叶泡开；正式冲泡从这以后开始，头几泡出水只等10到15秒，往后每一泡时间稍稍拉长，一壶茶能这样反复冲上十几泡，滋味一泡一个样。倒茶讲究\"关公巡城、韩信点兵\"——茶汤依次巡回分到每个杯子，最后几滴再逐一点上，务必让每杯浓淡一致，谁也不多不少。\n\n这套喝法最早的文字记录见于清代俞蛟所著《潮嘉风月记》，成书于乾隆五十八年，也就是1793年，书里写的冲泡程式和今天流行的做法已经相当接近。2008年，潮州工夫茶艺被列入国家级非物质文化遗产名录；2022年，它又作为\"中国传统制茶技艺及其相关习俗\"的一部分，被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "tryThis": "找家里最普通的杯子和茶叶，泡一壶茶，像功夫茶那样一小杯一小杯地喝，不刷手机，直到壶里泡不出味道为止。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Teochew_Kanghu_tea.jpg",
+      "inlineImages": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Teochew_Kanghu_tea_preparation.jpg", "after": 2 }
+      ],
+      "link": { "url": "https://zh.wikipedia.org/zh-hans/%E5%B7%A5%E5%A4%AB%E8%8C%B6", "label": "去看看" },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-14",
+      "_facts": [
+        { "claim": "潮汕话把喝茶叫食茶，家庭、店铺常年备着一整套冲泡工具", "source": "https://zh.wikipedia.org/zh-hans/%E5%B7%A5%E5%A4%AB%E8%8C%B6" },
+        { "claim": "工夫茶茶壶或盖碗容量通常60-200毫升，茶杯25-100毫升", "source": "https://en.wikipedia.org/wiki/Gongfu_tea_ceremony" },
+        { "claim": "头几泡出水只等10-15秒，之后逐渐延长冲泡时间，一壶茶可反复冲泡十几泡", "source": "https://en.wikipedia.org/wiki/Gongfu_tea_ceremony" },
+        { "claim": "工夫茶一词最早见于清代俞蛟所著《潮嘉风月记》，成书于乾隆五十八年（1793年）", "source": "https://zh.wikipedia.org/zh-hans/%E5%B7%A5%E5%A4%AB%E8%8C%B6" },
+        { "claim": "2008年潮州工夫茶艺列入国家级非物质文化遗产名录；2022年作为'中国传统制茶技艺及其相关习俗'的一部分列入联合国教科文组织人类非物质文化遗产代表作名录", "source": "https://www.mct.gov.cn/whzx/qgwhxxlb/gd/202212/t20221205_937929.htm" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Teochew_Kanghu_tea.jpg", "license": "CC BY 2.0", "author": "Kandukuru Nagarjun", "page": "https://commons.wikimedia.org/wiki/File:Teochew_Kanghu_tea.jpg", "attributionRequired": true },
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Teochew_Kanghu_tea_preparation.jpg", "license": "CC BY 2.0", "author": "James Creegan", "page": "https://commons.wikimedia.org/wiki/File:Teochew_Kanghu_tea_preparation.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "cemberlitas-hamam-ritual",
+      "scope": "全球",
+      "thesis": "洗一次澡要依次走过三个房间，滚烫的石板和蒸汽把时间拉得很慢。",
+      "title": "伊斯坦布尔的老浴室，泡了四百多年",
+      "body": "伊斯坦布尔的锡尔克吉区，一座澡堂从1584年开到现在，四百多年没停业。它由建筑师希南的工坊建造，委托人是努尔巴努苏丹——苏丹塞利姆二世的遗孀，她把管理后宫得来的俸禄拿出来设立慈善基金，这座澡堂就是其中一项，营收后来被用来资助阿蒂克瓦莉德清真寺建筑群的兴建。1660年7月，一场大火连烧两天，殃及澡堂和周边街区，此后好几年，它能收的租金只有原来的一半。\n\n进澡堂要依次走过三个房间。第一间叫索乌克鲁克，进门先在这里脱衣、寄存，也是熟人碰头聊天的地方；第二间是一条窄窄的过廊，叫厄勒克勒克，温度比外面高，专门用来让身体适应接下来的热气；最后到达最热的西哈克勒克，正中间是一块加热的大理石板，四周立着十二根石柱撑起穹顶，搓澡师傅就在这块石板上用一块粗麻布把老去的皮肤一层层搓下来，最后一盆凉水浇下去，才算走完全程。\n\n这套流程走完通常要一到两个小时，热气和石板的温度让人没法快。1902年，三万本被政府查禁的书就是在这间澡堂里被烧毁的。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Cemberlitas_Hamami.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/%C3%87emberlita%C5%9F_Hamam%C4%B1", "label": "去看看" },
+      "category": "twohours",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-14",
+      "_facts": [
+        { "claim": "Çemberlitaş Hamamı建于1584年，由建筑师希南的工坊建造", "source": "https://en.wikipedia.org/wiki/%C3%87emberlita%C5%9F_Hamam%C4%B1" },
+        { "claim": "委托人努尔巴努苏丹用管理后宫所得俸禄设立慈善基金，澡堂营收用于资助阿蒂克瓦莉德清真寺建筑群", "source": "https://en.wikipedia.org/wiki/%C3%87emberlita%C5%9F_Hamam%C4%B1" },
+        { "claim": "1660年7月一场大火连烧两天，此后澡堂租金一度减半", "source": "https://en.wikipedia.org/wiki/%C3%87emberlita%C5%9F_Hamam%C4%B1" },
+        { "claim": "热厅正中是加热大理石板（göbektaşı），四周立十二根石柱", "source": "https://en.wikipedia.org/wiki/%C3%87emberlita%C5%9F_Hamam%C4%B1" },
+        { "claim": "1902年，三万本被政府查禁的书在这间澡堂里被烧毁", "source": "https://en.wikipedia.org/wiki/%C3%87emberlita%C5%9F_Hamam%C4%B1" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Cemberlitas_Hamami.jpg", "license": "CC BY-SA 2.0", "author": "Rainhard Triltsch", "page": "https://commons.wikimedia.org/wiki/File:Cemberlitas_Hamami.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "hurtigruten-coastal-mail-route",
+      "scope": "全球",
+      "thesis": "先是为了送信，后来是为了让人看见峡湾，理由换了，船没停。",
+      "title": "这条船路，一天都没停过",
+      "body": "1893年，挪威政府把一份航运合同交给一家公司，要求它把邮件从卑尔根一路送到北方的希尔克内斯。第一趟船7月2日从特隆赫姆出发开往哈默菲斯特。在这条航线开通之前，邮件从挪威中部送到哈默菲斯特，夏天要三周，冬天要五个月；航线开通后，这段路缩短到七天。\n\n一百三十多年过去，这条航线还在跑，而且理由变了。今天它靠的不再是邮件生意，而是沿岸风光和补给——船只往返于卑尔根和希尔克内斯之间，北上停靠34个港口，南下停靠33个，一年365天不间断，要维持每天都有船同时出发，得有11艘船在航线上轮转，每艘船最低要能载320名乘客、120个床位，还要留出150个欧标货板的舱位装货。\n\n2006年，最后两家独立运营的公司合并成一家；2017年，航线合同被拆成三份，如今分别由两家公司运营，其中新造的那批船已经改用液化天然气加电池的混合动力，二氧化碳排放比老船低四分之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/MS_Nordnorge%2C_Hurtigruten_in_Raftsundet%2C_Nordland%2C_Norway%2C_2015_September.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/Hurtigruten", "label": "去看看" },
+      "category": "stillrunning",
+      "tone": "有力",
+      "verifiedAt": "2026-08-14",
+      "_facts": [
+        { "claim": "1893年挪威政府将航运合同授予该公司，首航7月2日从特隆赫姆开往哈默菲斯特", "source": "https://en.wikipedia.org/wiki/Hurtigruten" },
+        { "claim": "开通前邮件从挪威中部送到哈默菲斯特夏季需三周、冬季需五个月，开通后缩短到七天", "source": "https://en.wikipedia.org/wiki/Hurtigruten" },
+        { "claim": "如今航线往返卑尔根与希尔克内斯之间，北上停靠34个港口、南下33个，一年365天运行，需11艘船轮转，每艘船最低载客320人、床位120个", "source": "https://en.wikipedia.org/wiki/Hurtigruten" },
+        { "claim": "2006年最后两家独立运营公司合并，2017年航线合同拆分为三份，如今由两家公司分别运营", "source": "https://en.wikipedia.org/wiki/Hurtigruten" },
+        { "claim": "较新船只已改用液化天然气加电池混合动力，二氧化碳排放比老船低约25%", "source": "https://en.wikipedia.org/wiki/Hurtigruten" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/MS_Nordnorge%2C_Hurtigruten_in_Raftsundet%2C_Nordland%2C_Norway%2C_2015_September.jpg", "license": "CC BY-SA 3.0", "author": "Ximonic (Simo Räsänen)", "page": "https://commons.wikimedia.org/wiki/File:MS_Nordnorge,_Hurtigruten_in_Raftsundet,_Nordland,_Norway,_2015_September.jpg", "attributionRequired": true }
+      ]
+    }
+  ]
+}
