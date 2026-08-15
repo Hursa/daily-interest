@@ -1,0 +1,184 @@
+{
+  "schema": 1,
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T07:30:53+08:00",
+  "items": [
+    {
+      "id": "qeswachaka-rebuilt-yearly",
+      "scope": "全球",
+      "thesis": "桥能不能留住，不在用了什么材料，而在有没有人年年回来重新编一次。",
+      "title": "印加绳桥每年拆了重建",
+      "body": "印加时代的吊桥曾经遍布安第斯山区，靠的全是草绳，没有一根钉子、一块石头。今天，那种桥只剩一座还在用最初的做法造，架在秘鲁库斯科的阿普里马克河峡谷上，离水面几十米。\n\n它不是文物，是每年都要重新做一次的东西。附近四个盖丘亚社群——万奇利、乔比班达、乔卡瓦、科亚纳克韦——每到六月都会聚到河边，先把旧桥砍断，看着它掉进峡谷，再用一种叫伊丘草编成的粗绳，重新把两岸连起来。整个过程三天左右，靠的是几百人手上的力气和一套口传下来的编法，没有图纸。\n\n对参加的人来说，这不是修桥，是还债——祖先教下来的手艺，得靠年年做一遍才不会忘。桥修好那天，社群会杀羊祭山神，感谢阿普（山灵）让桥又立起来。游客可以买票走过去，但这座桥存在的理由，从来不是为了他们。\n\n桥长28米，宽1.2米，重建这门手艺在2013年被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Inka_suspension_bridge_Qeswachaka_DSC_2730.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2015_Smithsonian_folklife_festival_DC_-Qeswachaka_Bridge_rope_making_-_02.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.nationalgeographic.com/travel/article/inca-grass-rope-bridge-qeswachaka-unesco",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-08-16",
+      "_facts": [
+        {
+          "claim": "Q'eswachaka桥长28米、宽1.2米，架在秘鲁库斯科阿普里马克河峡谷上",
+          "source": "https://en.wikipedia.org/wiki/Q%27eswachaka"
+        },
+        {
+          "claim": "该桥的年度重建仪式于2013年被列入联合国教科文组织人类非物质文化遗产代表作名录",
+          "source": "https://ich.unesco.org/en/Decisions/8.COM/8.22"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Inka_suspension_bridge_Qeswachaka_DSC_2730.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Aga Khan (IT)",
+          "page": "https://commons.wikimedia.org/wiki/File:Inka_suspension_bridge_Qeswachaka_DSC_2730.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2015_Smithsonian_folklife_festival_DC_-Qeswachaka_Bridge_rope_making_-_02.jpg",
+          "license": "CC BY 4.0",
+          "author": "Jarek Tuszyński",
+          "page": "https://commons.wikimedia.org/wiki/File:2015_Smithsonian_folklife_festival_DC_-Qeswachaka_Bridge_rope_making_-_02.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "bajau-laut-at-sea",
+      "scope": "全球",
+      "thesis": "陆地对巴瑶人不是生活的地方，是不得不停留的地方。",
+      "title": "一辈子住在海上的人",
+      "body": "东南亚苏禄海和西里伯斯海之间散落着不少浅礁，巴瑶人几百年来就住在那片海上——不是靠海近，是真的住在船上。传统的巴瑶船屋一般装得下一家五口，厨具、水缸、睡觉的地方都在一条船里，靠岸的次数很少，补给和换鱼才上岸一次。\n\n他们潜水不带任何装备，一口气扎进水里去扎鱼、捡海参、采珍珠贝，常年这样过日子练出来的不只是憋气的本事。2018年一项发表在《细胞》期刊上的研究，给印尼一个巴瑶人聚落做了超声检查，发现他们的脾脏比邻近不下海的族群平均大出五成——脾脏储存含氧血细胞，潜水时能多释放一部分氧气到血液里，这被认为是人类历史上第一次找到的潜水基因适应证据。\n\n现在真正常年住在船上的巴瑶人已经不多，大部分人上了岸，住进海边的高脚屋，船只留着打渔用。据统计，全球巴瑶人和萨马人合计人口约130万。",
+      "tryThis": "现在，深吸一口气，把脸埋进一盆凉水里，看自己能撑多久——不用破纪录，撑不到也没关系，一次就够，不用勉强。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Daily_Activity_Bajau_Tribe_in_Bajau_Sampela_Village%2C_Wakatobi_Indonesia.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Stilt_house_bajau_Togian.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "有力",
+      "verifiedAt": "2026-08-16",
+      "_facts": [
+        {
+          "claim": "2018年《细胞》期刊研究发现印尼巴瑶人聚落的脾脏比邻近陆居族群平均大约50%",
+          "source": "https://www.cell.com/cell/fulltext/S0092-8674(18)30386-6"
+        },
+        {
+          "claim": "全球巴瑶人（萨马-巴瑶人）合计人口约130万",
+          "source": "https://en.wikipedia.org/wiki/Bajau_people"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Daily_Activity_Bajau_Tribe_in_Bajau_Sampela_Village%2C_Wakatobi_Indonesia.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "BastianKyle",
+          "page": "https://commons.wikimedia.org/wiki/File:Daily_Activity_Bajau_Tribe_in_Bajau_Sampela_Village,_Wakatobi_Indonesia.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Stilt_house_bajau_Togian.jpg",
+          "license": "CC0",
+          "author": "Benoît Vicart",
+          "page": "https://commons.wikimedia.org/wiki/File:Stilt_house_bajau_Togian.jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "opera-dei-pupi-sicily",
+      "scope": "全球",
+      "thesis": "这出戏演的从来不是木偶，是耍木偶那个人手腕和手臂的功夫。",
+      "title": "西西里的木偶还在打仗",
+      "body": "在西西里的巴勒莫和卡塔尼亚，晚上找一家小剧场买张票，还能看到一场用木偶打的仗——查理曼手下的骑士罗兰和萨拉森人对砍，木偶穿着真的锡皮盔甲，手里握着会反光的剑，后台的人拉动铁杆让木偶挥刀、倒地，台下的观众跟着喊好。\n\n卡塔尼亚流派的木偶有一米到一米三高，一具能重到三十公斤，靠一根粗铁杆从头顶穿下去操控，耍一场戏下来，演员的胳膊比举铁还累。这门手艺没有剧本可念——故事全从中世纪骑士文学里改编，情节靠一代代师傅口头教下去，谁演哪场仗、木偶怎么打，师傅带徒弟带的是肌肉记忆，不是台词。\n\n木偶戏在西西里最热闹的时候，一整条街都有剧场，现在留下来的家族班子不算多，东边还剩五个，巴勒莫那边还有八个，大多是祖上传下来的手艺，一代一代没断过。2008年，联合国教科文组织把西西里木偶戏列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Opera_dei_pupi_siciliani_di_Gaspare_Canino_ad_Alcamo_01.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Pupi%2C_Catania.JPG",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Opera_dei_Pupi",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-16",
+      "_facts": [
+        {
+          "claim": "西西里木偶戏于2008年被列入联合国教科文组织人类非物质文化遗产代表作名录",
+          "source": "https://en.wikipedia.org/wiki/Opera_dei_Pupi"
+        },
+        {
+          "claim": "卡塔尼亚流派木偶高110-130厘米，重约30公斤",
+          "source": "https://en.wikipedia.org/wiki/Opera_dei_Pupi"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Opera_dei_pupi_siciliani_di_Gaspare_Canino_ad_Alcamo_01.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Ensahequ",
+          "page": "https://commons.wikimedia.org/wiki/File:Opera_dei_pupi_siciliani_di_Gaspare_Canino_ad_Alcamo_01.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Pupi%2C_Catania.JPG",
+          "license": "CC BY-SA 3.0",
+          "author": "Lucarelli",
+          "page": "https://commons.wikimedia.org/wiki/File:Pupi,_Catania.JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "jingdezhen-still-firing",
+      "scope": "中国",
+      "thesis": "一座城市能靠一件事活一千年，前提是这件事从没真正停下来过。",
+      "title": "这座城，烧了一千年瓷",
+      "body": "景德镇是江西的一座小城，人口不到两百万，却被叫做瓷都——不是因为出过什么了不起的瓷器，而是因为这座城市烧瓷这件事，从没真正停过。\n\n汉代就有人在这里的山里挖到瓷土，宋代真宗年间，朝廷把年号赐给这座镇子，官窑开始成规模烧造。往后一千年，改朝换代，烧瓷的人换了一茬又一茬，但窑火没断过——元代烧出青花，明代成了皇家御用瓷厂，清代又添了粉彩。明代《天工开物》里记过一句话，一件瓷器从取土到出窑要经过七十二道工序，画的人不上釉，上釉的人不拉坯，一个人一辈子往往只练熟其中一两道。今天走进老城区，还能看到几十家挨在一起的手工作坊，拉坯、上釉、画青花，一道工序一道工序地传下来，很多师傅十几岁就跟着家里人学，一学就是一辈子。\n\n这门手艺没有靠博物馆撑着，靠的是每天都有人在这里，把土变成瓷。景德镇制瓷史有记录可查的部分，至少可以追溯到公元1004年。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Porcelain_Workshop%2C_Jingdezhen%2C_Jiangxi%2C_China.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Jingdezhen",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-16",
+      "_facts": [
+        {
+          "claim": "景德镇制瓷可查证的历史至少可追溯到公元1004年（宋真宗景德年间）",
+          "source": "https://en.wikipedia.org/wiki/Jingdezhen"
+        },
+        {
+          "claim": "2018年景德镇人口约167万",
+          "source": "https://en.wikipedia.org/wiki/Jingdezhen"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Porcelain_Workshop%2C_Jingdezhen%2C_Jiangxi%2C_China.jpg",
+          "license": "CC BY 2.5",
+          "author": "Ariel Steiner",
+          "page": "https://commons.wikimedia.org/wiki/File:Porcelain_Workshop,_Jingdezhen,_Jiangxi,_China.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
