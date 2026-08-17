@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T07:29:51+08:00",
+  "items": [
+    {
+      "id": "zhongying-street-two-systems",
+      "scope": "深圳",
+      "thesis": "边界从来不是一条线而是两种日常生活忽然在同一条路上并排走",
+      "title": "这条街,走两步换个国家",
+      "body": "1899年,中英两国按照《展拓香港界址专条》勘定新界北界,测量队沿着沙头角一条叫鹿颈径的小河划线,河东归清政府,河西归英国。河两岸后来填成一条街,街心排着八块石界碑,街的这一半和那一半,从此各自听两套法律。\n\n1941年日军占领期间,为了通行方便,拆走了街心第三至第七号界碑;1948年战后才重新竖起。改革开放后这条窄街一度挤满金铺和免税店,1988年五月到十月,仅黄金一项就卖出约五吨,街两侧铺面挨得能听见隔壁算盘声。\n\n香港回归后,街西侧划入香港特别行政区,街东侧仍属深圳,一条马路两种护照两种货币的局面延续至今。进入这条街要先申领边境特别管理区通行证,2025年起改成手机小程序在线办理,凭身份证刷脸即可通过卡口。街角的中英街历史博物馆里,那口警世钟每年3月18日,也就是1899年勘界的那一天,都会被敲响。",
+      "tryThis": "在你住的城市找一条你知道存在却没细看过的分界线——两个小区交界的墙、新城区和老城区之间的马路——走到跟前，站一会儿。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Chung_Ying_Street_3.JPG",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zhong_Ying_Street_Jie_Xian_Bei.JPG",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://zh.wikipedia.org/zh-hans/中英街",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-08-18",
+      "_facts": [
+        {
+          "claim": "1899年中英双方勘界，街心原以八块石界碑分割，街道两侧从此分属两国管辖",
+          "source": "https://zh.wikipedia.org/zh-hans/中英街"
+        },
+        {
+          "claim": "1941年日军占领期间拆走街心第3至7号界碑，1948年战后重新竖立",
+          "source": "https://zh.wikipedia.org/zh-hans/中英街"
+        },
+        {
+          "claim": "1988年5月至10月中英街金饰交易额约五吨黄金",
+          "source": "https://www.sixthtone.com/news/1002646"
+        },
+        {
+          "claim": "2025年1月26日起边境特别管理区通行证可通过微信小程序在线申请，凭身份证及人脸识别通行",
+          "source": "https://www.yantian.gov.cn/cn/zjyt/jjyt/bmxx/content/post_11130862.html"
+        },
+        {
+          "claim": "中英街历史博物馆1999年5月1日建成开放",
+          "source": "https://zh.wikipedia.org/zh-hans/中英街历史博物馆"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Chung_Ying_Street_3.JPG",
+          "license": "CC BY-SA 4.0",
+          "author": "Chintunglee",
+          "page": "https://commons.wikimedia.org/wiki/File:Chung_Ying_Street_3.JPG",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zhong_Ying_Street_Jie_Xian_Bei.JPG",
+          "license": "CC BY-SA 4.0",
+          "author": "Chintunglee",
+          "page": "https://commons.wikimedia.org/wiki/File:Zhong_Ying_Street_Jie_Xian_Bei.JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "tokushima-awa-odori",
+      "scope": "全球",
+      "thesis": "看客和舞者之间那道界限这座城市干脆用一句顺口溜拆掉了",
+      "title": "跳舞的傻子,看的也是傻子",
+      "body": "德岛人把八月十一日到十五日这五天叫作阿波踊。街头说法是1586年蜂须贺家政建好德岛城,摆酒庆祝,百姓喝多了跟着跳,舞就这么传下来了;可考证的是这个说法最早出现在1908年一篇报纸报道里,城建那年到底发生了什么,并没有更早的记载能证实。\n\n跳舞的人以连为单位组队,一个连里男踊和女踊两种跳法并存:男踊压低重心脚下用力,常握一把扇子;女踊立直上身,脚步收得很小,木屐踩着碎点子往前挪。伴奏叫鸣物,三味线太鼓笛子和钲混在一起,一整条街的鼓点几乎不断。\n\n跳舞的是傻子看的也是傻子这句顺口溜并非德岛土产,1839年京都为高尾神社修缮完工办庆典,一支类似的歌谣先在那里唱起来,后来才并进了德岛本地的舞蹈传统里。1957年,一批在东京的德岛人把这套跳法搬去高圆寺,2026年的第六十七届高圆寺阿波踊定在8月29日至30日举行。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Awa_dance_team_Muso-Ren._Aug._13%2C_2016._Tokushima_City.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Awa-Odori-kikusui-narimono.JPG",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.city.tokushima.tokushima.jp/kankou/awaodori/",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-18",
+      "_facts": [
+        {
+          "claim": "阿波踊「1586年蜂须贺家政建成德岛城庆典起源」说法最早见于1908年每日新闻报道，并无更早史料佐证",
+          "source": "https://en.wikipedia.org/wiki/Awa_Odori"
+        },
+        {
+          "claim": "德岛市官方旅游网站称阿波踊已有400余年历史，每年8月11至15日举行，吸引超百万游客",
+          "source": "https://www.city.tokushima.tokushima.jp/kankou/awaodori/"
+        },
+        {
+          "claim": "踊る阿呆に見る阿呆歌谣可追溯到1839年京都高尾神社修缮完工庆典",
+          "source": "https://ja.wikipedia.org/wiki/踊る阿呆に見る阿呆"
+        },
+        {
+          "claim": "东京高圆寺阿波おどり1957年创办（初名高圆寺马鹿おどり），1963年更名",
+          "source": "https://ja.wikipedia.org/wiki/東京高円寺阿波おどり"
+        },
+        {
+          "claim": "2026年第67届高圆寺阿波おどり定于8月29日至30日举行",
+          "source": "https://www.koenji-awaodori.com/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Awa_dance_team_Muso-Ren._Aug._13%2C_2016._Tokushima_City.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "さかおり (Sakaori)",
+          "page": "https://commons.wikimedia.org/wiki/File:Awa_dance_team_Muso-Ren._Aug._13,_2016._Tokushima_City.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Awa-Odori-kikusui-narimono.JPG",
+          "license": "CC BY-SA 3.0 / GFDL 1.2+",
+          "author": "My SEIN",
+          "page": "https://commons.wikimedia.org/wiki/File:Awa-Odori-kikusui-narimono.JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "suzhou-kesi-tapestry",
+      "scope": "中国",
+      "thesis": "慢在这门手艺里不是缺点是唯一被认可的生产方式",
+      "title": "一寸缂丝,一寸黄金",
+      "body": "缂丝用的是一张老式木机和几十把小竹梭,织的时候经线整幅拉直不断,纬线却按图案随时断开,一块颜色织完就换梭子,图案边缘因此像是刀刻出来的,古人形容它承空观之如雕镂之象,缂字本身就是从刻字借来的。\n\n慢是这门手艺唯一的生产方式。织一片复杂花色,熟练的匠人一天也只能推进一到两厘米,一件三十厘米见方的作品常常要织上一个月,中途换梭子数以万计。一寸缂丝一寸金这句老话,说的就是这份工时换来的价钱。\n\n明代起,苏州蠡口陆慕黄桥光福东渚一带就以产缂丝闻名,御用的缂丝龙袍和缂丝书画都是那时候的招牌,苏州目前在做这行的匠人有两百多人。苏州缂丝织造技艺2006年被列入首批国家级非物质文化遗产名录,项目编号Ⅷ-15,代表性传承人是王金山;2009年,中国的蚕桑丝织技艺整体又被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kesi_roundel_with_five-clawed_dragon_design.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/%E7%BC%82%E4%B8%9D%E8%8A%B1%E9%B8%9F%E5%9B%BE.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/19978.html",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-18",
+      "_facts": [
+        {
+          "claim": "苏州缂丝织造技艺2006年入选首批国家级非物质文化遗产名录，项目编号Ⅷ-15，代表性传承人王金山",
+          "source": "https://www.ihchina.cn/project_details/19978.html"
+        },
+        {
+          "claim": "中国蚕桑丝织技艺2009年被列入联合国教科文组织人类非物质文化遗产代表作名录",
+          "source": "https://ich.unesco.org/en/RL/sericulture-and-silk-craftsmanship-of-china-00197"
+        },
+        {
+          "claim": "缂丝采用通经断纬技法，纹样边缘因分段挖织而呈现如雕似刻的效果",
+          "source": "https://www.ihchina.cn/project_details/19978.html"
+        },
+        {
+          "claim": "苏州缂丝技艺自明代起在蠡口、陆慕、黄桥、光福、东渚一带流传",
+          "source": "https://www.ihchina.cn/project_details/19978.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kesi_roundel_with_five-clawed_dragon_design.jpg",
+          "license": "Public Domain",
+          "author": "佚名（清代匠人）",
+          "page": "https://commons.wikimedia.org/wiki/File:Kesi_roundel_with_five-clawed_dragon_design.jpg",
+          "attributionRequired": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/%E7%BC%82%E4%B8%9D%E8%8A%B1%E9%B8%9F%E5%9B%BE.jpg",
+          "license": "Public Domain",
+          "author": "佚名（上海博物馆藏）",
+          "page": "https://commons.wikimedia.org/wiki/File:%E7%BC%82%E4%B8%9D%E8%8A%B1%E9%B8%9F%E5%9B%BE.jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "taoudenni-salt-caravan",
+      "scope": "全球",
+      "thesis": "这支商队没有被沙漠打垮却快被一辆辆卡车取代了",
+      "title": "沙漠深处,骆驼驮着盐",
+      "body": "跨撒哈拉的盐运贸易至少延续了上千年,九到十二世纪一度是这片沙漠上最繁忙的商路。陶德尼盐矿在撒哈拉腹地,矿工用简陋的斧子挖井,井口五米见方,深四米,先铲掉一米五厚的红土,再往下刨过几层劣质盐,才能挖到真正能卖的白盐。盐被切成长约110厘米宽45厘米厚5厘米的板,一块大约30公斤。\n\n从陶德尼到廷巴克图664公里,骆驼商队要走三个星期左右,每头骆驼驮四到五块盐板。矿工十月到次年四月在矿上凿盐,住的棚屋就是拿次等盐块垒起来的,为的是避开一年里最热的月份。2007到2008年间,矿上大约有三百五十支采盐队,总共近一千名矿工。\n\n商队规模一直在缩水:历史上一支商队能有上万头骆驼,到1948年只剩八千头左右,如今大部分路段已经被卡车取代,骆驼商队成了撒哈拉最后还在运转的商路之一。每年十一月,仍有规模不大的骆驼队从陶德尼出发,把盐一路驮向廷巴克图。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Tombouctou-Arriv%C3%A9e_d%27une_caravane_de_sel_%28AOF%29.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Salt_tablet_Taoudeni_Quai_Branly_71.1938.17.28_D.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Taoudenni",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-08-18",
+      "_facts": [
+        {
+          "claim": "陶德尼至廷巴克图664公里，骆驼商队约需三周，每头骆驼驮4至5块盐板",
+          "source": "https://en.wikipedia.org/wiki/Taoudenni"
+        },
+        {
+          "claim": "盐板规格约长110厘米、宽45厘米、厚5厘米，重约30公斤",
+          "source": "https://en.wikipedia.org/wiki/Taoudenni"
+        },
+        {
+          "claim": "2007至2008年间陶德尼盐矿约有350支采盐队，合计近1000名矿工，工人10月至次年4月在矿上作业",
+          "source": "https://en.wikipedia.org/wiki/Taoudenni"
+        },
+        {
+          "claim": "历史上跨撒哈拉盐运商队最多曾达上万头骆驼，1948年降至约8000头，如今大部分路段已被卡车取代",
+          "source": "https://en.wikipedia.org/wiki/Azalai"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Tombouctou-Arriv%C3%A9e_d%27une_caravane_de_sel_%28AOF%29.jpg",
+          "license": "Public Domain",
+          "author": "François-Edmond Fortier",
+          "page": "https://commons.wikimedia.org/wiki/File:Tombouctou-Arriv%C3%A9e_d%27une_caravane_de_sel_(AOF).jpg",
+          "attributionRequired": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Salt_tablet_Taoudeni_Quai_Branly_71.1938.17.28_D.jpg",
+          "license": "Public Domain",
+          "author": "Marie-Lan Nguyen",
+          "page": "https://commons.wikimedia.org/wiki/File:Salt_tablet_Taoudeni_Quai_Branly_71.1938.17.28_D.jpg",
+          "attributionRequired": false
+        }
+      ]
+    }
+  ]
+}
