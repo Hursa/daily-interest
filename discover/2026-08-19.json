@@ -1,0 +1,164 @@
+{
+  "schema": 1,
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T07:00:00+08:00",
+  "items": [
+    {
+      "id": "xiasha-poon-choi-lantern-feast",
+      "scope": "深圳",
+      "thesis": "同一个姓氏的人一年只聚一次，靠的是往同一口盆里下筷子。",
+      "title": "一口盆，装进八百年",
+      "body": "相传南宋景炎三年（1278年），宋端宗南逃至深圳下沙一带，村民仓促之间把各家菜肴倒进行军用的大铁盆，合力煮成一锅菜犒劳军民。这口盆后来没有被收起来，反而被下沙黄氏一代代传了下去，变成元宵节的固定宴席，算下来已经快八百年。\n\n大盆菜的做法很直接：芋头、萝卜、猪皮、鱼丸、鸡鸭一层层码进同一个盆里，汤汁往下渗，越靠底层味道越浓。同姓不同支的家族，一年到头未必见面，却会在元宵节这天挤到同一张桌前，用同一口盆分食，是最直接的认亲方式——不用族谱，也不用寒暄，先吃到同一口盆里的菜，亲缘就算认过了。\n\n这道菜后来越摆越大。2002年2月23日，下沙一次性摆出5319席，超过6万人赴宴，被大世界基尼斯认证为规模最大的大盆菜宴；2009年，下沙大盆菜宴习俗列入广东省级非物质文化遗产名录。2024年元宵节前后，千桌万人的大盆菜宴又一次在下沙村重现。",
+      "tryThis": "这个周末去下沙文化广场走一圈，看看那座牌坊，不用特意赶活动。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%B8%8B%E6%B2%99%E6%9D%91_XiaShaCun_%E4%B8%8B%E6%B2%99%E5%BB%A3%E5%A0%B4%E8%B7%AF_XiaSha_Square_Road_%E4%B8%8B%E6%B2%99%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4_Cultural_Square_gate_June_2024_R12S_02.jpg",
+      "link": {
+        "url": "https://baike.baidu.com/item/%E4%B8%8B%E6%B2%99%E5%A4%A7%E7%9B%86%E8%8F%9C/9001508",
+        "label": "了解下沙大盆菜"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-19",
+      "_facts": [
+        {
+          "claim": "相传南宋景炎三年(1278年)村民合菜煮成大盆菜，后演变为下沙黄氏元宵宴饮习俗",
+          "source": "https://baike.baidu.com/item/%E4%B8%8B%E6%B2%99%E5%A4%A7%E7%9B%86%E8%8F%9C/9001508"
+        },
+        {
+          "claim": "2002年2月23日，下沙摆下5319席大盆菜宴，赴宴人数超6万，创大世界基尼斯纪录",
+          "source": "https://baike.baidu.com/item/%E4%B8%8B%E6%B2%99%E5%A4%A7%E7%9B%86%E8%8F%9C/9001508"
+        },
+        {
+          "claim": "2009年，下沙大盆菜宴习俗列入广东省第三批省级非物质文化遗产名录",
+          "source": "https://news.qq.com/rain/a/20231101A01N7N00"
+        },
+        {
+          "claim": "2024年2月24日，千桌万人大盆菜再现下沙村",
+          "source": "https://m.mp.oeeee.com/a/BAAFRD000020240224913814.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%B8%8B%E6%B2%99%E6%9D%91_XiaShaCun_%E4%B8%8B%E6%B2%99%E5%BB%A3%E5%A0%B4%E8%B7%AF_XiaSha_Square_Road_%E4%B8%8B%E6%B2%99%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4_Cultural_Square_gate_June_2024_R12S_02.jpg",
+          "license": "CC0 1.0",
+          "author": "BISLTAIO Tosmacia",
+          "page": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%B8%8B%E6%B2%99%E6%9D%91_XiaShaCun_%E4%B8%8B%E6%B2%99%E5%BB%A3%E5%A0%B4%E8%B7%AF_XiaSha_Square_Road_%E4%B8%8B%E6%B2%99%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4_Cultural_Square_gate_June_2024_R12S_02.jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "xian-yisushe-century-theatre",
+      "scope": "西安",
+      "thesis": "一群人想用一台戏启迪民智，没想到这台戏自己唱成了百年老字号。",
+      "title": "这台戏，唱了一百年",
+      "body": "1912年8月，同盟会成员李桐轩、孙仁玉联合160多位社会各界人士，在西安创办了陕西伶学社，后改称易俗社。他们办这个剧社不是为了单纯唱戏，章程里写的宗旨是辅助社会教育、启迪民智、移风易俗——秦腔在他们手里，首先是一件教育工具，其次才是娱乐。\n\n这个定位让易俗社走出了一条和一般戏班不一样的路：自己编新戏、自己培养学生，一边演出一边办学，戏班和学校是同一套人马。一百多年过去，剧社没有散，剧场也还在原址，业内常把它和莫斯科大剧院并提，称作世界上仍在运营的最古老剧社之一，虽然这个说法并无权威机构逐一核实过。\n\n2024年元旦档，青春版《夺锦楼》重排上演，演员平均年龄二十五岁，唱的还是1917年那版剧本；同年五一假期，易俗大剧院五天演了十二场，是正常售票的商业演出，不是纪念性质的一次性活动。剧社所在的西一路剧场，如今是全国重点文物保护单位。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%E6%98%93%E4%BF%97%E7%A4%BE%E5%89%A7%E5%9C%BA_01.jpg",
+      "link": {
+        "url": "https://zh.wikipedia.org/zh-hans/%E6%98%93%E4%BF%97%E7%A4%BE",
+        "label": "了解易俗社"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-19",
+      "_facts": [
+        {
+          "claim": "易俗社1912年8月创立于西安，由李桐轩、孙仁玉等160余名社会人士发起，原名陕西伶学社",
+          "source": "https://zh.wikipedia.org/zh-hans/%E6%98%93%E4%BF%97%E7%A4%BE"
+        },
+        {
+          "claim": "2024年元旦档，易俗社重排演出青春版《夺锦楼》，演员平均年龄25岁",
+          "source": "http://www.news.cn/culture/20240103/7b2c3598eb8b4bd78bf72e29ccd9e9e4/c.html"
+        },
+        {
+          "claim": "2024年五一假期，易俗大剧院五天演出12场",
+          "source": "http://xa.bendibao.com/xiuxian/2024419/127614.shtm"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%E6%98%93%E4%BF%97%E7%A4%BE%E5%89%A7%E5%9C%BA_01.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kcx36",
+          "page": "https://commons.wikimedia.org/wiki/File:%E6%98%93%E4%BF%97%E7%A4%BE%E5%89%A7%E5%9C%BA_01.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "fujian-tulou-chengqi-lou",
+      "scope": "中国",
+      "thesis": "土楼把一整个宗族的居住权，焊死进了一栋圆形建筑的墙体结构里。",
+      "title": "一栋楼，四百个房间",
+      "body": "福建永定高北村的承启楼，从明代崇祯年间破土，经历三代人、八十一年，直到清康熙四十八年（1709年）才盖完。楼分三圈一中心：最外一圈四层，七十二个房间；第二圈两层，四十个房间；第三圈一层，三十二个房间——整栋楼加起来四百个房间，全部围着中央的祖堂转。\n\n这种结构不是为了好看。土楼是客家人迁徙到闽西山区后想出的居住方案：同一个宗族的几十户人挤进一栋楼，厚达一米多的夯土外墙能防匪防潮，内部再靠木结构分出私人空间——对外是一整块城墙，对内是几十个各过各的小家。\n\n三百多年过去，承启楼没有被改造成纯粹的博物馆，至今仍有多户人家在楼里生活，家具、灶台和游客的脚步声混在一起。2008年7月，以承启楼所在的永定高北土楼群为代表的福建土楼，正式列入联合国教科文组织《世界遗产名录》。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/China_Fujian_Yongding_Gaobei_Chengqi_Lou.jpg",
+      "link": {
+        "url": "https://www.mct.gov.cn/whzx/tpxw/200807/t20080708_828614.htm",
+        "label": "了解福建土楼"
+      },
+      "category": "twohours",
+      "tone": "独特",
+      "verifiedAt": "2026-08-19",
+      "_facts": [
+        {
+          "claim": "承启楼始建于明崇祯年间，历经三代人81年，至清康熙四十八年(1709年)竣工，共400个房间",
+          "source": "https://baike.baidu.com/item/%E6%89%BF%E5%90%AF%E6%A5%BC/5944427"
+        },
+        {
+          "claim": "2008年7月，以承启楼所在的永定高北土楼群为代表的福建土楼列入联合国教科文组织《世界遗产名录》",
+          "source": "https://www.mct.gov.cn/whzx/tpxw/200807/t20080708_828614.htm"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/China_Fujian_Yongding_Gaobei_Chengqi_Lou.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Lennartbj",
+          "page": "https://commons.wikimedia.org/wiki/File:China_Fujian_Yongding_Gaobei_Chengqi_Lou.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "mponeng-gold-mine-depth",
+      "scope": "全球",
+      "thesis": "开采黄金的成本，很大一部分花在了把人安全送下去、再接上来这件事本身。",
+      "title": "下一次井，要大半天",
+      "body": "姆波尼格金矿在南非西北省，目前作业深度在3.16到3.84公里之间，部分区域还在往下延伸，目标是4.22公里——这个深度已经超过大多数人对矿井的想象，是全世界最深的金矿之一。金矿藏得这么深，不是矿方任性，是南非那批含金矿脉本身就沿着地层向下倾斜，越挖越往下走，没有捷径可抄。\n\n深处的岩石温度能到60摄氏度，矿方靠地面的巨型制冷系统往井下送风降温，才能把作业环境压到人能忍受的三十摄氏度上下——相当于把整座矿山当一台空调在开，全年不停。光是坐电梯下到底部就要九十分钟，加上换乘、步行到具体作业面，矿工一个班下来，在路上和井下加起来往往要花掉大半天，真正用来采矿的时间反而只占一部分。\n\n这座矿目前由南非最大黄金生产商Harmony Gold运营，2020年从AngloGold Ashanti手里接手。2024年2月，公司批准了一项延长矿山寿命的项目，把姆波尼格的开采年限从原本的七年延长到2040年。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mponeng-goudmyn%2C_Merafong_City-pm%2C_Wesrand-dm%2C_a.jpg",
+      "link": {
+        "url": "https://www.nsenergybusiness.com/projects/mponeng-gold-mine/",
+        "label": "了解姆波尼格金矿"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-08-19",
+      "_facts": [
+        {
+          "claim": "姆波尼格金矿目前作业深度3.16-3.84公里，未来目标4.22公里，为世界最深金矿之一",
+          "source": "https://www.nsenergybusiness.com/projects/mponeng-gold-mine/"
+        },
+        {
+          "claim": "井下岩石原始温度可达60摄氏度，矿工乘电梯下到底部约需90分钟",
+          "source": "https://www.iflscience.com/the-deepest-gold-mine-in-the-world-plunges-4-kilometers-into-the-earth-69955"
+        },
+        {
+          "claim": "Harmony Gold于2020年10月从AngloGold Ashanti手中接手运营该矿",
+          "source": "https://www.nsenergybusiness.com/projects/mponeng-gold-mine/"
+        },
+        {
+          "claim": "2024年2月，公司批准延长矿山寿命项目，将开采年限延长至2040年",
+          "source": "https://farmonaut.com/mining/anglogold-ashantis-mponeng-gold-mine-2025-heat-innovations"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mponeng-goudmyn%2C_Merafong_City-pm%2C_Wesrand-dm%2C_a.jpg",
+          "license": "GFDL 1.2+ / CC BY-SA 4.0",
+          "author": "JMK",
+          "page": "https://commons.wikimedia.org/wiki/File:Mponeng-goudmyn,_Merafong_City-pm,_Wesrand-dm,_a.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
