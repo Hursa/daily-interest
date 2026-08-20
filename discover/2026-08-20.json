@@ -1,0 +1,188 @@
+{
+  "schema": 1,
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-20T07:00:00+08:00",
+  "items": [
+    {
+      "id": "dapeng-fortress-still-lived",
+      "scope": "深圳",
+      "thesis": "六百年前建来挡海盗的城墙，如今圈住的是一片还在过日子的村子。",
+      "title": "城墙里头，还住着人",
+      "body": "大鹏所城建成于明洪武二十七年，公元一三九四年，最初是抵御海盗和倭寇的军事要塞，由深圳湾一带的卫所调兵驻守。清代它改设水师营，下辖九处营汛和四处炮台，鸦片战争期间又成了抗英据点之一。\n\n所城没有随着军事用途消失被废弃。城墙圈出的老街区一直有人住，后代讲一种叫大鹏话的方言，混着军屯口音和客家话的痕迹，城外找不到第二处说这种话的地方。城内至今保留着天后宫、多座将军府第和城门楼等二十处受保护的文物点，其中振威将军第是清代广东水师提督赖恩爵的府邸，保存最完好，游客能穿过居民晾着的衣服和堆在门口的杂物走到城墙根下。深圳的别称“鹏城”，就是从这座所城的名字来的。\n\n二〇〇一年，大鹏所城被列为全国重点文物保护单位，编号五之三七三。它没有整体搬空修成空壳景区，城墙年久也会出问题——二〇二四年六月十五日，南门东侧一段城墙发生坍塌。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dapeng_Fortress%2C_Shenzhen_%283%29.jpg",
+      "link": null,
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-20",
+      "_facts": [
+        {
+          "claim": "大鹏所城建成于明洪武二十七年（1394年）",
+          "source": "https://zh.wikipedia.org/wiki/大鹏所城"
+        },
+        {
+          "claim": "2001年6月25日大鹏所城被列为第五批全国重点文物保护单位，编号5-373",
+          "source": "https://zh.wikipedia.org/wiki/大鹏所城"
+        },
+        {
+          "claim": "城内现存20处受保护的文物点",
+          "source": "https://zh.wikipedia.org/wiki/大鹏所城"
+        },
+        {
+          "claim": "2024年6月15日南门东侧城墙发生坍塌",
+          "source": "https://zh.wikipedia.org/wiki/大鹏所城"
+        },
+        {
+          "claim": "深圳别称“鹏城”源自大鹏所城，城内保存最完好的古建筑是清代广东水师提督赖恩爵的振威将军第",
+          "source": "https://baike.baidu.com/item/大鹏所城"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dapeng_Fortress%2C_Shenzhen_%283%29.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Dinkun Chen",
+          "page": "https://commons.wikimedia.org/wiki/File:Dapeng_Fortress,_Shenzhen_(3).jpg",
+          "attributionRequired": true
+        }
+      ],
+      "tryThis": "挑一个周末，去大鹏所城城墙根下走一圈，不用做攻略，看到哪算哪。"
+    },
+    {
+      "id": "antarctica-overwinter-crew",
+      "scope": "中国",
+      "thesis": "补给船一年只来一次，南极科考站的冬天必须靠站里这二十来人自己扛过去。",
+      "title": "南极的冬天，二十人扛着",
+      "body": "一九八四年十一月二十日，中国第一支南极考察队乘向阳红十号和J一二一号船离开上海港，南下建站。向阳红十号不是破冰船，队伍必须赶在南极夏季结束前完工离开，窗口很短。一九八五年二月二十日，长城站正式建成开站，位于乔治王岛南部，是中国第一座南极科学考察站。\n\n四年后，一九八九年二月二十六日，中山站在东南极拉斯曼丘陵建成，是中国在南极建立的第二座常年科考站。两座站如今都是全年运转，夏季能容纳约六十人，进入南极的冬天后，留守的越冬队员只剩约二十人，靠储备物资和彼此度过接下来数月的隔绝期，下一趟补给船要等到来年的南极夏季。\n\n早年建站靠的向阳红十号没有破冰能力，直到一九九三年，中国花一千七百五十万美元购入一艘苏联时期建造的破冰船，改名雪龙号入役，才接手南北极的补给和科考运输。二〇一九年，第二艘破冰船雪龙二号交付使用。中山站建成后又经历多次扩建，二〇〇七年十二月二十二日启动的一轮改造历时两年多，于二〇一〇年二月完工。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zhong_shan-ant_hg.jpg",
+      "link": null,
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-08-20",
+      "_facts": [
+        {
+          "claim": "1985年2月20日长城站正式建成开站，是中国第一座南极科学考察站",
+          "source": "https://zh.wikipedia.org/wiki/中国南极长城站"
+        },
+        {
+          "claim": "1984年11月20日考察队乘向阳红10号和J121号船离开上海港南下建站",
+          "source": "https://zh.wikipedia.org/wiki/中国南极长城站"
+        },
+        {
+          "claim": "1989年2月26日中山站建成，是中国在南极建立的第二个常年科考站",
+          "source": "https://zh.wikipedia.org/wiki/中国南极中山站"
+        },
+        {
+          "claim": "两站越冬队员约20人，夏季可容纳约60人",
+          "source": "https://zh.wikipedia.org/wiki/中国南极中山站"
+        },
+        {
+          "claim": "2007年12月22日启动的中山站改造工程于2010年2月完工",
+          "source": "https://zh.wikipedia.org/wiki/中国南极中山站"
+        },
+        {
+          "claim": "1993年中国以1750万美元购入苏联建造的破冰船，改名雪龙号入役；2019年第二艘破冰船雪龙2号交付使用",
+          "source": "https://zh.wikipedia.org/wiki/雪龙号"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zhong_shan-ant_hg.jpg",
+          "license": "CC BY-SA 2.5",
+          "author": "Hannes Grobe",
+          "page": "https://commons.wikimedia.org/wiki/File:Zhong_shan-ant_hg.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "la-tomatina-tomato-fight",
+      "scope": "全球",
+      "thesis": "布尼奥尔常住九千人，八月最后一个周三，两万人挤进小镇只为互相砸烂番茄。",
+      "title": "九千人的镇子，两万人来砸番茄",
+      "body": "一九四五年，西班牙小镇布尼奥尔的广场上正举行巨人偶游行，一名参与者的行头掉了，旁人起哄让他起身继续走，争执之间有人抓起路边菜摊上的番茄扔了过去，混战由此展开。第二年，同一批人特意带着番茄回到广场，这场即兴冲突变成了每年重演的传统。\n\n二十世纪五十年代初，这项活动在佛朗哥政府治下一度被禁止，一九五七年当地人抬着一口棺材举行“番茄葬礼”抗议，活动才恢复。二〇〇二年，它被列为西班牙“国际游客兴趣节庆”。二〇一三年起，主办方开始限制参与人数，现在活动前会先卖出两万张门票，人数封顶。\n\n整场混战只持续一小时，两声发令枪响之间开始和结束，规则不许撕扯别人衣服、不许扔番茄以外的东西。二〇一五年那一场，布尼奥尔的街道上被扔掉了约十四万五千公斤番茄。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/La_Tomatina_%2825.08.2010%29_-_Spain%2C_Bu%C3%B1ol_21.jpg",
+      "link": null,
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-20",
+      "_facts": [
+        {
+          "claim": "La Tomatina起源于1945年布尼奥尔广场上一次即兴冲突，次年起成为年度传统",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        },
+        {
+          "claim": "1950年代初活动被佛朗哥政府禁止，1957年当地人以\"番茄葬礼\"抗议后恢复",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        },
+        {
+          "claim": "2002年活动获评西班牙\"国际游客兴趣节庆\"",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        },
+        {
+          "claim": "2013年起参与人数封顶，现售出约2万张门票",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        },
+        {
+          "claim": "2015年活动约消耗14.5万公斤番茄",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        },
+        {
+          "claim": "布尼奥尔常住人口约9000人",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/La_Tomatina_%2825.08.2010%29_-_Spain%2C_Bu%C3%B1ol_21.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "flydime",
+          "page": "https://commons.wikimedia.org/wiki/File:La_Tomatina_(25.08.2010)_-_Spain,_Bu%C3%B1ol_21.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "fez-chouara-tannery-dyeing",
+      "scope": "全球",
+      "thesis": "非斯的皮革匠人至今仍用鸽粪和石灰鞣皮，工序和几百年前几乎一样。",
+      "title": "把皮子泡进鸽子粪里",
+      "body": "摩洛哥非斯古城最老的一片街区非斯巴利，挤着一座舒瓦拉染坊，是城里历史最久、规模最大的皮革作坊之一，相传可以追溯到十一世纪。原皮送到这里，先被泡进由牛尿、鸽子粪、生石灰、盐和水调成的白色液体里两三天，鸽粪里的酸性物质帮着软化皮质、脱去残毛。\n\n泡软之后的皮子被转进另一排石砌染缸，用天然颜料上色：罂粟花染出红色，靛蓝染出蓝色，散沫花染出橙色。从空中或周围建筑的露台往下看，几十口染缸挨挤在一起，像一块被踩脏的调色盘。整套流程至今仍由工人赤脚站进缸里手工完成，没有被机器替换。城里还有一座锡迪穆萨染坊，规模仅次于舒瓦拉。\n\n非斯巴利这片老城区差不多三百公顷，是世界上保存最完整的大型无车城区之一，窄巷进不去车辆，运货靠的仍是骡子和手推车。一九八一年，包括这片老城区在内的非斯古城被联合国教科文组织列入世界遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Chouara_Tannery%2C_Fes_%288947682350%29.jpg",
+      "link": null,
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-08-20",
+      "_facts": [
+        {
+          "claim": "舒瓦拉染坊相传可追溯到11世纪，是非斯城内历史最久、规模最大的制革作坊之一",
+          "source": "https://en.wikipedia.org/wiki/Fez,_Morocco"
+        },
+        {
+          "claim": "鞣制工序需将原皮泡入牛尿、鸽粪、生石灰、盐和水的混合液中2-3天",
+          "source": "https://en.wikipedia.org/wiki/Chouara_Tannery"
+        },
+        {
+          "claim": "染色使用罂粟(红)、靛蓝(蓝)、散沫花/henna(橙)等天然颜料",
+          "source": "https://en.wikipedia.org/wiki/Chouara_Tannery"
+        },
+        {
+          "claim": "1981年非斯古城(含非斯巴利老城区)被列入联合国教科文组织世界遗产名录",
+          "source": "https://en.wikipedia.org/wiki/Fez,_Morocco"
+        },
+        {
+          "claim": "非斯巴利老城区约300公顷，是世界上保存最完整的大型无车城区之一；城内另有一座锡迪穆萨染坊，规模仅次于舒瓦拉",
+          "source": "https://en.wikipedia.org/wiki/Fes_el_Bali"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Chouara_Tannery%2C_Fes_%288947682350%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "just_a_cheeseburger",
+          "page": "https://commons.wikimedia.org/wiki/File:Chouara_Tannery,_Fes_(8947682350).jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
