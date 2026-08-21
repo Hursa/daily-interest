@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T07:36:49+08:00",
+  "items": [
+    {
+      "id": "lianzhou-foto-festival",
+      "scope": "连州",
+      "thesis": "一座山区县愿意腾出粮仓和鞋厂办摄影展，是因为它想被更大的世界看见。",
+      "title": "旧粮仓里的摄影年展",
+      "body": "2005年，连州还是清远下面一个不到50万人的山区小城，却做了一件大城市都没做成的事——办一届国际级摄影年展。市文化馆、图书馆、博物馆之外，主办方把废弃的旧粮仓、停产的原二鞋厂也腾了出来，墙皮不铲，水泥地不垫，直接挂上展品。评委和策展人从法国、荷兰、日本请来，墙上挂的却常常是本地摄影师拍的矿工、腊味铺和拆迁工地。\n\n这个安排延续了将近二十年。每年冬天，山城的老厂房里挂满照片，平时习惯了糖水铺和麻将馆节奏的连州人，忽然要接待从北京、上海甚至海外赶来的策展人和藏家。开幕式一过，鞋厂重新落锁，粮仓恢复空置，一直等到下一届开幕再打开。\n\n2024年那一届起，年展改成两年一次。2026年这届的主题是“日常的史诗”，聚焦市井烟火和寻常陪伴，征稿在5月15日已经截止，最佳摄影师奖奖金5万元。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Lienchow_Museum_20140617.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lienchow_Library_20140617.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://baike.baidu.com/item/%E8%BF%9E%E5%B7%9E%E5%9B%BD%E9%99%85%E6%91%84%E5%BD%B1%E5%B9%B4%E5%B1%95/6735185",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "独特",
+      "verifiedAt": "2026-08-22",
+      "_facts": [
+        {
+          "claim": "连州国际摄影年展2005年经文化部批准创办，到2024年已连续举办18届",
+          "source": "https://baike.baidu.com/item/%E8%BF%9E%E5%B7%9E%E5%9B%BD%E9%99%85%E6%91%84%E5%BD%B1%E5%B9%B4%E5%B1%95/6735185"
+        },
+        {
+          "claim": "展览场地包括连州摄影博物馆、旧粮仓、原二鞋厂等老建筑",
+          "source": "https://baike.baidu.com/item/%E8%BF%9E%E5%B7%9E%E5%9B%BD%E9%99%85%E6%91%84%E5%BD%B1%E5%B9%B4%E5%B1%95/6735185"
+        },
+        {
+          "claim": "自2024年起，年展举办周期由每年一届调整为每两年一届，下一届计划于2026年举办",
+          "source": "https://baike.baidu.com/item/%E8%BF%9E%E5%B7%9E%E5%9B%BD%E9%99%85%E6%91%84%E5%BD%B1%E5%B9%B4%E5%B1%95/6735185"
+        },
+        {
+          "claim": "2024年那届展出全球35个国家、291名中国摄影师的3000余件作品",
+          "source": "https://www.chinanews.com.cn/sh/2025/01-02/10346265.shtml"
+        },
+        {
+          "claim": "2026连州国际摄影年展主题为“日常的史诗”，大湾区青年影像计划征稿5月15日截止，最佳摄影师奖奖金5万元",
+          "source": "http://gd.news.cn/20260410/89b184815c364e7b983e63d2ac01e011/c.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Lienchow_Museum_20140617.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "drnan tu",
+          "page": "https://commons.wikimedia.org/wiki/File:Lienchow_Museum_20140617.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lienchow_Library_20140617.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "drnan tu",
+          "page": "https://commons.wikimedia.org/wiki/File:Lienchow_Library_20140617.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "naadam-three-skills",
+      "scope": "中国",
+      "thesis": "那达慕能活到今天，是因为草原把体育办成了社交，而不是竞技。",
+      "title": "那达慕：摔跤赛马射箭",
+      "body": "那达慕是蒙古语的音译，意思是“娱乐”和“游戏”，是内蒙古的蒙古族、鄂温克族、达斡尔族共有的盛会。传说1206年成吉思汗被推举为蒙古大汗那年，就办过一场盛大的那达慕，这个传统在锡林郭勒草原上，前后延续了将近800年，一直办到今天，每年多在牛羊最肥的盛夏举行。\n\n摔跤不分地域也不分体重，谁先双肩着地谁就输，一场比赛打到只剩最后一人。赛马分快马、走马、颠马三种赛法，看的不只是速度：走马讲究步伐平稳，颠马讲究耐力。射箭也有两种，站定了射的和骑在马背上边跑边射的都算，箭靶不高，全场都盯着箭出手的那一下。三项比完，套马、蒙古象棋接着上场，如今还加了球类比赛和乌兰牧骑的歌舞表演，输赢早就不是重点了。\n\n2006年5月20日，那达慕经国务院批准，列入中国第一批国家级非物质文化遗产名录，申报地正是锡林郭勒盟。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Zhurihe_Ranch_at_Naadam_1.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zhurihe_Ranch_at_Naadam_3.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/15006/",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-22",
+      "_facts": [
+        {
+          "claim": "传说1206年成吉思汗被推举为蒙古大汗时举行过盛大那达慕，这一传统在锡林郭勒草原延续将近800年",
+          "source": "https://www.ihchina.cn/project_details/15006/"
+        },
+        {
+          "claim": "摔跤不分地域体重、双肩着地即为负，赛马分快马、走马、颠马，射箭分站射与骑射",
+          "source": "https://www.ihchina.cn/project_details/15006/"
+        },
+        {
+          "claim": "2006年5月20日，那达慕经国务院批准列入第一批国家级非物质文化遗产名录",
+          "source": "https://baike.baidu.com/item/%E9%82%A3%E8%BE%BE%E6%85%95/352297"
+        },
+        {
+          "claim": "当代那达慕在男儿三艺外增加了马球、马术、田径、球类比赛、乌兰牧骑演出等内容",
+          "source": "https://baike.baidu.com/item/%E9%82%A3%E8%BE%BE%E6%85%95/352297"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Zhurihe_Ranch_at_Naadam_1.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Yoshi Canopus",
+          "page": "https://commons.wikimedia.org/wiki/File:Zhurihe_Ranch_at_Naadam_1.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zhurihe_Ranch_at_Naadam_3.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Yoshi Canopus",
+          "page": "https://commons.wikimedia.org/wiki/File:Zhurihe_Ranch_at_Naadam_3.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "norway-dnt-unstaffed-cabins",
+      "scope": "全球",
+      "thesis": "把小屋交给陌生人管理，靠的不是监控，是一把能退押金的钥匙。",
+      "title": "挪威山屋，钥匙自己配",
+      "body": "1868年，一群奥斯陆的城市中产成立了挪威山屋协会，起因是阿尔卑斯山那边的登山俱乐部让他们眼红——欧洲大陆的徒步者已经有地方过夜，挪威人自己的山区却连一张床都找不到。协会做的第一件事，就是在约通海门山区盖起最早那批小屋，此后一栋接一栋，沿着峡湾和高原铺开。\n\n一个半世纪过去，协会名下的小屋超过550栋，走三四个小时的山路总能碰上一栋。其中只有41栋常年有人值守，剩下的全靠自助：交100克朗押金换一把万能钥匙，自己开门、自己挑床位、自己在柴火炉上做饭。屋里常备干粮、燃料和被褥，都是协会雇人定期运补给的。走的时候把吃掉喝掉的东西记在一张卡片上，塞进墙上的收款箱，没有摄像头，也没人核对。\n\n协会目前有30多万个人会员，分布在57个地方分会，这套体系从1868年一直运转到现在。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Norwegian-unstaffed-mountain-hut.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/%C3%85motdalshytta.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://english.dnt.no/about-the-cabins/",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-22",
+      "_facts": [
+        {
+          "claim": "挪威山屋协会（DNT）成立于1868年1月21日",
+          "source": "https://en.wikipedia.org/wiki/Norwegian_Trekking_Association"
+        },
+        {
+          "claim": "协会目前运营超过550栋山间小屋，其中41栋常年有人值守，其余为自助或无服务小屋",
+          "source": "https://en.wikipedia.org/wiki/Norwegian_Trekking_Association"
+        },
+        {
+          "claim": "自助小屋交100克朗押金换取万能钥匙，靠信用卡表格自行记账付款",
+          "source": "https://en.wikipedia.org/wiki/Norwegian_Trekking_Association"
+        },
+        {
+          "claim": "协会现有超过30万名个人会员，分布在57个地方分会",
+          "source": "https://en.wikipedia.org/wiki/Norwegian_Trekking_Association"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Norwegian-unstaffed-mountain-hut.jpg",
+          "license": "CC0",
+          "author": "Finn-j",
+          "page": "https://commons.wikimedia.org/wiki/File:Norwegian-unstaffed-mountain-hut.jpg",
+          "attributionRequired": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/%C3%85motdalshytta.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Danmichaelo",
+          "page": "https://commons.wikimedia.org/wiki/File:%C3%85motdalshytta.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "uros-floating-islands-titicaca",
+      "scope": "全球",
+      "thesis": "芦苇岛不会自己稳固，得靠人隔几个月往上面续一层新草。",
+      "title": "浮岛在腐烂，他们在重建",
+      "body": "的的喀喀湖上漂着六十到一百多座人工岛，秘鲁一侧住着大约一千二百个乌鲁人，玻利维亚那边还有三千多，五到十户人家共用一座岛。岛的底子是从湖底松脱、自己浮起来的芦苇根块，居民把它们拖到一起，铺上一层层剪短的芦苇秆，踩上去是软的，走多了会陷下去。\n\n同一种芦苇还是他们的粮食和交通工具：剥开根部的白芯直接嚼着吃，用来补碘，也拿来编那种翘头的芦苇船。芦苇泡水会烂，底层烂得最快，差不多两三个月就要往上面续一层新草，雨季烂得更快，得补得更勤。屋子、船，甚至孩子踩的地面，材料都是同一种草，也都要跟着一起换。\n\n乌鲁人在这里躲的不只是风浪。历史上他们和岸上的艾马拉人争地盘，冲突从1722年拖到上世纪七十年代才停，浮岛某种程度上是退到湖面上的结果。1986年一场大风暴又把不少岛掀翻，那批人干脆把家搬得离岸更近一些。如今，多数乌鲁人已经在湖边的普诺市另有住处，白天回岛，晚上未必留宿。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/00_1634_Titicacasee_-_Uros_islands.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Uros_stove_stone%2C_lake_Titicaca%2C_Peru.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Uros",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-08-22",
+      "_facts": [
+        {
+          "claim": "的的喀喀湖上约有60到120多座乌鲁人的人工浮岛，秘鲁一侧约1200人、玻利维亚一侧约3343人",
+          "source": "https://en.wikipedia.org/wiki/Uros"
+        },
+        {
+          "claim": "岛体底层芦苇会腐烂，需持续在顶层添加新芦苇维持",
+          "source": "https://en.wikipedia.org/wiki/Uros"
+        },
+        {
+          "claim": "乌鲁人与艾马拉人的领地冲突从1722年持续到20世纪70年代",
+          "source": "https://en.wikipedia.org/wiki/Uros"
+        },
+        {
+          "claim": "1986年一场风暴后，多数乌鲁人将家园重建得离岸更近",
+          "source": "https://en.wikipedia.org/wiki/Uros"
+        },
+        {
+          "claim": "如今大多数乌鲁人已迁往湖边的普诺市居住",
+          "source": "https://en.wikipedia.org/wiki/Uros"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/00_1634_Titicacasee_-_Uros_islands.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "W. Bulach",
+          "page": "https://commons.wikimedia.org/wiki/File:00_1634_Titicacasee_-_Uros_islands.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Uros_stove_stone%2C_lake_Titicaca%2C_Peru.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Pethrus",
+          "page": "https://commons.wikimedia.org/wiki/File:Uros_stove_stone,_lake_Titicaca,_Peru.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
