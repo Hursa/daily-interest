@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T08:04:13+08:00",
+  "items": [
+    {
+      "id": "nushu-womens-script-jiangyong",
+      "scope": "中国",
+      "thesis": "认字的权利被拿走后，女人就自己造了一套男人看不懂的字。",
+      "title": "女人写给女人的文字",
+      "body": "清代到民国的湖南江永，女孩子照旧不被送进学堂，识字是男人的事。当地一部分女性没有等着被教，而是自己发展出一套只有女人才认得的文字——女书，笔画像汉字又不是汉字，字形细长倾斜，绣在扇面上，写在布巾和纸页里，藏进嫁妆和贴身的荷包。\n\n女书主要靠结拜姐妹之间口传心授，几个未婚女孩聚在闺阁里一起做针线、唱女歌，字就是这么学会的。她们用女书写信、写自己的一生、写给结拜姐妹的贺词和哭嫁词，内容男人读不懂，也没打算给男人看。有的女书作品被做成“三朝书”，在新娘出嫁第三天送到夫家，是女性之间互相安慰、记录处境的方式。\n\n2004年9月20日，最后一位自然习得女书、把它当日常文字使用的传人阳焕宜去世，享年98岁。2006年5月，女书习俗被列入中国第一批国家级非物质文化遗产名录。",
+      "tryThis": "写一封不打算给任何人看的信，写完就收起来，不用重读。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%E9%99%95%E5%B8%88%E5%A4%A7%E9%95%BF%E5%AE%89%E6%A0%A1%E5%8C%BA%E6%95%99%E8%82%B2%E5%8D%9A%E7%89%A9%E9%A6%86_24.jpg",
+      "link": { "url": "https://zh.wikipedia.org/wiki/%E5%A5%B3%E4%B9%A6", "label": "了解女书" },
+      "category": "elsewhere",
+      "tone": "有力",
+      "verifiedAt": "2026-08-24",
+      "_facts": [
+        { "claim": "最后一位自然习得女书的传人阳焕宜于2004年9月20日去世，享年98岁", "source": "https://zh.wikipedia.org/wiki/%E5%A5%B3%E4%B9%A6" },
+        { "claim": "2006年5月，女书习俗被列入中国第一批国家级非物质文化遗产名录", "source": "https://zh.wikipedia.org/wiki/%E5%A5%B3%E4%B9%A6" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%E9%99%95%E5%B8%88%E5%A4%A7%E9%95%BF%E5%AE%89%E6%A0%A1%E5%8C%BA%E6%95%99%E8%82%B2%E5%8D%9A%E7%89%A9%E9%A6%86_24.jpg", "license": "CC BY-SA 4.0", "author": "Liuxingy", "page": "https://commons.wikimedia.org/wiki/File:%E9%99%95%E5%B8%88%E5%A4%A7%E9%95%BF%E5%AE%89%E6%A0%A1%E5%8C%BA%E6%95%99%E8%82%B2%E5%8D%9A%E7%89%A9%E9%A6%86_24.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "maeklong-railway-market-umbrellas",
+      "scope": "全球",
+      "thesis": "拆摊子总比拆铁路容易，所以让路的规矩定成了每天躲很多次。",
+      "title": "火车从菜摊中间开过去",
+      "body": "泰国夜功府的美功铁路市场，摊位就摆在铁轨两侧，最靠里的一排菜筐离轨道不到一米，遮阳棚直接搭在轨道正上方。铁路先有，市场是后来一点点长出来的——渔港的海鲜和附近农田的蔬菜要运到火车站上车送去曼谷，摊贩索性把摊子摆在了运货必经的路口。\n\n火车每天要经过这条街好几趟。喇叭提前喊一声，摊贩把伸到轨道上的雨棚往回收，菜筐、秤、塑料凳全部往后挪，火车贴着摊位边缘缓缓开过去，车速压得很低。车尾一过，棚子马上撑回原位，买卖接着做，这一进一退练了几十年，熟练的摊主十几秒就能收完。\n\n当地人给这个市场起了个绰号，叫“收伞市场”，说的就是这一收一放的动作。市场所在的这条铁路支线于1905年通车，运营至今没有改道，市场也没有挪地方。铁路东段（旺哇艾至马哈猜段）现在每天有17趟对开列车经过，摊贩一天里要收放雨棚很多次。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Samutsongkram_Talad_Rom_Hoop_2.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/Maeklong_Railway_Market", "label": "去看看" },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-24",
+      "_facts": [
+        { "claim": "美功铁路支线于1905年通车", "source": "https://en.wikipedia.org/wiki/Maeklong_Railway_Market" },
+        { "claim": "市场绰号Talat Rom Hup，泰语意为“收伞市场”，得名于摊贩为让火车通过而收放雨棚的动作", "source": "https://en.wikipedia.org/wiki/Maeklong_Railway_Market" },
+        { "claim": "铁路东段（旺哇艾至马哈猜段）每天有17趟对开列车", "source": "https://en.wikipedia.org/wiki/Maeklong_Railway_Market" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Samutsongkram_Talad_Rom_Hoop_2.jpg", "license": "CC BY-SA 4.0", "author": "Mr.Niwat Tantayanusorn, Ph.D.", "page": "https://commons.wikimedia.org/wiki/File:Samutsongkram_Talad_Rom_Hoop_2.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "castells-catalonia-human-towers",
+      "scope": "全球",
+      "thesis": "塔越高，最上面站的人反而要越轻越小，风险压在最下面扛着的成年人肩上。",
+      "title": "人塔顶端站着个孩子",
+      "body": "这项技艺最早可以追溯到十八世纪瓦伦西亚地区的一种民间舞蹈，1712年，在巴伦西亚附近的巴尔斯镇留下了搭人塔的最早文字记载，此后逐渐演变成加泰罗尼亚各城镇年度庆典上的正式项目。\n\n加泰罗尼亚的人塔比赛，一座塔通常要叠到六到十层。最底下几层由成年人组成结实的“塔干”，扛着体重压在肩膀和后背上；越往上人越轻越小，最上面几层是专门训练过的孩子，个头最小、动作最灵活的那个最后爬到塔顶。\n\n塔顶的孩子叫“安沙内塔”，爬到最高处后要单手张开、伸出四根手指，做一个叫“阿莱塔”的手势，全场看到这个动作，才确认这座塔真正搭成了。搭塔的时候，乐手吹一种叫“格拉拉”的木管乐器定节奏，塔基周围挤满了人，双臂互相搭着围成一圈，用身体挡住万一垮塌时的冲击。\n\n这项技艺没有教材，全靠一个队伍里的人手把手带新人，塔搭到一半散架是常事，练废的比搭成的多。2010年，联合国教科文组织把加泰罗尼亚人塔列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Colla_Castellera_Nyerros_de_la_Plana-Actuaci%C3%B3_a_Manresa%2C_Spot_Seat%2C_3d6-2.jpg",
+      "link": { "url": "https://ich.unesco.org/en/RL/human-towers-00364", "label": "去看看" },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-08-24",
+      "_facts": [
+        { "claim": "1712年，巴伦西亚附近的巴尔斯镇留下搭人塔的最早文字记载", "source": "https://en.wikipedia.org/wiki/Castell" },
+        { "claim": "加泰罗尼亚人塔于2010年被列入UNESCO人类非物质文化遗产代表作名录", "source": "https://ich.unesco.org/en/RL/human-towers-00364" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Colla_Castellera_Nyerros_de_la_Plana-Actuaci%C3%B3_a_Manresa%2C_Spot_Seat%2C_3d6-2.jpg", "license": "CC BY-SA 2.0", "author": "Nyerros de la plana de Manlleu.", "page": "https://commons.wikimedia.org/wiki/File:Colla_Castellera_Nyerros_de_la_Plana-Actuaci%C3%B3_a_Manresa,_Spot_Seat,_3d6-2.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "oman-aflaj-water-turns",
+      "scope": "全球",
+      "thesis": "水不够分给所有人，阿曼人就把公平做成了一张作息表。",
+      "title": "阿曼的水渠，按钟点轮流用",
+      "body": "阿曼中部大半是沙漠，年降雨稀少，但内陆村庄几千年来一直有稳定水源，靠的是叫“法拉吉”的地下暗渠系统——山地含水层里的水，顺着极小的坡度靠重力一路流到村庄和农田，中途几乎不蒸发，也不需要抽水设备。阿曼的法拉吉分三种类型：达伍迪靠地下暗渠引水，盖利收集地表径流，艾尼直接引泉水，分别对应不同地形下的地下水情况。\n\n水到了村口之后，怎么分配是另一套规矩。渠道不是谁家离源头近谁先用，而是按户轮流开闸，顺序靠世代口传维持。今天很多渠道仍由一位叫“瓦基勒”的水利员负责，监督水渠的运转和水质，让水按次序流到每一块地。\n\n阿曼曾经有几千条这样的渠道，如今仍有约三千条在正常使用，供应着内陆村镇的农田和部分生活用水。2006年，其中五条历史最悠久的法拉吉——包括大约建于公元500年的达里斯渠——被联合国教科文组织列入世界遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/FalajDaris.JPG",
+      "link": { "url": "https://en.wikipedia.org/wiki/Aflaj_Irrigation_Systems_of_Oman", "label": "去看看" },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-24",
+      "_facts": [
+        { "claim": "阿曼现存约3000条法拉吉渠道仍在正常使用", "source": "https://en.wikipedia.org/wiki/Aflaj_Irrigation_Systems_of_Oman" },
+        { "claim": "五条历史最悠久的法拉吉（含约建于公元500年的达里斯渠）于2006年被列入UNESCO世界遗产名录", "source": "https://en.wikipedia.org/wiki/Aflaj_Irrigation_Systems_of_Oman" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/FalajDaris.JPG", "license": "CC BY-SA 3.0", "author": "Paolotacchi", "page": "https://commons.wikimedia.org/wiki/File:FalajDaris.JPG", "attributionRequired": true }
+      ]
+    }
+  ]
+}
