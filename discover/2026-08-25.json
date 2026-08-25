@@ -1,0 +1,163 @@
+{
+  "schema": 1,
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T07:52:00+08:00",
+  "items": [
+    {
+      "id": "neiliansheng-thousand-layer-sole",
+      "scope": "中国",
+      "thesis": "机器能仿千层底的样子,仿不了纳鞋人手上那点松紧分寸。",
+      "title": "千层底鞋,一纳两千针",
+      "body": "内联升创办于清咸丰三年(1853年),创始人赵廷。开店之初专做朝靴,卖给进宫面圣的官员——店名里的「内」指大内,「联升」取的是穿了这鞋官运亨通、连升三级的意头。如今店里做的鞋样式几乎没变过:圆口、白边、千层底。一双鞋要过九十道工序,用到四十种工具,从切底、圈边到纳底、绱鞋,中间没有一步是机器能替的。\n\n最费工的是纳底。学徒先学认针脚:一字底纳两千一百针,十字底纳到四千二百针,针脚要一样密、一样直,歪一针整块底就得拆了重来。一个手熟的工人纳一双底,得坐三天。\n\n材料也讲究:布料是纯棉的,粘合鞋底的糨糊用高筋面粉现打,不掺化学胶。学这门手艺没有课本,徒弟跟着师傅一针一针地看,师傅手上使多大劲、走多快,全靠自己在旁边一年年揣摩。\n\n2008年,内联升千层底布鞋制作技艺被列入国家级非物质文化遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Neiliansheng_shoe_co.JPG",
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/14511/",
+        "label": "看非遗档案"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-08-25",
+      "_facts": [
+        {
+          "claim": "内联升千层底布鞋制作技艺2008年被列入国家级非物质文化遗产名录",
+          "source": "https://www.ihchina.cn/project_details/14511/"
+        },
+        {
+          "claim": "一双内联升千层底布鞋要经过90道工序,用到40种工具,一字底纳2100针、十字底纳4200针,熟练工人纳一双底约需3天",
+          "source": "http://news.iqilu.com/china/gedi/2022/0819/5211361.shtml"
+        },
+        {
+          "claim": "内联升创办于清咸丰三年(1853年),创始人赵廷,原为专做官员朝靴的鞋店",
+          "source": "https://www.ihchina.cn/project_details/14511/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Neiliansheng_shoe_co.JPG",
+          "license": "CC BY 3.0",
+          "author": "Gisling",
+          "page": "https://commons.wikimedia.org/wiki/File:Neiliansheng_shoe_co.JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "golden-temple-langar-free-kitchen",
+      "scope": "全球",
+      "thesis": "平等不是写在门口的一句话,是同一块地上,不分身份地坐下吃同一锅饭。",
+      "title": "这口锅,一天喂十万人",
+      "body": "阿姆利则金庙的地下大厨房,一天要喂大约十万人,遇上锡克教的重要节日,这个数字还会翻倍。厨房从不打烊,二十四小时都有人在里头忙。\n\n来吃饭不用登记,不用信教,也不用付钱。教徒、游客、乞丐、政要,进门先脱鞋、洗手、蒙头,然后一排排坐在同一块地毯上,面前摆着一样的铁盘。端菜的、洗盘子的、揉面的,都是自愿来帮忙的志愿者,当地话里叫「塞瓦达」,没有工资可拿。\n\n这套做法从锡克教第一代祖师那纳克开始,已经延续了五百多年。第三代祖师阿玛尔·达斯还立过一条规矩:谁想见他,得先去兰格尔和普通人一起坐下吃顿饭,吃完了才能觐见,这条规矩他自己也不通融。\n\n1567年,莫卧儿皇帝阿克巴到访阿玛尔·达斯的驻地,同样被要求先在兰格尔的地毯上和平民一起吃了一顿饭,才获准见到祖师本人。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Volunteers_helping_at_the_Golden_Temple_langar%2C_Sikhism_in_India.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Langar_(Sikhism)",
+        "label": "读读兰格尔的历史"
+      },
+      "category": "elsewhere",
+      "tone": "有力",
+      "verifiedAt": "2026-08-25",
+      "_facts": [
+        {
+          "claim": "阿姆利则金庙的兰格尔每天为约10万人提供免费餐食,宗教节日期间人数还会翻倍,厨房24小时运作",
+          "source": "https://www.goldentempleamritsar.org/langar-community-kitchen/langar-at-golden-temple.php"
+        },
+        {
+          "claim": "兰格尔的餐食由自愿服务的志愿者(sevadar)准备和分发,不分种姓、宗教、国籍,所有人一起坐在地上同排用餐",
+          "source": "https://en.wikipedia.org/wiki/Langar_(Sikhism)"
+        },
+        {
+          "claim": "1567年莫卧儿皇帝阿克巴到访第三代祖师阿玛尔·达斯,按规矩需先在兰格尔与平民一起坐地用餐,才获准觐见",
+          "source": "https://www.allaboutsikhs.com/guru-amar-das-ji-and-king-akbar/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Volunteers_helping_at_the_Golden_Temple_langar%2C_Sikhism_in_India.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Ken Wieland",
+          "page": "https://commons.wikimedia.org/wiki/File:Volunteers_helping_at_the_Golden_Temple_langar,_Sikhism_in_India.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "marrakesh-jemaa-elfnaa-storytellers",
+      "scope": "全球",
+      "thesis": "书能印刷,这里的故事却只在说书人开口的那一刻存在,合上嘴就没了。",
+      "title": "广场上,故事讲一千年",
+      "body": "太阳一落,德吉玛广场的说书人开始占地方。没有台子,没有麦克风,一根拐杖杵在地上,人群自动围成一圈——这种围观的形式在当地话里叫「哈勒卡」。说书人不背台词,故事多半改编自《一千零一夜》,讲到精彩处,听得入神的人会往圈子中间扔硬币。\n\n这门手艺全靠口传,没有文本可查,一个说书人一辈子记住几百个故事,凭现场反应临时调整长短快慢。以前说书人走村串镇,讲一段古换几个铜板,后来才逐渐聚到这一个广场上讨生活。\n\n电视和手机普及以后,愿意学的年轻人越来越少,愿意停下来听完一整段的人也在变少,但天黑以后,广场中央仍然能看到那几个圈子。\n\n德吉玛广场本身,是公元1070年前后随马拉喀什建城一起出现的,说书这门手艺就在这片空地上,跟着广场一起长了将近一千年。2001年,德吉玛广场被联合国教科文组织列为首批「人类口头和非物质遗产代表作」。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Storytellers_in_Jemaa_el-Fnaa_%28Marrakech%2C_Morocco%29_%2815722800436%29.jpg",
+      "link": {
+        "url": "https://ich.unesco.org/en/RL/cultural-space-of-jemaa-el-fna-square-00014",
+        "label": "看联合国教科文组织的记录"
+      },
+      "category": "twohours",
+      "tone": "独特",
+      "verifiedAt": "2026-08-25",
+      "_facts": [
+        {
+          "claim": "德吉玛广场2001年被联合国教科文组织列为首批\"人类口头和非物质遗产代表作\"",
+          "source": "https://ich.unesco.org/en/RL/cultural-space-of-jemaa-el-fna-square-00014"
+        },
+        {
+          "claim": "说书人过去走村串镇讲故事,换取路人给的几个硬币",
+          "source": "https://www.arabamerica.com/the-art-of-storytelling-in-jemaa-el-fnaa-a-timeless-tradition/"
+        },
+        {
+          "claim": "德吉玛广场随马拉喀什建城于公元1070年前后由阿尔摩拉维德王朝建立",
+          "source": "https://jemaa-elfnaa.com/history/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Storytellers_in_Jemaa_el-Fnaa_%28Marrakech%2C_Morocco%29_%2815722800436%29.jpg",
+          "license": "CC0",
+          "author": "Carlos ZGZ",
+          "page": "https://commons.wikimedia.org/wiki/File:Storytellers_in_Jemaa_el-Fnaa_(Marrakech,_Morocco)_(15722800436).jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "guatemala-chicken-bus-repaint",
+      "scope": "全球",
+      "thesis": "一辆车报废的年限,在美国是终点,在危地马拉不过是刚上岗。",
+      "title": "美国校车,退休来这打工",
+      "body": "美国的校车一般开满十年、跑够十五万英里就要退役,拿去拍卖,一辆车拍卖价常常只要两千美元左右。这些车——多是黄色的Blue Bird或International牌——被整批运到危地马拉,开始第二段职业生涯。\n\n到了这里,车身先送进喷漆厂,重新漆成大红大绿,配上铬边、彩灯,车头再画一头老鹰或一张笑脸,图案和配色跟着车队走,同一条线路的车用同一套花纹,乘客隔老远就能认出该上哪一辆。发动机也常常要换,山路多,原厂那台校车引擎爬不动坡。挡风玻璃上还常贴着「耶稣爱你」「上帝保佑这辆车」之类的宗教标语,车身上喷的是司机女友的名字,这辆车长什么样,基本就是司机本人的审美。\n\n一辆原本核载七十二名学生的校车,改造以后经常挤上上百人,过道里堆着麻袋、竹筐,偶尔还真有一两只活鸡搭车。\n\n「鸡巴士」这个名字,危地马拉本地人自己并不用——车上有时真的带着活鸡,是外国游客照着这个细节给它起的外号。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Colorful_Buses_in_Quetzaltenango_City%2C_Guatemala%2C_2014.jpg",
+      "link": {
+        "url": "https://livinginguatemala.com/transport/chicken-bus-guide/",
+        "label": "看完整乘车指南"
+      },
+      "category": "stillrunning",
+      "tone": "欢快",
+      "verifiedAt": "2026-08-25",
+      "_facts": [
+        {
+          "claim": "危地马拉的\"鸡巴士\"多是退役的美国Blue Bird、International牌校车,整体运到中美洲后重新喷漆、装铬件、换发动机,一辆原载72名学生的校车会被改成\"无限载客\"的商用车",
+          "source": "https://livinginguatemala.com/transport/chicken-bus-guide/"
+        },
+        {
+          "claim": "\"鸡巴士\"这个名字是外国游客起的,得名是因为车上常有人带着活鸡搭车,危地马拉本地人并不这样称呼它",
+          "source": "https://livinginguatemala.com/transport/chicken-bus-guide/"
+        },
+        {
+          "claim": "美国校车通常服役至少10年、跑够15万英里后退役拍卖,拍卖价约2000美元左右",
+          "source": "https://www.spanish.academy/blog/a-travelers-guide-to-the-chicken-bus-in-guatemala/"
+        },
+        {
+          "claim": "很多鸡巴士的挡风玻璃上贴着宗教标语,车身喷着司机女友的名字,车辆外观是司机和车主个人风格的展示",
+          "source": "https://greenglobaltravel.com/chicken-bus-guatemala-unusual-transport/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Colorful_Buses_in_Quetzaltenango_City%2C_Guatemala%2C_2014.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Christopher William Adach",
+          "page": "https://commons.wikimedia.org/wiki/File:Colorful_Buses_in_Quetzaltenango_City,_Guatemala,_2014.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
