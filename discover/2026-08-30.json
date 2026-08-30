@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T07:00:00+08:00",
+  "items": [
+    {
+      "id": "shenzhen-hakka-qilin-dance",
+      "scope": "深圳",
+      "category": "stillrunning",
+      "tone": "有力",
+      "title": "麒麟舞不难,扎麒麟头难",
+      "thesis": "麒麟舞跳了四百年,真正稀缺的不是舞步,是扎麒麟头的手艺。",
+      "body": "深圳客家人的麒麟舞不是舞台节目,是三百多年没停过的规矩。布吉、龙华、观澜一带,近二十个客家镇乡至今保留着舞麒麟的习俗,逢年过节、婚嫁添丁都要请麒麟队上门贺喜。龙华区大船坑村的舞麒麟相传始于明代嘉靖年间,算下来已有四百多年历史,2011年被列入国家级非物质文化遗产名录,代表性传承人是土生土长的大船坑人谢玉球。\n\n一头麒麟要两人配合,一人舞头,一人舞尾,鼓、锣、钹、唢呐在旁边现场伴奏。表演有固定套路,拜前堂、走大围、采青、游花园都是师傅带徒弟一招一式口传身授,练不熟就露怯。真正难的不是舞,是扎麒麟头——骨架用木头竹片扎成,眼睛要能转,嘴巴要能合,外面裹上缀满亮片的绸布,一个老师傅埋头做也要好几天。\n\n如今能完整扎出一头麒麟头的匠人已经不多,这门扎作技艺已被列为濒危项目。保护单位大船坑麒麟协会仍然每年组织排练,把套路传给村里的下一代年轻人。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Qilin_Dance_-_Shatangbu%2C_Shenzhen_-_20180929_-_01.jpg",
+      "inlineImages": [],
+      "link": null,
+      "verifiedAt": "2026-08-30",
+      "_facts": [
+        { "claim": "大船坑舞麒麟相传始于明嘉靖年间,至今四百余年,2011年列入国家级非物质文化遗产名录（第三批,编号Ⅲ-43）,代表性传承人谢玉球", "source": "https://www.ihchina.cn/project_details/13009/" },
+        { "claim": "深圳客家地区布吉、龙华、观澜等近20个镇乡的客家人风行舞麒麟", "source": "https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E9%BA%92%E9%BA%9F%E8%88%9E/24136150" },
+        { "claim": "麒麟头用木头、竹片扎成骨架,眼睛可转动、口部可翕合,外裹缀亮片绸布,制作技艺现已濒危", "source": "https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E9%BA%92%E9%BA%9F%E8%88%9E/24136150" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Qilin_Dance_-_Shatangbu%2C_Shenzhen_-_20180929_-_01.jpg", "license": "CC BY-SA 4.0", "author": "DragonSamYU", "page": "https://commons.wikimedia.org/wiki/File:Qilin_Dance_-_Shatangbu,_Shenzhen_-_20180929_-_01.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "el-colacho-baby-jumping-spain",
+      "scope": "全球",
+      "category": "elsewhere",
+      "tone": "欢快",
+      "title": "魔鬼跳过婴儿,跳了四百年",
+      "thesis": "跳婴仪式的逻辑是魔鬼带走原罪,教廷自己都不认这套。",
+      "body": "每年圣体节后的那个星期天,西班牙布尔戈斯省的卡斯蒂略-德姆尔西亚村,会把当年出生的婴儿一个个抱到街上,平放在铺开的床垫上。一个穿红黄戏服、戴面具扮成魔鬼的人——村里人叫他“科拉乔”——从婴儿身上跃过去,手里还挥着鞭子和一副夸张的响板,围观的村民挤满两侧的窗台和阳台。\n\n这项仪式至少从1620年办到现在,由当地的“至圣圣体兄弟会”主办。传统说法是,魔鬼跳过婴儿能带走他们身上的原罪,护佑孩子一生不生病、不遭恶灵纠缠。1978年,这项活动被卡斯蒂利亚-莱昂自治区评为“旅游价值节庆”,是布尔戈斯省第一个拿到这个称号的项目。\n\n天主教教义认为原罪已经由洗礼清除,梵蒂冈因此并不承认这项仪式属于教会活动。本笃十六世在任期间,教廷明确表态反对神职人员参与其中。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/El_colacho_saltando.jpg",
+      "inlineImages": [],
+      "link": null,
+      "verifiedAt": "2026-08-30",
+      "_facts": [
+        { "claim": "El Colacho跳婴仪式至少自1620年起在西班牙布尔戈斯省卡斯蒂略-德姆尔西亚村延续至今,由圣体兄弟会主办", "source": "https://en.wikipedia.org/wiki/Baby_jumping" },
+        { "claim": "1978年该活动被评为卡斯蒂利亚-莱昂自治区'旅游价值节庆',为布尔戈斯省首个获此称号的项目", "source": "https://en.wikipedia.org/wiki/Baby_jumping" },
+        { "claim": "天主教教义认为洗礼已清除原罪,教廷不承认该仪式属于教会活动,本笃十六世任内反对神职人员参与", "source": "https://en.wikipedia.org/wiki/Baby_jumping" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/El_colacho_saltando.jpg", "license": "CC BY-SA 4.0", "author": "Celestebombin", "page": "https://commons.wikimedia.org/wiki/File:El_colacho_saltando.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "ethiopia-coffee-ceremony-jebena-buna",
+      "scope": "全球",
+      "category": "twohours",
+      "tone": "质朴",
+      "title": "喝杯咖啡,要坐够一小时",
+      "thesis": "咖啡仪式重要的不是那杯咖啡,是必须一起坐够的这段时间。",
+      "body": "埃塞俄比亚人喝咖啡,仪式感花的时间比咖啡本身长。主持人通常是家里的女性,当着客人的面把生豆子放在炭火上炒黑,炒的同时点燃乳香或檀香,满屋子是咖啡和香料混在一起的气味。豆子炒好用杵臼捣碎,加水倒进一种叫jebena的黑陶罐里,架在炭火上慢慢煮开。\n\n咖啡要冲三轮,每一轮都有名字:第一轮叫abol,最浓;第二轮叫tona;第三轮叫baraka,意思是祝福,被认为是最重要的一轮。倒咖啡时壶嘴要举到离杯子约一英尺高,中途不停手,直到每个杯子都倒满。地上常铺一层青草,点缀着黄色小花做装饰。\n\n这一套流程通常要花上一个多小时,埃塞俄比亚人几乎每天都这样和邻居、亲戚坐下来喝一轮。2025年,埃塞俄比亚政府启动了将这项咖啡仪式申报联合国教科文组织人类非物质文化遗产代表作名录的准备工作。",
+      "tryThis": "今天泡咖啡或茶时把手机放到另一个房间,像仪式里那样,喝完这一壶再回去做别的事。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ethiopian_coffee_ceremony_-_Addis_Ababa.jpg",
+      "inlineImages": [],
+      "link": null,
+      "verifiedAt": "2026-08-30",
+      "_facts": [
+        { "claim": "埃塞俄比亚咖啡仪式称jebena buna,由家中女性主持,现场炒豆并燃香,分abol、tona、baraka三轮冲泡", "source": "https://en.wikipedia.org/wiki/Coffee_ceremony_of_Ethiopia_and_Eritrea" },
+        { "claim": "2025年埃塞俄比亚启动将传统咖啡仪式申报联合国教科文组织人类非物质文化遗产代表作名录的准备工作", "source": "https://www.unesco.org/en/articles/brewing-heritage-ethiopia-advances-file-preparation-traditional-coffee-ceremony-unesco-intangible" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ethiopian_coffee_ceremony_-_Addis_Ababa.jpg", "license": "CC BY 2.0", "author": "Irene2005", "page": "https://commons.wikimedia.org/wiki/File:Ethiopian_coffee_ceremony_-_Addis_Ababa.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "regong-thangka-mineral-pigments",
+      "scope": "中国",
+      "category": "mastery",
+      "tone": "独特",
+      "title": "唐卡的颜料,是矿石磨出来的",
+      "thesis": "唐卡颜料比丙烯贵十几倍,画师买的是几百年不褪色。",
+      "body": "画一幅唐卡,颜料要先用石头磨出来。朱砂、石黄、石青、石绿是常用色,讲究的还要研磨金粉、银粉、珍珠粉、松石粉,细细碾成粉末,调胶时加一点牛胆汁防腐——这样颜色才压得住几百年不褪。这门手艺叫热贡艺术,发源于青海同仁,2006年列入国家级非物质文化遗产名录,2009年被联合国教科文组织列入人类非物质文化遗产代表作名录。\n\n唐卡最早可以追溯到松赞干布时期,相传第一幅唐卡是他用自己的鼻血画成的度母像。如今同仁十万多居民里,有两万多人靠画唐卡谋生,一条街上开的多是画室。熟练画工画一幅普通尺寸的唐卡要一个月,复杂的大幅唐卡能画上几年,一笔勾错整幅都要重新起稿。\n\n矿物颜料的成本比丙烯颜料贵出十几倍,画师们仍然坚持用它——纸本水彩画十年就会褪色,矿物颜料的唐卡传世数百年颜色还在。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Painting_Thangka_Lhasa_Tibet_Luca_Galuzzi_2006.jpg",
+      "inlineImages": [],
+      "link": null,
+      "verifiedAt": "2026-08-30",
+      "_facts": [
+        { "claim": "热贡艺术2006年列入国家级非物质文化遗产名录,2009年列入联合国教科文组织人类非物质文化遗产代表作名录", "source": "http://www.china.org.cn/arts/2024-04/03/content_117087854.htm" },
+        { "claim": "唐卡颜料多用朱砂、石黄、石青、石绿等矿物质颜料及金粉描金,经多次研磨、加胶调制", "source": "https://www.ihchina.cn/project_details/11420/" },
+        { "claim": "熟练画工完成一幅唐卡需要一个月时间", "source": "https://www.ihchina.cn/project_details/11420/" },
+        { "claim": "同仁市十万多居民中有超过两万人从事热贡绘画工作", "source": "https://www.163.com/dy/article/IP0N9RMM0541MRHS.html" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Painting_Thangka_Lhasa_Tibet_Luca_Galuzzi_2006.jpg", "license": "CC BY-SA 2.5", "author": "Luca Galuzzi (Lucag)", "page": "https://commons.wikimedia.org/wiki/File:Painting_Thangka_Lhasa_Tibet_Luca_Galuzzi_2006.jpg", "attributionRequired": true }
+      ]
+    }
+  ]
+}
