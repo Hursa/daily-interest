@@ -1,0 +1,93 @@
+{
+  "schema": 1,
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T07:00:00+08:00",
+  "items": [
+    {
+      "id": "dawan-hakka-fortress",
+      "scope": "深圳",
+      "category": "stillrunning",
+      "tone": "独特",
+      "title": "两百年的围屋,大门还开着",
+      "thesis": "曾经用来防贼的墙和碉楼,两百年后成了让人愿意走进去的理由。",
+      "body": "大万世居在深圳坪山区大万村，是曾氏家族在清代乾隆年间建起的客家围屋。围屋呈方形城堡状，内外两重墙夹着中轴线上的祠堂和天井，四角各起一座三层高的碉楼，远看像一座缩小的堡垒，当地人也叫它“石头城”。\n\n开基的人叫曾传周，从坪山三洋湖迁来另立门户。那时沿海一带常有盗匪流窜，客家人聚族而居，靠的就是这种里三层外三层的墙和角楼——墙厚到能挡火铳，碉楼上能看到几里外的动静，一有风吹草动就敲锣示警。整座围屋占地一万五千平方米，房间超过四百间，以宗祠为中心组织出层层院落，一个宗族几代人挤在同一圈墙里，靠的正是这份密不透风。\n\n后来年轻人陆续搬去楼房，围屋一度只剩老人和空屋。1984年它被列为深圳市重点文物保护单位，当地近些年又把它修缮起来，引入展览和文创活动，游客又开始走进那道厚墙。2002年7月，大万世居被列为广东省重点文物保护单位。",
+      "tryThis": "去深圳坪山的大万世居走一圈,数一数四个角上的碉楼。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/%E5%A4%A7%E4%B8%87%E4%B8%96%E5%B1%85%E4%B8%BB%E9%97%A8.jpg",
+      "inlineImages": [],
+      "link": { "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_929491.html", "label": "去看看" },
+      "verifiedAt": "2026-08-31",
+      "_facts": [
+        { "claim": "大万世居始建于清乾隆年间,乾隆五十六年(1791年)前建成,距今二百余年", "source": "https://www.szdag.gov.cn/dawh/tqssn/content/post_929491.html" },
+        { "claim": "大万世居占地约1.5万平方米,房间超过400间,呈城堡式方形布局,内外两重墙,四角设三层高碉楼", "source": "https://www.szdag.gov.cn/dawh/tqssn/content/post_929491.html" },
+        { "claim": "大万世居1984年被列为深圳市重点文物保护单位,2002年7月被列为广东省重点文物保护单位", "source": "https://www.szdag.gov.cn/dawh/tqssn/content/post_929491.html" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/%E5%A4%A7%E4%B8%87%E4%B8%96%E5%B1%85%E4%B8%BB%E9%97%A8.jpg", "license": "CC BY-SA 4.0", "author": "Lhzss8", "page": "https://commons.wikimedia.org/wiki/File:大万世居主门.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "hoh-xil-patrol-team",
+      "scope": "中国",
+      "category": "limits",
+      "tone": "有力",
+      "title": "可可西里巡山队,三代接力",
+      "thesis": "枪声停了十几年,巡山队仍然每三天就要走进这片无人区一次。",
+      "body": "可可西里在青海腹地，面积约四点五万平方公里，平均海拔接近四千九百米，是保护区里最荒凉的一块无人区，常年只有巡山队员和野生动物出没，手机在这里大多没有信号。\n\n索南达杰保护站是这里的第一个保护站，建于1997年，位于距离唐古拉山口300多公里的地方，最初的任务是拦住猎杀藏羚羊的盗猎者。如今接力驻守的巡山队已经传到第三代，上百名队员轮流值守，每三天要出一次小规模巡线，一年至少十二次大规模巡山，沿途清理盗猎者留下的陷阱和垃圾，遇到陷进沼泽的车辆或迷路的驴友也要负责营救。车陷进沼泽、暴风雪里就地扎营，是巡山路上的日常，通讯基本靠对讲机和经验判断方向。\n\n这份坚持有了回报：藏羚羊数量从二十世纪八九十年代全国不足两万只，恢复到目前约三十万只，可可西里区域内现存七万余只。2009年至今，可可西里保护区内再没有听到盗猎的枪声。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hoh_xil_scouts.jpg",
+      "inlineImages": [],
+      "link": { "url": "https://www.news.cn/politics/20250118/875487cc1797471aa9aec1d85cb6b023/c.html", "label": "去看看" },
+      "verifiedAt": "2026-08-31",
+      "_facts": [
+        { "claim": "可可西里面积约4.5万平方公里,平均海拔接近4900米", "source": "https://www.news.cn/politics/20250118/875487cc1797471aa9aec1d85cb6b023/c.html" },
+        { "claim": "索南达杰保护站1997年建成,是可可西里第一个保护站,距唐古拉山口300多公里", "source": "https://www.news.cn/politics/20250118/875487cc1797471aa9aec1d85cb6b023/c.html" },
+        { "claim": "百余名队员组成的三代巡山队,每3天进行一次小规模巡线,每年至少12次大规模巡山", "source": "https://www.news.cn/politics/20250118/875487cc1797471aa9aec1d85cb6b023/c.html" },
+        { "claim": "全国藏羚羊数量已从二十世纪八九十年代不足两万只恢复到约30万只,可可西里区域内现存7万余只;2009年至今保护区内未再出现盗猎枪声", "source": "https://www.news.cn/politics/20250118/875487cc1797471aa9aec1d85cb6b023/c.html" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hoh_xil_scouts.jpg", "license": "CC BY-SA 4.0", "author": "Nicholas Five", "page": "https://commons.wikimedia.org/wiki/File:Hoh_xil_scouts.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "mumbai-dhobi-ghat",
+      "scope": "全球",
+      "category": "mastery",
+      "tone": "质朴",
+      "title": "全孟买的衣服,在这儿洗净",
+      "thesis": "两百户洗衣工守着同一片石台,把洗衣做成了外包不走的手艺。",
+      "body": "孟买的Dhobi Ghat建于1890年，英国殖民时期为满足军队、医院和上流家庭的洗衣需求而建，就设在马哈拉克希米火车站旁边，是孟买最大的露天洗衣场，也被称为全球最大的户外洗衣房。\n\n上千名洗衣工（dhobi）每天在一排排石头搓衣台前弯腰劳作，把衣物摔打在专用的“打衣石”上去污，拧干后挂上头顶密密麻麻的绳网晾晒。这里常住着约两百户洗衣工家庭，很多家庭已经在这片石台上干了三四代人，手艺和摊位一起传给下一代。每天要处理超过十万件衣物，分别来自孟买的酒店、医院和各家洗衣店，一年的营业额能到一亿卢比左右。谁的衣服归谁，靠的是手写记号和几十年练出来的记忆，而不是电脑系统。\n\n如今高楼已经围到了洗衣场四周，来孟买的游客常常特意爬上天桥俯瞰这片石台。这片露天洗衣场如今被列为二级保护建筑（Grade II B Heritage Structure）。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dhobi_Ghat%2C_Mumbai.jpg",
+      "inlineImages": [],
+      "link": { "url": "https://en.wikipedia.org/wiki/Dhobi_Ghat_(Mumbai)", "label": "去看看" },
+      "verifiedAt": "2026-08-31",
+      "_facts": [
+        { "claim": "Dhobi Ghat建于1890年,英国殖民时期为满足军队、医院、上流家庭洗衣需求而建,是孟买最大的露天洗衣场", "source": "https://en.wikipedia.org/wiki/Dhobi_Ghat_(Mumbai)" },
+        { "claim": "这里常住约200户洗衣工家庭,每天处理超过10万件(一lakh)衣物", "source": "https://en.wikipedia.org/wiki/Dhobi_Ghat_(Mumbai)" },
+        { "claim": "Dhobi Ghat已被列为二级保护建筑(Grade II B Heritage Structure)", "source": "https://en.wikipedia.org/wiki/Dhobi_Ghat_(Mumbai)" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dhobi_Ghat%2C_Mumbai.jpg", "license": "CC BY-SA 4.0", "author": "Bernard Gagnon", "page": "https://commons.wikimedia.org/wiki/File:Dhobi_Ghat,_Mumbai.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "bulgaria-kukeri-surva-festival",
+      "scope": "全球",
+      "category": "elsewhere",
+      "tone": "欢快",
+      "title": "保加利亚冬天,村口全是怪兽",
+      "thesis": "面具做得越吓人,来年的日子被相信会过得越顺。",
+      "body": "每年1月13日到14日，也就是旧历新年前后，保加利亚佩尔尼克（Pernik）地区的村庄里，男人们套上兽皮、戴着木刻面具，腰间挂满铜铃，扮成“库克力”（kukeri）游街驱鬼。传统上他们要赶在天亮前挨家挨户走完，据说这样“太阳才不会在路上撞见他们”。\n\n面具大多刻成公羊、山羊或双面怪兽的样子，队伍拖着铃铛走遍全村，铃声越响，越能把“恶灵”吓跑。队伍里还有人扮演新郎新娘、村长，甚至一头“熊”——熊会突然扑向围观的人，据说被扑中的人这一年会走运。这套装扮和游行传统属于巴尔干地区流传已久的化装游行习俗，并不是十九世纪学者曾经以为的色雷斯古俗，佩尔尼克每年还会办一场国际化装游戏节，吸引其他国家的化装队伍来同台表演。\n\n2015年，佩尔尼克地区的Surva化装游行被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Surva_Festival_-_Bulgarian_Kukeri_%28Pernik%2C_Bulgaria%29.jpg",
+      "inlineImages": [],
+      "link": { "url": "https://ich.unesco.org/en/RL/surova-folk-feast-in-pernik-region-00968", "label": "去看看" },
+      "verifiedAt": "2026-08-31",
+      "_facts": [
+        { "claim": "保加利亚佩尔尼克地区的Surva化装游行每年1月13-14日举行,是旧历新年的驱邪仪式", "source": "https://ich.unesco.org/en/RL/surova-folk-feast-in-pernik-region-00968" },
+        { "claim": "2015年该习俗被列入联合国教科文组织人类非物质文化遗产代表作名录", "source": "https://ich.unesco.org/en/RL/surova-folk-feast-in-pernik-region-00968" },
+        { "claim": "Kukeri并非源自古色雷斯人,而是巴尔干地区近代早期形成的化装游行传统,19世纪学者的色雷斯起源说已被现代学界否定", "source": "https://en.wikipedia.org/wiki/Kukeri" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Surva_Festival_-_Bulgarian_Kukeri_%28Pernik%2C_Bulgaria%29.jpg", "license": "CC BY-SA 4.0", "author": "Dachegraphy", "page": "https://commons.wikimedia.org/wiki/File:Surva_Festival_-_Bulgarian_Kukeri_(Pernik,_Bulgaria).jpg", "attributionRequired": true }
+      ]
+    }
+  ]
+}
