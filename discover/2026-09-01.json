@@ -1,0 +1,200 @@
+{
+  "schema": 1,
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T07:00:15+08:00",
+  "items": [
+    {
+      "id": "nantou-ancient-city-1700-years",
+      "scope": "深圳",
+      "thesis": "关内高楼包围着一座老城，它曾经的辖区，包括今天整个香港。",
+      "title": "深圳最古老的城，藏在写字楼中间",
+      "body": "深圳南头地铁站C出口出来，穿过写字楼的玻璃幕墙，一段灰褐色的老城墙横在路口。城门洞上方一块石匾，阴刻着“宁南”两个篆字，城楼的飞檐斗拱和后面几十层高的住宅楼几乎贴在一起。很少有人知道，深圳最早的城，不在福田，也不在罗湖，就在这堵墙后面。\n\n东晋咸和六年，朝廷在这里设东官郡，辖地一路延伸到珠江口两岸。明万历元年，朝廷正式设新安县，县治定在南头，管辖范围就是今天的深圳全境，加上香港岛、九龙和新界。这段建制一直延续到1898年，英国从清政府手里租下新界，新安县的地图才被从中间划开一道线。\n\n古城衰落后长成一片城中村，一千多栋房子挤在不到一平方公里的地皮上。2019年万科牵头启动微改造，不推倒重建，只翻新沿街立面，2020年8月26日，堵了三十多年的南北主街重新打通开街。城墙根下的老铺子照常营业，古城里现在住着超过三万人。",
+      "tryThis": "周末坐地铁到南头古城站，从南门走到北门，看这一趟能不能走出一千七百年的落差。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A82022.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E_%E4%B8%AD%E5%B1%B1%E8%A5%BF%E8%A1%97_-_panoramio.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://zh.wikipedia.org/wiki/%E5%8D%97%E5%A4%B4_(%E6%B7%B1%E5%9C%B3)",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "独特",
+      "verifiedAt": "2026-09-01",
+      "_facts": [
+        {
+          "claim": "东晋咸和六年在南头设东官郡，是深港地区最早的行政建制之一",
+          "source": "http://www.sz.gov.cn/szstory/202301/content/post_10394649.html"
+        },
+        {
+          "claim": "1573年（明万历元年）设新安县，县治在南头，辖地包括今深圳全境及香港岛、九龙、新界",
+          "source": "https://zh.wikipedia.org/zh-hans/%E6%96%B0%E5%AE%89%E7%B8%A3"
+        },
+        {
+          "claim": "1898年《展拓香港界址专条》签订，英国从新安县境内租借新界99年",
+          "source": "https://zh.wikipedia.org/zh-hans/%E5%B1%95%E6%8B%93%E9%A6%99%E6%B8%AF%E7%95%8C%E5%9D%80%E5%B0%88%E6%A2%9D"
+        },
+        {
+          "claim": "2019年万科启动南头古城微改造，2020年8月26日南北主街重新开街，古城内住户超过3万人",
+          "source": "https://www.sohu.com/a/449469400_175523"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A82022.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Iswzo",
+          "page": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A82022.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E_%E4%B8%AD%E5%B1%B1%E8%A5%BF%E8%A1%97_-_panoramio.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "wanghongliu",
+          "page": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E_%E4%B8%AD%E5%B1%B1%E8%A5%BF%E8%A1%97_-_panoramio.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "up-helly-aa-shetland-fire-festival",
+      "scope": "全球",
+      "thesis": "与其忍受漫长的极夜，设得兰人选择办一场游行，把一艘船烧给冬天看。",
+      "title": "苏格兰小岛，冬天要烧一艘船",
+      "body": "一月的最后一个星期二，天黑透了，一千多人举着火把，从设得兰群岛首府勒威克的街道上走过。队伍尽头停着一艘手工打造的仿古战船，船头刻着龙头。火把一起扔进船舱，整艘船在几分钟内烧成灰烬，人群唱着专门为这天写的歌。\n\n这个仪式的历史比人们以为的短。拿破仑战争结束后，回乡的年轻人在冬天最黑的日子里找乐子——拖着燃烧的沥青桶在勒威克街头狂奔，常常烧坏房子和栅栏。这种“拖桶”游戏1874年被禁止，年轻人转而举着火把游行，1881年办了第一届正式的火把巡游，1889年第一次烧船，1905年才有了那首固定传唱的会歌。\n\n维京长船和北欧武士装扮，是十九世纪的人自己加上去的，并非维京时代流传下来的仪式。整个设得兰群岛每年冬天要办十几场大大小小的Up Helly Aa，勒威克那场规模最大，固定在每年一月的最后一个星期二举行。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lerwick_Up_Helly_Aa_Guizers_in_Procession.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Burning_the_galley_at_Uyeasound_Up_Helly_Aa_2013_-_geograph.org.uk_-_3332812.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Up_Helly_Aa",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-01",
+      "_facts": [
+        {
+          "claim": "Up Helly Aa起源于拿破仑战争结束后，年轻人拖燃烧沥青桶游行，该行为于1874年被禁止",
+          "source": "https://en.wikipedia.org/wiki/Up_Helly_Aa"
+        },
+        {
+          "claim": "1881年举行第一次正式火把游行，1889年第一次烧毁仿古战船，1905年会歌写成",
+          "source": "https://blog.historicenvironment.scot/2025/01/helly-aa-fire-winter/"
+        },
+        {
+          "claim": "勒威克Up Helly Aa固定在每年一月最后一个星期二举行",
+          "source": "https://www.shetland.org/visit/events/lerwick-uha"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lerwick_Up_Helly_Aa_Guizers_in_Procession.jpg",
+          "license": "CC BY 4.0",
+          "author": "Griceylipper",
+          "page": "https://commons.wikimedia.org/wiki/File:Lerwick_Up_Helly_Aa_Guizers_in_Procession.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Burning_the_galley_at_Uyeasound_Up_Helly_Aa_2013_-_geograph.org.uk_-_3332812.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Mike Pennington",
+          "page": "https://commons.wikimedia.org/wiki/File:Burning_the_galley_at_Uyeasound_Up_Helly_Aa_2013_-_geograph.org.uk_-_3332812.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "miao-silver-smithing-guizhou",
+      "scope": "中国",
+      "thesis": "同一件银饰，錾刻和编丝全凭手感拼合，没有两件长得一模一样。",
+      "title": "打一顶银冠，要经三十道工序",
+      "body": "贵州雷山县西江镇，控拜、麻料、乌高三个寨子，几乎家家户户开着银饰作坊。天没亮，炉子先烧起来，银块在坩埚里化成液体，倒进模具冷却，才算真正开工。头饰、颈饰、胸饰、腰饰、臂饰、手饰，苗家女人过节时全副武装，一身银饰摞起来能有好几斤重。\n\n苗族银饰锻造技艺是苗族民间独有的技艺，从绘图、雕刻到最后制成，一共三十道工序，包含铸炼、捶打、焊接、编结、洗涤等环节，中间要经过约960摄氏度的高温熔炼，还有数不清的捶打。拉丝、编丝、雕刻、盘丝是最费工的四步——银子先拉成比头发还细的丝，再一根根编、盘、焊，拼出鱼、鸟、花瓣的形状，最后合不合适，银匠靠的是手感，不是尺子量出来的数字。\n\n2006年，湘西凤凰县和贵州雷山县联合申报的苗族银饰锻造技艺，入选第一批国家级非物质文化遗产名录。此后黄平、台江、剑河等地的银饰锻造技艺，也陆续列入国家级名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Silver_headdress_of_the_Miao_ethnic_group_in_Huangping.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Danjiang%2C_Miao_village%2C_women_at_festival.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/14331/",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-01",
+      "_facts": [
+        {
+          "claim": "苗族银饰锻造技艺共有三十道工序，包含拉丝、编丝、雕刻、盘丝等关键步骤",
+          "source": "https://www.ihchina.cn/project_details/14331/"
+        },
+        {
+          "claim": "银饰锻造需经约960摄氏度高温熔炼与反复捶打",
+          "source": "http://gz.wenming.cn/whjs/mzwh_62862/202501/t20250117_6860038.shtml"
+        },
+        {
+          "claim": "2006年湘西凤凰县和贵州雷山县联合申报的苗族银饰锻制技艺入选第一批国家级非物质文化遗产名录",
+          "source": "https://baike.baidu.com/item/%E8%8B%97%E6%97%8F%E9%93%B6%E9%A5%B0%E9%94%BB%E5%88%B6%E6%8A%80%E8%89%BA/7978018"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Silver_headdress_of_the_Miao_ethnic_group_in_Huangping.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "HoweyYuan",
+          "page": "https://commons.wikimedia.org/wiki/File:Silver_headdress_of_the_Miao_ethnic_group_in_Huangping.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Danjiang%2C_Miao_village%2C_women_at_festival.jpg",
+          "license": "CC BY 2.0",
+          "author": "Arian Zwegers",
+          "page": "https://commons.wikimedia.org/wiki/File:Danjiang,_Miao_village,_women_at_festival.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "everest-porter-load-carrying",
+      "scope": "全球",
+      "thesis": "登山者背着相机和保暖衣，把氧气瓶和帐篷一步步背上山的，是背夫。",
+      "title": "扛着比自己重的货，走去珠峰",
+      "body": "昆布山谷没有公路，从卢卡拉机场往上，所有物资都得靠人力或牦牛驮。登山小径上，背夫弓着腰，额头绷着一根宽布带，布带另一头系着背后的竹筐——煤气罐、建材、游客的行李，甚至还没拆封的太阳能板，都靠这根带子吊在后腰以上。\n\n研究人员测过背夫扛货的重量：男性平均背着相当于自己体重93%的货物，女性平均66%，有记录的最重一次达到体重的175%，比自己整个人还重。他们大多不用双肩包那种把重量分散在肩膀上的背法，几乎全压在额头和后颈上。\n\n背夫按重量和趟数拿钱，扛得越多挣得越多，没有人限制上限。更高海拔那部分工作交给攀登夏尔巴人——搭营地、修路绳、往上运氧气瓶，一个登山季挣的钱能到当地平均工资的四倍，风险也更大。过去十年，珠峰上有42名工作人员死亡，多数死于雪崩或6000米高度附近的落石落冰。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sherpa_carrying_load_detail%2C_Weight_and_Size_doesn%27t_matter_for_Sherpa_People_near_Dingboche_%28cropped%29.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://www.npr.org/sections/goatsandsoda/2017/03/12/517923490/how-does-a-nepalese-sherpa-carry-so-much-weight",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-01",
+      "_facts": [
+        {
+          "claim": "背夫平均背负相当于自身体重93%（男）/66%（女）的货物，有记录的最重达175%",
+          "source": "https://www.npr.org/sections/goatsandsoda/2017/03/12/517923490/how-does-a-nepalese-sherpa-carry-so-much-weight"
+        },
+        {
+          "claim": "过去十年珠峰有42名工作人员死亡，多数因雪崩或6000米高度附近落石落冰",
+          "source": "https://www.cbsnews.com/news/everest-commercialization-brings-opportunity-pressure-to-sherpas-60-minutes-transcript/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sherpa_carrying_load_detail%2C_Weight_and_Size_doesn%27t_matter_for_Sherpa_People_near_Dingboche_%28cropped%29.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Goutam1962",
+          "page": "https://commons.wikimedia.org/wiki/File:Sherpa_carrying_load_detail,_Weight_and_Size_doesn%27t_matter_for_Sherpa_People_near_Dingboche_(cropped).jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
