@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T07:00:15+08:00",
+  "items": [
+    {
+      "id": "oymyakon-coldest-village",
+      "scope": "全球",
+      "thesis": "零下55度是当地唯一被允许停课的门槛，别的一切都照常运转。",
+      "title": "世界最冷的镇，还住着人",
+      "body": "俄罗斯萨哈共和国的奥伊米亚康，被认为是地球上有常住人口的地方里最冷的一处。它的名字在当地埃文语里意为“不结冰的水”，指的是附近一处终年不封冻的温泉——河水常年不冻，气温却常年往下探。\n\n当地气温从每年10月26日到次年3月16日，没有一天升到过零度以上。1933年2月6日，气象站测到零下67.7摄氏度，是北半球有记录以来最低的气温之一；1931年1月，这里整月的平均气温也低到零下54.1度，最高温和最低温之间相差超过100摄氏度。\n\n往北629公里外的上扬斯克，同样常年争着“北方寒极”这个称号，两地谁更冷，至今没有定论。但日子在这两个地方都照样得往下过——牲口要放出去吃草，柴要砍，水要打，孩子该上学还是上学。\n\n当地把“能不能出门”这件事定成了一条明确的线：2010年人口普查记录，奥伊米亚康常住462人，学校只有在气温低于零下55摄氏度时才会停课。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Oymyakon_-_190228_DSC_5642.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/Oymyakon", "label": "去看看" },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-02",
+      "_facts": [
+        { "claim": "1933年2月6日，奥伊米亚康气象站记录到零下67.7摄氏度的低温", "source": "https://en.wikipedia.org/wiki/Oymyakon" },
+        { "claim": "奥伊米亚康的学校只有在气温低于零下55摄氏度时才会停课", "source": "https://en.wikipedia.org/wiki/Oymyakon" },
+        { "claim": "2010年人口普查记录奥伊米亚康有462名常住居民", "source": "https://en.wikipedia.org/wiki/Oymyakon" },
+        { "claim": "奥伊米亚康在埃文语里意为不结冰的水，源自附近一处终年不封冻的温泉", "source": "https://en.wikipedia.org/wiki/Oymyakon" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Oymyakon_-_190228_DSC_5642.jpg", "license": "CC BY-SA 4.0", "author": "Ilya Varlamov", "page": "https://commons.wikimedia.org/wiki/File:Oymyakon_-_190228_DSC_5642.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "chongqing-air-raid-shelter-hotpot",
+      "scope": "中国",
+      "thesis": "战争留下的洞穴没有被填平，重庆人把它们变成了全年最凉快的一张饭桌。",
+      "title": "防空洞里，火锅照常开",
+      "body": "1937年起，日本战机开始轰炸重庆，山城本身就是天然的掩体，全城开始往山体里凿洞。防空洞进出方便、冬暖夏凉，警报一响，人就往洞里钻。\n\n抗战结束后，警报停了，洞和山都没有搬走。1997年重庆成为直辖市后，当地开始规划把这些闲置的洞穴利用起来；2018年，政府又鼓励创业者把它们改造成啤酒坊、咖啡馆和餐厅，防空洞才算真正从“备用的躲藏处”变成了日常生意场所。\n\n1989年，文化宫对面一处当年躲炸弹用的防空洞被改成了饭馆，洞亭火锅由此开张——巷道窄得一排只摆得下一张桌子，弯弯绕绕像个迷宫，却靠着洞里四季恒温的特性，不用空调也能撑过重庆的三伏天，三十多年没挪过地方。\n\n据不完全统计，重庆现存防空洞1600多个，总使用面积约110万平方米，其中一部分陆续被改造成火锅店、酒吧和书店，每年吸引上百万人专程走进去看看。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/%E4%BD%9B%E5%9B%BE%E5%85%B3%E5%85%AC%E5%9B%AD%E4%B8%80%E5%A4%84%E9%98%B2%E7%A9%BA%E6%B4%9E.jpg",
+      "link": { "url": "https://rmfkb.cq.gov.cn/sy_246/bmdt/zqrfdt/202310/t20231025_12467961_wap.html", "label": "去看看" },
+      "category": "stillrunning",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-02",
+      "_facts": [
+        { "claim": "重庆现存防空洞1600多个，总使用面积约110万平方米", "source": "https://rmfkb.cq.gov.cn/sy_246/bmdt/zqrfdt/202310/t20231025_12467961_wap.html" },
+        { "claim": "洞亭火锅1989年在文化宫对面的防空洞里开业，至今三十多年没换地方", "source": "https://news.qq.com/rain/a/20210904A05M2500" },
+        { "claim": "1997年重庆成为直辖市后开始规划利用防空洞，2018年政府鼓励改造成餐厅、啤酒坊等", "source": "https://finance.sina.com.cn/jjxw/2024-10-14/doc-incsnqmf1703663.shtml" },
+        { "claim": "重庆的防空洞每年吸引上百万人专程参观", "source": "https://finance.sina.com.cn/jjxw/2024-10-14/doc-incsnqmf1703663.shtml" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/%E4%BD%9B%E5%9B%BE%E5%85%B3%E5%85%AC%E5%9B%AD%E4%B8%80%E5%A4%84%E9%98%B2%E7%A9%BA%E6%B4%9E.jpg", "license": "CC BY-SA 4.0", "author": "重庆轨交18", "page": "https://commons.wikimedia.org/wiki/File:佛图关公园一处防空洞.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "pingyao-lacquerware-hand-polish",
+      "scope": "中国",
+      "thesis": "推光漆器最后那层光泽不是抛光机磨出来的，是老匠人手掌上的老茧磨出来的。",
+      "title": "漆器最后一步，靠手掌磨",
+      "body": "平遥推光漆器的历史可以追溯到唐代，盛于明清；1958年，当地成立了平遥推光漆器厂，把散落各处的漆坊整合到了一起。制作要经过木胎、灰胎、漆工、画工、镶嵌五大道工序，细分下来有几十个步骤，一件成品从开工到出货，往往要花上大半年。\n\n最后一步不靠工具。匠人先用细砂纸把漆面磨平，再用木炭蘸水打磨增加黑度，接着用头发蘸油继续磨，最后手掌蘸上特制的细砖灰和麻油，在漆面上一圈圈推磨，直到表面亮得能照出人影——“推光”这个名字，就是这么来的。\n\n如今平遥全城约有50家生产网点、70家销售点，一年总产值1000多万元，大多是几个人的小作坊在撑着。当地漆艺大师薛生金教出140多名徒弟，至今没有一个人能完整掌握他的全部技艺。\n\n2006年5月20日，平遥推光漆器髹饰技艺被列入第一批国家级非物质文化遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Piingyao_lacquer_screen.JPG",
+      "link": { "url": "https://www.ihchina.cn/news_1_details/11471.html", "label": "去看看" },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-09-02",
+      "_facts": [
+        { "claim": "平遥推光漆器制作分木胎、灰胎、漆工、画工、镶嵌五大道工序，细分下来有几十个步骤", "source": "https://www.ihchina.cn/news_1_details/11471.html" },
+        { "claim": "推光工序要依次用细砂纸、木炭蘸水、头发蘸油、手掌蘸砖灰麻油打磨", "source": "https://www.ihchina.cn/news_1_details/11471.html" },
+        { "claim": "平遥推光漆器髹饰技艺于2006年5月20日列入第一批国家级非物质文化遗产名录", "source": "https://www.ihchina.cn/news_1_details/11471.html" },
+        { "claim": "平遥现有约50家生产网点、70家销售点，年产值1000余万元", "source": "https://www.ihchina.cn/news_1_details/11471.html" },
+        { "claim": "漆艺大师薛生金教出140多名徒弟，无人能完整掌握其全部传统技艺", "source": "https://www.ihchina.cn/news_1_details/11471.html" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Piingyao_lacquer_screen.JPG", "license": "CC BY-SA 3.0", "author": "Gisling", "page": "https://commons.wikimedia.org/wiki/File:Piingyao_lacquer_screen.JPG", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "lofoten-stockfish-drying",
+      "scope": "全球",
+      "thesis": "把鱼晒成年货的从来不是太阳，是罗弗敦群岛冬天那阵零度上下的干风。",
+      "title": "鳕鱼不腌，靠海风吹干",
+      "body": "每年2月到5月，挪威罗弗敦群岛的渔民把鳕鱼开膛去脏，两条一组挂上木架，当地人管这种木架叫“hjell”。鱼不腌不熏，就靠着接近零度、少雨的海风，把水分一点点带走。\n\n这门手艺的记载能追溯到公元875年——酋长托罗尔夫·克维尔杜尔夫松那年从赫尔格兰把风干鳕鱼运去了不列颠。往后一千多年里，风干鳕鱼一直是挪威出口时间最久、也最稳定的一项商品，从维京时代一路做到今天。\n\n户外挂上3个月后，鱼被收进干燥通风的仓库再放两三个月，前后加起来要小半年，水分蒸发掉八成左右，鱼肉才会硬得像木头。\n\n挪威风干鳕鱼卖得最多的地方其实是葡萄牙、瑞典和尼日利亚，但意大利人把它做成的那道“baccalà”，几乎已经把这种鱼和意大利菜绑在了一起。2014年，欧盟把“罗弗敦风干鳕鱼”列入受保护地理标志名录，别处产的鳕鱼干从此不能再挂这个名字。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Loaded_Drying_Racks_for_Stockfish_at_Henningsv%C3%A6r%2C_Lofoten%2C_Norway.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/Stockfish", "label": "去看看" },
+      "category": "elsewhere",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-02",
+      "_facts": [
+        { "claim": "罗弗敦群岛的鳕鱼干户外悬挂约3个月，再转入室内风干两三个月，水分蒸发约八成", "source": "https://en.wikipedia.org/wiki/Stockfish" },
+        { "claim": "风干鳕鱼的记载可追溯至公元875年，酋长托罗尔夫·克维尔杜尔夫松将其从赫尔格兰运往不列颠", "source": "https://en.wikipedia.org/wiki/Stockfish" },
+        { "claim": "挪威风干鳕鱼主要出口到葡萄牙、瑞典和尼日利亚", "source": "https://en.wikipedia.org/wiki/Stockfish" },
+        { "claim": "2014年欧盟将罗弗敦风干鳕鱼列入受保护地理标志（PGI）名录", "source": "https://www.gov.uk/protected-food-drink-names/torrfisk-fra-lofoten" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Loaded_Drying_Racks_for_Stockfish_at_Henningsv%C3%A6r%2C_Lofoten%2C_Norway.jpg", "license": "CC BY-SA 2.0", "author": "Christoph Strässler", "page": "https://commons.wikimedia.org/wiki/File:Loaded_Drying_Racks_for_Stockfish_at_Henningsv%C3%A6r,_Lofoten,_Norway.jpg", "attributionRequired": true }
+      ]
+    }
+  ]
+}
