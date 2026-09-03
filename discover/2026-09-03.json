@@ -1,0 +1,255 @@
+{
+  "schema": 1,
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T07:40:00+08:00",
+  "items": [
+    {
+      "id": "dogo-onsen-honkan-still-open",
+      "scope": "全球",
+      "thesis": "“三千年”是个传说式的数字，让它成立的不是历史多长，是这栋楼一天都没有停止接待泡澡的人。",
+      "title": "三千年的温泉，还在营业",
+      "body": "日本媒体常说道后温泉有三千年历史，这个说法最早能追到《万叶集》和《日本书纪》里的记载，传说圣德太子也曾在这里泡过。这类年份很难用考古的方式坐实，但比数字更实在的是另一件事——这栋建筑从对外营业那天起，没有真正停过业。\n\n现在的本馆建成于1894年，由本地匠人坂本又八郎主持修建，1994年被列为国家指定重要文化财，是日本第一座拿到这个身份的公共浴场。被列为文物之后它没有变成陈列馆，买票进去照样能脱衣下水，用的还是那几个跟老照片里位置相同的池子。\n\n浴场东侧有一间又新殿，1899年专门为皇室修建，只有天皇和皇族造访时才开门，平时锁着不给外人进。宫崎骏被问到《千与千寻》里那间浴场的原型时说过，电影没有一个具体的原型，但道后温泉“肯定是其中之一”。本馆从2019年起做了一次为期六年的整体翻修，加固地基抗震标准，2024年12月20日全部完工，浴场当天照常对外营业。",
+      "tryThis": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/D%C5%8Dgo_Onsen.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dogo_onsen_honkan_long_exposure.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://dogo.jp/en/honkan.php",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-03",
+      "_facts": [
+        {
+          "claim": "道后温泉最早的文字记载见于《万叶集》和《日本书纪》,传说圣德太子也曾在此沐浴",
+          "source": "https://en.wikipedia.org/wiki/D%C5%8Dgo_Onsen"
+        },
+        {
+          "claim": "现本馆建成于1894年,由坂本又八郎主持修建,1994年被列为国家指定重要文化财,是日本首座获此身份的公共浴场",
+          "source": "https://dogo.jp/en/honkan.php"
+        },
+        {
+          "claim": "又新殿建于1899年,专供皇室使用",
+          "source": "https://dogo.jp/yushinden"
+        },
+        {
+          "claim": "2003年1月9日,吉卜力工作室公关部转述宫崎骏的说法:《千与千寻》没有单一原型,但道后温泉肯定是其中之一",
+          "source": "https://en.wikipedia.org/wiki/D%C5%8Dgo_Onsen"
+        },
+        {
+          "claim": "本馆2019年起进行为期六年的整体翻修,2024年12月20日全部完工",
+          "source": "https://dogo.jp/en/honkan.php"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/D%C5%8Dgo_Onsen.jpg",
+          "license": "CC BY 2.0",
+          "author": "Arnaud Malon",
+          "page": "https://commons.wikimedia.org/wiki/File:D%C5%8Dgo_Onsen.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dogo_onsen_honkan_long_exposure.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Japanexperterna.se",
+          "page": "https://commons.wikimedia.org/wiki/File:Dogo_onsen_honkan_long_exposure.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "capoeira-roda-salvador-pelourinho",
+      "scope": "全球",
+      "thesis": "谁先进场谁先退场，不是靠年龄或名气决定，是一把弹拨乐器说了算。",
+      "title": "一个圈，一把琴，打了几百年",
+      "body": "卡波耶拉最初是巴西被奴役和获得自由的非洲后裔发展出的一套动作体系，把格斗、舞蹈和音乐揉在一起，借着唱歌跳舞的外表，把真实的攻防动作藏在里面。1888年巴西废除奴隶制，两年后的1890年刑法典明确把练习卡波耶拉列为犯罪，违者可判两到六个月监禁或流放到边远的刑罚地。\n\n转折发生在1932年，大师宾巴（Mestre Bimba）在萨尔瓦多开出第一所获官方认可的卡波耶拉学校，教一套他自己整理的“地区式”打法。1940年新刑法典取消了这条罪名，1953年宾巴带队为总统瓦加斯表演后，卡波耶拉正式被当作国家运动接纳。\n\n一圈游戏（roda）里，负责定调的是别林堡琴（berimbau）——它决定这局打得慢而讲究招式的安哥拉式，还是快而火爆的地区式，也决定什么时候开局、收局、换人。想加入正在进行的一局，得靠“买场”：走近场中两人，等一个空当，伸手示意才能换人上场。萨尔瓦多的佩罗林诺广场至今每天都有街头卡波耶拉表演，2014年，“卡波耶拉圈”被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "tryThis": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Capoeira_in_Salvador_Brazil.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Roda_de_Capoeira_dos_Mestres_veteranos.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://ich.unesco.org/en/RL/capoeira-circle-00892",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-03",
+      "_facts": [
+        {
+          "claim": "“卡波耶拉圈”(Roda de capoeira)2014年被联合国教科文组织列入人类非物质文化遗产代表作名录",
+          "source": "https://ich.unesco.org/en/RL/capoeira-circle-00892"
+        },
+        {
+          "claim": "1890年巴西刑法典明确将练习卡波耶拉列为犯罪,可判2-6个月监禁或流放",
+          "source": "https://en.wikipedia.org/wiki/Capoeira"
+        },
+        {
+          "claim": "1932年大师宾巴在萨尔瓦多开设首所官方认可的卡波耶拉学校,1940年新刑法典取消该罪名,1953年宾巴带队为总统瓦加斯表演后被正式接纳为国家运动",
+          "source": "https://en.wikipedia.org/wiki/Capoeira"
+        },
+        {
+          "claim": "别林堡琴在roda中决定游戏节奏与风格(安哥拉式或地区式),也控制开局、收局与换人",
+          "source": "https://en.wikipedia.org/wiki/Capoeira"
+        },
+        {
+          "claim": "加入正在进行的一局需通过“买场”(compra)的方式换人上场",
+          "source": "https://pt.wikipedia.org/wiki/Roda_de_Capoeira"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Capoeira_in_Salvador_Brazil.jpg",
+          "license": "CC BY 2.0",
+          "author": "Julia Rubinic",
+          "page": "https://commons.wikimedia.org/wiki/File:Capoeira_in_Salvador_Brazil.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Roda_de_Capoeira_dos_Mestres_veteranos.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Rita Barreto / Turismo Bahia (Setur)",
+          "page": "https://commons.wikimedia.org/wiki/File:Roda_de_Capoeira_dos_Mestres_veteranos.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "cerro-rico-potosi-miners",
+      "scope": "全球",
+      "thesis": "银子早就挖完了，矿工留在山里，不是因为传统，是因为找不到别的活路。",
+      "title": "这座山，矿工叫它吃人山",
+      "body": "玻利维亚波托西城海拔超过4000米，是世界上最高的城市之一。城边的塞罗里科山从1545年被发现有银矿开始就没有停止开采，西班牙殖民者用强制劳役制度驱使原住民和非洲奴隶挖矿，几个世纪里死在这座山里的人数至今没有精确统计，常被引用的估算高达数百万，历史学者对这个数字的口径并不一致。\n\n银矿早就采得差不多了，山体也因为几百年的挖掘塌陷了大约250米。今天的矿工挖的多是锡、锌、铅，人数估计在一万到三万之间，大多数属于独立经营的合作社成员，按产量拿钱，没有退休金和保险。年轻人十五六岁就下井，靠嚼古柯叶压住饥饿和高原反应，平均寿命常年停在四十岁上下，肺尘病是主要死因。\n\n波托西城1987年被联合国教科文组织列入世界遗产名录，2014年又因为塞罗里科山的持续开采和坍塌风险，被列入濒危世界遗产名录。据2025年10月的一份报道，仅当年波托西省就已记录96起矿难死亡，其中90起发生在这座山里。",
+      "tryThis": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Vista_del_Cerro_Rico_de_Potos%C3%AD%2C_en_Potos%C3%AD_-_Bolivia_%282018%29.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Miners_at_Work_Potosi_%28pixinn.net%29.jpg",
+          "after": 1
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Cerro_Rico",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-03",
+      "_facts": [
+        {
+          "claim": "塞罗里科银矿自1545年被发现开采以来从未停止",
+          "source": "https://en.wikipedia.org/wiki/Cerro_Rico"
+        },
+        {
+          "claim": "波托西城海拔超过4000米,塞罗里科山顶约4782米",
+          "source": "https://en.wikipedia.org/wiki/Cerro_Rico"
+        },
+        {
+          "claim": "殖民时期矿难死亡人数常被引用的估算高达数百万,但历史学界对具体数字存在争议",
+          "source": "https://news.mongabay.com/2025/10/in-the-heart-of-bolivia-the-mountain-that-financed-an-empire-risks-collapsing/"
+        },
+        {
+          "claim": "波托西城1987年列入UNESCO世界遗产名录,2014年因塞罗里科山持续开采与坍塌风险列入濒危世界遗产名录",
+          "source": "https://www.unesco.org/en/articles/city-potosi-plurinational-state-bolivia-added-list-world-heritage-danger"
+        },
+        {
+          "claim": "山体因数百年开采已下沉约250米;2025年前10个月,波托西省记录96起矿难死亡,其中90起发生在塞罗里科山内",
+          "source": "https://news.mongabay.com/2025/10/in-the-heart-of-bolivia-the-mountain-that-financed-an-empire-risks-collapsing/"
+        },
+        {
+          "claim": "矿工平均寿命常被估计在40-45岁左右,主要死因是矽肺病;矿工多为合作社成员,按产量计酬,无退休金与保险",
+          "source": "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/man-eating-mines-potosi"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Vista_del_Cerro_Rico_de_Potos%C3%AD%2C_en_Potos%C3%AD_-_Bolivia_%282018%29.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Julitatwa",
+          "page": "https://commons.wikimedia.org/wiki/File:Vista_del_Cerro_Rico_de_Potos%C3%AD,_en_Potos%C3%AD_-_Bolivia_(2018).jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Miners_at_Work_Potosi_%28pixinn.net%29.jpg",
+          "license": "CC BY-SA 2.5",
+          "author": "Christophe Meneboeuf",
+          "page": "https://commons.wikimedia.org/wiki/File:Miners_at_Work_Potosi_(pixinn.net).jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "huaxian-shadow-puppet-carving",
+      "scope": "中国",
+      "thesis": "一部戏能不能演下去，先要看有没有人还会用推皮走刀的手法刻皮影。",
+      "title": "刻一个皮影，下三千刀",
+      "body": "陕西华县的皮影，用的是三到五年生的鲜牛皮，先泡水去毛，绷在木框上刮薄晾干，再反复打磨到像玻璃一样透亮，才能开始雕刻。雕刻时讲究“推皮走刀”：刻刀基本不动，靠左手推着牛皮转动，让线条从头到尾一气呵成不能断。\n\n一个完整的皮影人物，从选皮到最后缀结成型要经过二十四道工序，单是雕刻这一步，一个人物身上就要下三千多刀，断口、尖口、齐口、圆口各有各的用法，分别用来表现建筑的直线、云雾的尖角和花纹的圆弧。国家级非遗传承人汪天稳，十二岁开始学这门手艺，十四岁就独立刻完了一整本戏的皮影，如今带出的徒弟超过一百人，留下来还在做的只有二十多个。\n\n中国皮影戏2011年被联合国教科文组织列入人类非物质文化遗产代表作名录，列入时的说明专门提到，过去五十年里能完整完成雕刻的老艺人一直在减少。据2023年的报道，能独立完成整套刻工的匠人全国不到三十人，年纪最小的也已经四十多岁。",
+      "tryThis": "剪一个纸人形，粘在筷子上，晚上关灯，用手电照着墙，让它走两步。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Childrens_Museum_of_Indianapolis_-_Han_shadow_puppet.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Chinese_shadow_puppetry.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/13401",
+        "label": "看非遗档案"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-03",
+      "_facts": [
+        {
+          "claim": "中国皮影戏2011年被联合国教科文组织列入人类非物质文化遗产代表作名录",
+          "source": "https://www.unesco.org/en/intangible-cultural-heritage/chinese-shadow-puppetry"
+        },
+        {
+          "claim": "皮影戏(华县皮影戏)2006年被列入首批国家级非物质文化遗产名录,项目编号Ⅳ-91",
+          "source": "https://www.ihchina.cn/project_details/13401"
+        },
+        {
+          "claim": "华县皮影雕刻采用“推皮走刀”技法,刻刀基本固定,靠左手推转牛皮完成线条",
+          "source": "https://baike.baidu.com/item/%E5%8D%8E%E5%8E%BF%E7%9A%AE%E5%BD%B1%E5%88%B6%E4%BD%9C%E6%8A%80%E8%89%BA/3464310"
+        },
+        {
+          "claim": "一件皮影从选皮到成型共24道工序,单个人物雕刻约需3000余刀,断口、尖口、齐口、圆口分别用于不同线条",
+          "source": "https://www.sxlib.org.cn/dfzy/sxmjms/mjmsyj/yjlz/201612/t20161221_581007.html"
+        },
+        {
+          "claim": "国家级非遗代表性传承人汪天稳1949年生,12岁拜师学艺,14岁独立刻完整本戏皮影,培养徒弟超百人",
+          "source": "https://www.ihchina.cn/ccr_detail/2097.html"
+        },
+        {
+          "claim": "截至2023年报道,全国能完整完成雕刻工序的匠人不到30人,年纪最小的也已40多岁",
+          "source": "http://m.cnwest.com/sxxw/a/2023/07/25/21724262.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Childrens_Museum_of_Indianapolis_-_Han_shadow_puppet.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Michelle Pemberton / The Children's Museum of Indianapolis",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Childrens_Museum_of_Indianapolis_-_Han_shadow_puppet.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Chinese_shadow_puppetry.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "악준동",
+          "page": "https://commons.wikimedia.org/wiki/File:Chinese_shadow_puppetry.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
