@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T07:05:00+08:00",
+  "items": [
+    {
+      "id": "longplayer-thousand-year-piece",
+      "scope": "全球",
+      "thesis": "写一段能放一千年的曲子不难，难的是让后人愿意一直负责把它开着。",
+      "title": "一支曲子，要放一千年",
+      "body": "1999年12月31日午夜，伦敦泰晤士河边一座退役灯塔里响起一串钟磬声，此后再没停过。作曲人杰姆·法伊纳只录了一段二十分二十秒的原始音乐，用二百三十四口西藏颂钵敲奏而成，再靠一套算法把它切分、错位、叠加，组合方式要排到公元2999年才第一次重复。这就是设计运行一千年的作品《Longplayer》。\n\n这套系统不需要人弹奏，却需要人一直伺候。灯塔里的电脑靠算法实时生成声音，断电重启也能从该在的位置接着往下走；运营的信托机构每隔几年就要把整套程序搬到新的主板上，因为撑不过一千年的往往是硬件，不是曲子。\n\n把一千年当作曲子的长度，等于把作曲这件事变成了一场接力——每一代维护者交接的不是乐谱，是让下一代还愿意接着守。这段作品于2000年1月1日零点在伦敦Trinity Buoy Wharf的灯塔内开始播放，预定持续到2999年12月31日结束。",
+      "tryThis": "打开longplayer.org的直播页面，听一分钟此刻正在响的那一千年乐句。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trinity_Buoy_Wharf_lighthouse_-_2022-03-28.jpg",
+      "link": {
+        "url": "https://longplayer.org/",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-04",
+      "_facts": [
+        {
+          "claim": "《Longplayer》由Jem Finer创作，2000年1月1日零点开始播放，预定持续到2999年12月31日结束",
+          "source": "https://en.wikipedia.org/wiki/Longplayer"
+        },
+        {
+          "claim": "原始录音时长20分20秒，由234口西藏颂钵录制，再通过算法生成一千年内不重复的组合",
+          "source": "https://en.wikipedia.org/wiki/Longplayer"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trinity_Buoy_Wharf_lighthouse_-_2022-03-28.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "The wub",
+          "page": "https://commons.wikimedia.org/wiki/File:Trinity_Buoy_Wharf_lighthouse_-_2022-03-28.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "la-rinconada-cachorreo-gold",
+      "scope": "全球",
+      "thesis": "在这里，工资不是发的，是矿工在允许挖的那一天里自己抢出来的。",
+      "title": "金矿工资，靠最后一天赌运气",
+      "body": "秘鲁安第斯山区的拉里科纳达海拔5100米，是地球上海拔最高的大型常住聚居地。这里本没有城镇的条件——常年低温、空气稀薄，但山体里的金矿脉一直没挖完。2001年到2009年间国际金价上涨超过两倍，越来越多人从秘鲁各地涌来淘金，常住人口一度逼近三万，官方历次普查的数字则忽高忽低，因为很多人只在这里落脚几个月。\n\n矿工在这里大多不拿现金工资，而是按“卡乔雷奥”（cachorreo）制度干活：连续三十天为矿主白干，只换来第三十一天的一次机会——那天挖到的矿石全归自己带走，挖不到就等于白干一个月。矿主往往把这一天的班排进早就采空的巷道，机会本身也不均等，有人形容这套规则和现代奴役差别不大。\n\n海拔太高，镇上至今没有集中供水和排污系统，电力也是2000年代以后才陆续接入。选矿离不开汞，用过的汞随雨水和融雪流回村里唯一的水源。当地一项检测显示，超过83.5%的受检居民体内查出重金属残留。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/La_Rinconada_Peru.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-04",
+      "_facts": [
+        {
+          "claim": "拉里科纳达海拔约5100米，2024年人口约29,678人，是全球海拔最高的大型常住聚居地之一",
+          "source": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru"
+        },
+        {
+          "claim": "2001年至2009年间国际金价上涨超过两倍，推动大量人口迁入拉里科纳达淘金",
+          "source": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru"
+        },
+        {
+          "claim": "cachorreo制度下矿工连续为矿主工作30天无偿，第31天可自行带走当天挖到的矿石",
+          "source": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru"
+        },
+        {
+          "claim": "检测显示超过83.5%的受检居民体内检出重金属残留",
+          "source": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/La_Rinconada_Peru.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Hildegard Willer",
+          "page": "https://commons.wikimedia.org/wiki/File:La_Rinconada_Peru.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "dai-water-splashing-festival-xishuangbanna",
+      "scope": "中国",
+      "thesis": "这三天西双版纳不分游客和本地人，湿透是唯一的入场券。",
+      "title": "泼水节，谁都别想干着离开",
+      "body": "每年4月13日到15日，西双版纳的傣族人过新年，庆祝方式是把整座城市变成一个泼水现场。头两天在澜沧江边举行赛龙舟、放高升，高升是一种自制的土火箭，点燃后腾空而起，寓意驱散旱气、祈求雨水；第三天才是正日子——人们穿上新衣服先去佛寺赕佛，随后端着水盆走上街头，见人就泼，泼中越多，祝福越多。\n\n传说里，恶魔王抢了七个妻子做压寨，第七个妻子趁他熟睡剪下了他的头，谁知那颗头一落地就烧了起来，滚到哪就烧到哪。六个姐妹只好轮流抱着头，往上面浇水降温，一年到头轮换不停——这才有了后来互相泼水、为佛像沐浴的仪式，泼水由此从降温变成了祝福。\n\n如今这盆水已经不分对象。游客走在景洪的街头，同样会被本地人兜头浇透，衣服能拧出水来是常态，没人会因此生气，反倒被泼得越多说明这一年被祝福得越多。傣族新年固定在傣历六月，对应公历每年4月中旬，节期共三天。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Water-Splashing_Festival%2C_China.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Water-Sprinkling_Festival",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-04",
+      "_facts": [
+        {
+          "claim": "傣族泼水节在西双版纳等地举行，公历通常为4月13日至15日，节期三天",
+          "source": "https://en.wikipedia.org/wiki/Water-Sprinkling_Festival"
+        },
+        {
+          "claim": "节日对应傣历六月，通常落在公历四月中旬",
+          "source": "https://en.wikipedia.org/wiki/Water-Sprinkling_Festival"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Water-Splashing_Festival%2C_China.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Peter Olshevsky",
+          "page": "https://commons.wikimedia.org/wiki/File:Water-Splashing_Festival,_China.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "ittoqqortoormiit-isolated-village",
+      "scope": "全球",
+      "thesis": "海冰说了算：它不化，船进不来；它化了，直升机也不飞。",
+      "title": "格陵兰小镇，一年只有几周能上岸",
+      "body": "伊托科尔托米特在格陵兰东岸，是当地最孤立的定居点之一——离最近的另一个格陵兰城镇库鲁苏克有831公里，比飞去冰岛的直线距离还远。这里没有一条路通向外面，常住居民三百多人，历史上靠捕猎海豹、麝牛和北极熊为生，如今仍是当地经济的一部分。\n\n冬天海冰封住峡湾，连船都靠不了岸，出入只能等直升机飞去38公里外的机场转乘小飞机；夏天浮冰化开，船能进港，但天气一变又可能连着停航好几天。镇子由丹麦探险家埃伊纳尔·米克尔森于1925年带着约80名因纽特移民建立，目的之一是在这片猎场上立住脚跟，选的就是这样一个易守难攻的位置。2025年当地曾宣布计划修建本地机场，好摆脱对直升机中转的依赖。\n\n北极熊会直接走进镇子边缘的房子之间，当地人出门习惯带枪防身，不是因为凶，是因为躲不开。这座定居点2026年1月的常住人口为329人。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ittoqqortoormiit_coast_hg.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Ittoqqortoormiit",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-04",
+      "_facts": [
+        {
+          "claim": "伊托科尔托米特2026年1月常住人口329人，位于格陵兰东岸",
+          "source": "https://en.wikipedia.org/wiki/Ittoqqortoormiit"
+        },
+        {
+          "claim": "距最近的格陵兰城镇库鲁苏克831公里，无公路连接，依赖直升机往返38公里外机场",
+          "source": "https://en.wikipedia.org/wiki/Ittoqqortoormiit"
+        },
+        {
+          "claim": "该定居点由埃伊纳尔·米克尔森于1925年带领约80名因纽特移民建立",
+          "source": "https://en.wikipedia.org/wiki/Ittoqqortoormiit"
+        },
+        {
+          "claim": "2025年当地宣布计划修建本地机场，以取代直升机中转前往38公里外机场的方式",
+          "source": "https://en.wikipedia.org/wiki/Ittoqqortoormiit"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ittoqqortoormiit_coast_hg.jpg",
+          "license": "CC BY-SA 2.5",
+          "author": "Hannes Grobe",
+          "page": "https://commons.wikimedia.org/wiki/File:Ittoqqortoormiit_coast_hg.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
