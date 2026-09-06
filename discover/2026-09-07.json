@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T07:05:00+08:00",
+  "items": [
+    {
+      "id": "kesi-suzhou-inch-of-gold",
+      "scope": "中国",
+      "category": "mastery",
+      "tone": "质朴",
+      "title": "苏州缂丝，一天只织一寸",
+      "thesis": "机器一天能印出同样的图案，缂丝匠人排的却是按年计的工时。",
+      "body": "缂丝用的是“通经断纬”——经线一根到底，颜色始终不变，纬线却顺着图案的边界一小段一小段地织，遇到色彩交界处就得换梭子、断掉线头再重新起头，正面因此看不到贯穿全幅的纬线，却能在同一块布上织出没有接缝的渐变色彩和镂空般的轮廓，这是普通提花机、甚至电脑提花都很难还原的效果。\n\n一个手熟的匠人，坐在老式木机前，用竹梭子一点点回纬，织平纹素色一天最多能织一两寸；遇到花色细腻、层次繁复的画稿，得频繁换色换梭，一天可能只够织几厘米。一件龙袍级别的缂丝，光是织造环节就要耗掉匠人一整年甚至更久，期间还不能换人，换了手法接不上先前的针脚，连力道深浅都会露出破绽。\n\n这门手艺从汉魏时期的缂毛技艺演变而来，唐代开始用于丝织物，到了宋代逐渐从实用品转向皇家御用的观赏品，历代宫廷都设有专门的织造作坊。2009年，缂丝作为中国蚕桑丝织技艺的一部分，被联合国教科文组织列入人类非物质文化遗产代表作名录，至今苏州仍有匠人守着老木机，靠订单一件一件地织下去。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%E6%9C%B1%E5%85%8B%E6%9F%94%E7%BC%82%E4%B8%9D%E8%8E%B2%E5%A1%98%E4%B9%B3%E9%B8%AD%E5%9B%BE.jpg",
+      "link": { "url": "https://www.ihchina.cn/project_details/19978.html", "label": "去看看" },
+      "verifiedAt": "2026-09-07",
+      "_facts": [
+        { "claim": "熟练匠人织平纹素色一天最多能织一两寸，花色复杂细腻时一天仅能织几厘米", "source": "https://k.sina.cn/article_6448192533_180579c15001008ahp.html" },
+        { "claim": "缂丝作为中国蚕桑丝织技艺的一部分，2009年列入人类非物质文化遗产代表作名录", "source": "https://www.ihchina.cn/project_details/19978.html" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%E6%9C%B1%E5%85%8B%E6%9F%94%E7%BC%82%E4%B8%9D%E8%8E%B2%E5%A1%98%E4%B9%B3%E9%B8%AD%E5%9B%BE.jpg", "license": "PD-Art (PD-old-100)", "author": "朱克柔 (Zhu Kerou), Song dynasty", "page": "https://commons.wikimedia.org/wiki/File:%E6%9C%B1%E5%85%8B%E6%9F%94%E7%BC%82%E4%B8%9D%E8%8E%B2%E5%A1%98%E4%B9%B3%E9%B8%AD%E5%9B%BE.jpg", "attributionRequired": false }
+      ]
+    },
+    {
+      "id": "south-pole-winter-over-dark",
+      "scope": "全球",
+      "category": "limits",
+      "tone": "有力",
+      "title": "南极点站，黑着过半年",
+      "thesis": "半年不见太阳换来的，是全年最不受打扰的观测窗口。",
+      "body": "南极点的太阳约在三月春分前后落下，要等到九月秋分前后才重新升起，这半年里南极点是地球上唯一见不到日出的有人定居点；而另外半年，它又是唯一能连续六个月见到太阳不落下的地方。由于大气折射，实际能见到太阳的时间比理论上的六个月还要再长几天，日出日落都是贴着地平线缓慢绕圈，不像别处那样一跃而升。\n\n从二月中到十月末，阿蒙森-斯科特站与外界的飞行完全断开，没有飞机能起降，水管冻裂、阑尾炎发作，都得靠站上的人自己处理，补给和撤离都要等到十月末以后。这段时间站上仍要维持基本运转，越冬人员通常在四五十人上下，柴油发电机和供水系统一天都不能停，队员往往要兼任维修工、厨师和急救员，一人身兼数职。\n\n换来的是全年最安静的观测窗口——没有人类活动的干扰，望远镜和探测器在这半年反而工作得最勤。每年十月末，第一架补给飞机降落，南极点站才恢复和外界的联系。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Amundsen%E2%80%93Scott_South_Pole_Station_01.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station", "label": "去看看" },
+      "verifiedAt": "2026-09-07",
+      "_facts": [
+        { "claim": "南极点太阳约在3月春分前后落下，9月秋分前后升起，呈现连续约六个月的昼或夜", "source": "https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station" },
+        { "claim": "阿蒙森-斯科特站每年2月中到10月末与外界飞行完全隔绝，越冬人员约49人", "source": "https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Amundsen%E2%80%93Scott_South_Pole_Station_01.jpg", "license": "CC BY 4.0", "author": "Christopher Michel", "page": "https://commons.wikimedia.org/wiki/File:Amundsen%E2%80%93Scott_South_Pole_Station_01.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "tokushima-awa-odori-summer",
+      "scope": "全球",
+      "category": "elsewhere",
+      "tone": "欢快",
+      "title": "跳舞的笨蛋，四百年没停",
+      "thesis": "台词说跳的看的都是傻瓜，那就不如一起当四百年的傻瓜。",
+      "body": "每年8月中旬的盂兰盆节期间，日本德岛市街头会连续几天挤满跳“阿波舞”的队伍，叫作“连”——少则几十人，多则上百人，踩着三味线、太鼓、鉦和笛子合奏的节奏往前走。男舞者通常穿鲜艳浴衣，踏着大步、动作夸张；女舞者则统一戴半月形的编笠斗笠，踮着脚尖碎步向前，两种舞法混在同一支队伍里，踩着同一套鼓点却样子完全不同。\n\n当地流传一句老话：“跳舞的是傻瓜，看的也是傻瓜，同样是傻瓜，不跳白不跳。”于是游客也能临时加入——只要跟上鼓点，街边总有现成的“连”愿意接纳生手，跳错了也没人当真。维持这套舞步和乐曲的“连”，成员从职业乐师到普通上班族都有，平常各自训练，只在盂兰盆节这几天集中登场。\n\n这项活动的历史可以追溯到江户时代，据说已经延续超过400年。如今每年8月11日到15日举办期间，德岛市接待的国内外游客超过100万人次。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Awa_Odori_by_Mizutamaren_%22%E6%B0%B4%E7%8E%89%E9%80%A3%22_-_Aug_13%2C_2018_%281%29.jpg",
+      "link": { "url": "https://www.city.tokushima.tokushima.jp/kankou/awaodori/index.html", "label": "去看看" },
+      "verifiedAt": "2026-09-07",
+      "_facts": [
+        { "claim": "阿波舞据称有超过400年历史，起源可追溯至江户时代", "source": "https://www.city.tokushima.tokushima.jp/kankou/awaodori/index.html" },
+        { "claim": "德岛市阿波舞每年8月11日至15日举办，吸引国内外游客超过100万人次", "source": "https://www.city.tokushima.tokushima.jp/kankou/awaodori/index.html" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Awa_Odori_by_Mizutamaren_%22%E6%B0%B4%E7%8E%89%E9%80%A3%22_-_Aug_13%2C_2018_%281%29.jpg", "license": "CC BY-SA 2.0", "author": "Ann Lee", "page": "https://commons.wikimedia.org/wiki/File:Awa_Odori_by_Mizutamaren_%22%E6%B0%B4%E7%8E%89%E9%80%A3%22_-_Aug_13,_2018_(1).jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "lhasa-barkhor-kora-loop",
+      "scope": "中国",
+      "category": "twohours",
+      "tone": "独特",
+      "title": "转经一圈，刚好绕八廓街",
+      "thesis": "路线只有一千米，却装着一座城市对同一件事一千多年的重复。",
+      "body": "大昭寺始建于公元640年前后，主体在652年完工，距今已一千三百多年，是“拉萨布达拉宫历史建筑群”世界文化遗产的组成部分。围着它的街道叫八廓街，藏语意思接近“中圈”——里圈绕大昭寺内部佛殿，中圈绕八廓街，外圈绕整座拉萨古城，信众按内中外三层选路线，走中圈的人最多。\n\n八廓街的环形转经道全长约一千米，由东、南、西、北四段街道首尾相连围成，顺时针绕行一圈大约二十分钟，是当地人每天的固定动作：多数人转经筒边走边转，手里数着念珠；也有人每走几步就俯身磕一个等身长头，一圈磕下来要花上普通人转一圈好几倍的时间。街边卖香料、藏刀、酥油茶的摊子，跟着转经的人流开门关门。\n\n这条街本身也是随着大昭寺的扩建才慢慢围出来的，如今仍是藏族信众心目中拉萨最重要的转经道之一。",
+      "tryThis": "今天挑一条你从没走完过的环形路线——小区外圈、公园步道都行，走完整整一圈，不用导航。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/An_elderly_Tibetan_women_holding_a_prayer_wheel_on_Lhasa%2C_Barkhor.jpg",
+      "link": { "url": "https://en.wikipedia.org/wiki/Barkhor", "label": "去看看" },
+      "verifiedAt": "2026-09-07",
+      "_facts": [
+        { "claim": "大昭寺约建于公元640年，652年主体完工", "source": "https://en.wikipedia.org/wiki/Jokhang" },
+        { "claim": "八廓街环形转经道全长约1000米，由东南西北四段街道首尾相连围成", "source": "https://en.wikipedia.org/wiki/Barkhor" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/An_elderly_Tibetan_women_holding_a_prayer_wheel_on_Lhasa%2C_Barkhor.jpg", "license": "CC BY-SA 2.5", "author": "Luca Galuzzi (Lucag)", "page": "https://commons.wikimedia.org/wiki/File:An_elderly_Tibetan_women_holding_a_prayer_wheel_on_Lhasa,_Barkhor.jpg", "attributionRequired": true }
+      ]
+    }
+  ]
+}
