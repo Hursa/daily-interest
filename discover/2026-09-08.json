@@ -1,0 +1,184 @@
+{
+  "schema": 1,
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T07:10:00+08:00",
+  "items": [
+    {
+      "id": "shajing-oyster-village",
+      "scope": "深圳",
+      "thesis": "深圳最早的产业不是电子厂，是插在滩涂上的蚝杆，比特区历史长了一千年。",
+      "title": "沙井蚝，插杆养一千年",
+      "body": "沙井养蚝的历史比“深圳”这个名字老得多。北宋诗人梅尧臣写过“薄宦游海乡，雅闻归靖蚝”，“归靖蚝”就是沙井蚝的古称，这是中国人工养蚝最早的文字记录之一，距今已近一千年。蚝民不撒网、不建塘，靠的是一根根插进滩涂的木杆，让蚝苗自己附着生长，潮水涨落就是它的生产线。\n\n明代万历年间，技术换了一代：蚝民发现海底的破缸碎瓦上总能长出又肥又大的蚝，从此改用瓦片当附着器，一片瓦能收好几只。这套办法一直沿用到今天，机器没能取代它——蚝田离不开潮汐的节奏，涨潮淹田、退潮收成，快不了，也省不出人力。\n\n1958年，沙井蚝业合作社拿到国务院奖状；1980年，沙井蚝又拿下农牧渔业部“国内质量最佳奖”。80年代后珠江沿岸工业和生活污水让水质变差，蚝民跑遍两广沿海找替代海域，到2002年，九成以上的养殖产区迁去了台山、惠东、阳江，“沙井蚝”三个字留在了深圳的地名和招牌上，蚝田却已经不在深圳。",
+      "tryThis": "去一趟菜市场的海鲜摊，问老板柜台里的生蚝产自哪里，当面问，不查手机。",
+      "image": "https://live.staticflickr.com/4143/4882791205_fc53caba50_b.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "http://www.szdag.gov.cn/dawh/tqssn/content/post_933381.html",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-08",
+      "_facts": [
+        {
+          "claim": "北宋诗人梅尧臣写过“薄宦游海乡，雅闻归靖蚝”，“归靖蚝”是沙井蚝古称，为中国人工养蚝最早的文字记录之一",
+          "source": "http://www.szdag.gov.cn/dawh/tqssn/content/post_933381.html"
+        },
+        {
+          "claim": "1958年沙井蚝业合作社获国务院奖状，1980年沙井蚝获农牧渔业部“国内质量最佳奖”",
+          "source": "http://www.szdag.gov.cn/dawh/tqssn/content/post_933381.html"
+        },
+        {
+          "claim": "到2002年，九成以上沙井蚝养殖产区迁移到台山、惠东、阳江等地",
+          "source": "http://sz.people.com.cn/n2/2020/0627/c202846-34114799.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://live.staticflickr.com/4143/4882791205_fc53caba50_b.jpg",
+          "license": "CC BY 2.0",
+          "author": "EoinGardiner",
+          "page": "https://www.flickr.com/photos/18091975@N00/4882791205",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "ivrea-battle-of-oranges",
+      "scope": "全球",
+      "thesis": "伊夫雷亚人用橙子重演八百年前的一次起义，扔得越用力，越是在还原那场胜利。",
+      "title": "橙子大战，打了两百年",
+      "body": "意大利小城伊夫雷亚每年二月都会打一场仗，武器是橙子。传说中世纪这里有个暴虐领主，仗着“初夜权”强占新娘，磨坊主的女儿维奥莱塔在婚礼上把他的头砍了下来，城里人随后冲进宫殿，烧了它。这场狂欢节，就是在一遍遍重演那次反抗。\n\n最初扔的是豆子和苹果，象征领主施舍的救济粮，19世纪才换成橙子——一种当时要从西西里运来的稀罕货，扔出去像溅血。如今狂欢分两方：九支步行队代表起义的市民，四十多支马车队代表领主的军队，双方在广场上对砸三天。最老的一支步行队“黑桃A”，成立于1947年。\n\n这仗不是年年都打得成——两次世界大战期间停过，2021年因为疫情也停了一年，2023年才重新开打。第二天一早，满地橙皮果肉，全城人一起动手打扫，然后各回各的日子，等下一年二月。1994年那一届，运进城里用来扔的橙子重达26.5万公斤，大多是南意大利冬季橙子收成后的余货。",
+      "image": "https://live.staticflickr.com/145/398721476_51f4325bfd_b.jpg",
+      "inlineImages": [
+        {
+          "src": "https://live.staticflickr.com/123/398721479_7e1d590292_b.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_the_Oranges",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-08",
+      "_facts": [
+        {
+          "claim": "传说磨坊主女儿维奥莱塔在婚礼上砍下强占新娘初夜权的领主的头，引发暴动，是狂欢节起源故事",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_the_Oranges"
+        },
+        {
+          "claim": "如今橙子大战由9支步行队和40多支马车队组成，最老的步行队“黑桃A”成立于1947年",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_the_Oranges"
+        },
+        {
+          "claim": "两次世界大战期间及2021年狂欢节曾停办，2023年恢复",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_the_Oranges"
+        },
+        {
+          "claim": "1994年狂欢节运抵城中用于投掷的橙子重达26.5万公斤",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_the_Oranges"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://live.staticflickr.com/145/398721476_51f4325bfd_b.jpg",
+          "license": "CC BY 2.0",
+          "author": "Giò-S.p.o.t.s.",
+          "page": "https://www.flickr.com/photos/41791978@N00/398721476",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://live.staticflickr.com/123/398721479_7e1d590292_b.jpg",
+          "license": "CC BY 2.0",
+          "author": "Giò-S.p.o.t.s.",
+          "page": "https://www.flickr.com/photos/41791978@N00/398721479",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "mirny-diamond-pit-no-fly",
+      "scope": "全球",
+      "thesis": "这座矿坑被划为飞行禁区，不是因为保密，是因为它自己制造的气流真能把直升机拽下去。",
+      "title": "钻石矿坑，把直升机吸下去",
+      "body": "俄罗斯东西伯利亚的米尔内，藏着世界最深的天然钻石矿坑之一。1955年，苏联地质学家在雅库特的荒原上发现了这处金伯利岩管，五年后正式开采。矿坑越挖越大，最终直径1200米，深525米，站在坑边往下看，坑底的卡车小得像玩具。\n\n这座矿坑有一条不成文的禁令：飞机和直升机不许直接飞过它的正上方。原因是坑内外温差太大，坑底温热的空气不断上升，坑外西伯利亚的冷空气随即灌下去填补，在坑口形成剧烈的下沉气流。苏联时期，好几架飞近的直升机被这股气流硬生生往下拽，撞上了阶梯状的坑壁，禁飞令自此定下，一直执行到今天。\n\n露天开采在2001年就已停止——坑太深，继续往下挖既不划算也不安全，矿场转入地下开采，2009年地下矿井正式投产。米尔内所在的雅库特地区，冬天低于零下50度是常事，柴油在这个温度以下会凝固，当地人整个冬天让车子空转，靠自己的引擎撑过夜里最冷的那几个小时。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Aerial_view_of_Mirny_city%2C_Mir_mine_and_Mirny_Airport.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Mir_mine",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-08",
+      "_facts": [
+        {
+          "claim": "1955年苏联地质学家在雅库特发现米尔内金伯利岩管，1960年开始开采，矿坑最终直径1200米、深525米",
+          "source": "https://en.wikipedia.org/wiki/Mir_mine"
+        },
+        {
+          "claim": "矿坑内外温差导致剧烈下沉气流，曾使数架直升机坠毁，此后当局禁止飞行器飞越矿坑正上方",
+          "source": "https://interestingengineering.com/science/mirny-a-giant-diamond-mine-that-sucks-helicopters-in"
+        },
+        {
+          "claim": "露天开采于2001年停止，2009年转为地下开采正式投产",
+          "source": "https://en.wikipedia.org/wiki/Mir_mine"
+        },
+        {
+          "claim": "雅库特地区冬季常低于零下50度，低于此温度柴油会凝固，居民靠车辆整晚空转防止发动机冻住",
+          "source": "https://www.rbth.com/lifestyle/334623-cars-russians-drive-minus50"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Aerial_view_of_Mirny_city%2C_Mir_mine_and_Mirny_Airport.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Igor Dvurekov",
+          "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mirny_city,_Mir_mine_and_Mirny_Airport.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "huqingyutang-hangzhou-pharmacy",
+      "scope": "中国",
+      "thesis": "“戒欺”那块匾不是挂给顾客看的，好药号靠的不是招牌，是没人盯着时那道工序。",
+      "title": "胡庆余堂，药店挂着戒欺",
+      "body": "1874年，红顶商人胡雪岩在杭州吴山脚下开了这家药号，取名胡庆余堂。开业那天，他亲笔写下“戒欺”两个字，做成匾额挂在后堂——不是挂给顾客看的，是挂给店里配药的人看的，意思是骗得了外人，骗不过自己的良心。\n\n胡庆余堂的门店格局是“前店后厂”，采购药材要“采办务真”，炮制丸散要“修制务精”，配方和工序对内公开，学徒每季度还要跟着老师傅上山认药材、辨真假。这份手艺一代代往下传，其中一位传承人冯根生，1949年14岁时进店当学徒，是新中国成立前胡庆余堂收的最后一个学徒，后来成了这门手艺的国家级非遗代表性传承人。\n\n今天走进大井巷的老宅子，前店仍在卖药，后堂仍在制药，柜台后面能看到药工现场炮制丸药，游客隔着玻璃就能看见，那块“戒欺”匾还挂在后堂原来的位置。2006年，胡庆余堂中药文化被列入第一批国家级非物质文化遗产名录，项目编号Ⅸ-8。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%E6%B2%B3%E5%9D%8A%E8%A1%97%E8%83%A1%E5%BA%86%E4%BD%99%E5%A0%82.JPG",
+      "inlineImages": [],
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/14853/",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-08",
+      "_facts": [
+        {
+          "claim": "1874年，胡雪岩在杭州吴山脚下创立胡庆余堂，亲笔写下“戒欺”匾额",
+          "source": "https://www.ihchina.cn/project_details/14853/"
+        },
+        {
+          "claim": "2006年，胡庆余堂中药文化被列入第一批国家级非物质文化遗产名录，项目编号Ⅸ-8",
+          "source": "https://www.ihchina.cn/project_details/14853/"
+        },
+        {
+          "claim": "传承人冯根生1949年14岁进胡庆余堂当学徒，是新中国成立前该店收的最后一个学徒",
+          "source": "https://www.ihchina.cn/ccr_detail/3513/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%E6%B2%B3%E5%9D%8A%E8%A1%97%E8%83%A1%E5%BA%86%E4%BD%99%E5%A0%82.JPG",
+          "license": "Public Domain",
+          "author": "Yhy880412",
+          "page": "https://commons.wikimedia.org/wiki/File:河坊街胡庆余堂.JPG",
+          "attributionRequired": false
+        }
+      ]
+    }
+  ]
+}
