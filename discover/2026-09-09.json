@@ -1,0 +1,170 @@
+{
+  "schema": 1,
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T07:04:00+08:00",
+  "items": [
+    {
+      "id": "bingfeng-soda-xian",
+      "scope": "西安",
+      "thesis": "可乐能复制配方，复制不了三十年喝惯的那口甜味。",
+      "title": "冰峰汽水，顶住了可口可乐",
+      "body": "1953年，西安食品厂在西关正街办起一个汽水车间，把此前公私合营的西北汽水厂并了进来。传说车间投产那年冬天下了一场大雪，生产汽水用的辘轳井被冻住，积雪堆成小山尖的样子，冰峰这个名字就是这么来的。\n\n这瓶橙味汽水后来和凉皮、肉夹馍绑在了一起，西安人把三样放一起叫三秦套餐。玻璃瓶配一根麦秆吸管，瓶盖用起子撬开的动静，是很多陕西人对夏天最早的记忆，隔了几代人喝的还是同一个味道。\n\n可口可乐和百事陆续进城，冰峰没有被挤下货架，后来又冒出大窑这样的新对手，冰峰的打法始终是守住本地这一小片市场，不追着去全国铺货，销售范围至今几乎不出陕西省界。2021年，冰峰所属的西安糖酒集团提交了上市辅导备案，冲刺国产汽水第一股，招股书里披露的数据显示，冰峰当年营收超过三亿元，年销量超过两亿瓶。",
+      "tryThis": "翻出你小时候常喝、现在很少能买到的那款汽水或饮料，去找一瓶喝完。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/202309_Ice_Peak_Glass_Bottle_in_Huayin.jpg",
+      "link": {
+        "url": "https://zh.wikipedia.org/wiki/冰峰",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-09",
+      "_facts": [
+        {
+          "claim": "冰峰1953年诞生于西安食品厂的汽水车间，由此前公私合营的西北汽水厂并入组建。",
+          "source": "https://zh.wikipedia.org/wiki/冰峰"
+        },
+        {
+          "claim": "冰峰所属企业2021年提交上市辅导备案，冲刺国产汽水第一股，年销量超过两亿瓶，营收超过三亿元。",
+          "source": "https://www.jiemian.com/article/7478700.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/202309_Ice_Peak_Glass_Bottle_in_Huayin.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "MNXANL",
+          "page": "https://commons.wikimedia.org/wiki/File:202309_Ice_Peak_Glass_Bottle_in_Huayin.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "ise-shrine-rebuilt-every-20-years",
+      "scope": "全球",
+      "thesis": "把技艺留住的办法不是保护旧建筑，而是让人反复重新盖一遍。",
+      "title": "神殿盖好，二十年后拆掉",
+      "body": "伊势神宫的正殿每二十年拆除重建一次，这套仪式叫式年迁宫，公元692年第一次举行，2013年完成的是第六十二次。旧殿拆下的木料不会扔掉，会被送到日本各地的分社继续使用。\n\n重建的木材是日本扁柏，要先泡在水塘里晾上好几年才能用。神宫地界内不准使用电动工具，全靠宫大工手工完成，重建一次要花十七年左右。学徒先从打杂做起，按手艺高低分工，靠这个把技术一代代传下去。\n\n式年迁宫不止重建正殿一栋建筑，内宫外宫加起来六十五栋建筑、宇治桥和里面的神宝装束都要照原样重做一遍。举行迁宫大典那天，神体连夜移到新殿，旧殿随后拆除，腾出来的空地留着，等下一次二十年后再盖。\n\n正殿的样式叫唯一神明造，只此一处能用，据说是仿照古代米仓的样子盖的。2013年那次重建，花费约550亿日元，全部来自民间捐款。现在游客看到的正殿，是2013年刚盖好的第六十二代。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Naiku_03.JPG",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-09-09",
+      "_facts": [
+        {
+          "claim": "伊势神宫的式年迁宫每二十年重建一次正殿，始于公元692年，2013年完成的是第六十二次。",
+          "source": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine"
+        },
+        {
+          "claim": "重建过程中禁止使用电动工具，全靠宫大工手工完成，2013年那次重建耗资约550亿日元。",
+          "source": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Naiku_03.JPG",
+          "license": "CC BY 2.5",
+          "author": "N yotarou（据版权声明推定）",
+          "page": "https://commons.wikimedia.org/wiki/File:Naiku_03.JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "sedlec-ossuary-bone-church",
+      "scope": "全球",
+      "thesis": "死亡在这里没有被埋起来，而是被打理成了建筑的一部分。",
+      "title": "教堂里，四万具人的骨头",
+      "body": "塞德莱茨教堂在捷克小城库特纳霍拉郊外，看起来和普通乡村教堂没什么两样，走进地下室才发现墙上、拱顶上全是骨头。这里保存的人骨估计在四万到七万具之间，大多是黑死病和胡斯战争时期的死者。\n\n传说1278年一位修道院院长从耶路撒冷带回一把圣地的土撒在这里，之后想葬在这块地的人激增，教堂放不下这么多遗骨，只能先堆起来。1870年，木雕匠弗兰蒂泽克·林特受雇整理这堆骨头，把它们摆成了十字架、花环和一座枝形吊灯。\n\n那盏吊灯据说用上了人体所有种类的骨头，天花板拱顶垂下一串串头骨编的花环，四个角落各堆着一座骨头砌的钟形塔。教堂一角还摆着施瓦岑贝格家族用骨头拼出的族徽，林特本人的签名也是拿骨头摆的，就摆在入口附近。\n\n教堂如今仍是一处正常运作的天主教堂区财产，每年接待游客超过二十万人次，是捷克参观人数最多的景点之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sedlec_Ossuary_chandelier_from_below.JPG",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sedlec-Ossuary.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Sedlec_Ossuary",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-09",
+      "_facts": [
+        {
+          "claim": "塞德莱茨教堂内保存的人骨估计在四万到七万具之间，1870年由雕刻师弗兰蒂泽克·林特整理成装饰。",
+          "source": "https://en.wikipedia.org/wiki/Sedlec_Ossuary"
+        },
+        {
+          "claim": "教堂每年接待游客超过二十万人次，是捷克参观人数最多的景点之一。",
+          "source": "https://en.wikipedia.org/wiki/Sedlec_Ossuary"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sedlec_Ossuary_chandelier_from_below.JPG",
+          "license": "CC BY-SA 3.0",
+          "author": "BrokenSphere",
+          "page": "https://commons.wikimedia.org/wiki/File:Sedlec_Ossuary_chandelier_from_below.JPG",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sedlec-Ossuary.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "未提供可机读作者信息",
+          "page": "https://commons.wikimedia.org/wiki/File:Sedlec-Ossuary.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "coober-pedy-underground-town",
+      "scope": "全球",
+      "thesis": "对抗五十度高温的办法不是空调，是把房子盖进岩石里。",
+      "title": "挖欧泊的人，住进了地底",
+      "body": "库伯佩迪在澳大利亚南部内陆的沙漠里，1915年一个叫威利·哈奇森的人在这儿挖到第一块欧泊，小镇由此建起，1920年正式定名，如今被叫作世界欧泊之都。\n\n这里夏天气温常年超过40摄氏度，冬天最高气温也只在18.4摄氏度上下，昼夜温差很大。地表房子得靠空调硬撑电费，地下岩层却常年保持恒温，当地人干脆把家凿进山体，一套带客厅厨房卫生间的标准三居室洞穴住宅，开凿成本和地面盖一栋房子差不多。\n\n教堂、旅馆、珠宝店也都开在地下，塞尔维亚东正教堂和天主教堂各有一座地下礼拜堂，游客可以住进带空调效果的地下汽车旅馆房间，睡一晚感受一下恒温的岩壁。\n\n挖矿留下的洞口遍布整片矿区，到1999年这片区域已经打出超过二十五万个矿井洞口，晚上开车出门都要小心避让。2021年人口普查显示，库伯佩迪常住人口为1437人。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coober_Pedy_-_Underground_house.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coober_Pedy_underground_motel_room%2C_2007.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Coober_Pedy",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-09",
+      "_facts": [
+        {
+          "claim": "库伯佩迪2021年人口普查常住人口为1437人，夏季气温常年超过40摄氏度。",
+          "source": "https://en.wikipedia.org/wiki/Coober_Pedy"
+        },
+        {
+          "claim": "到1999年当地已打出超过二十五万个矿井洞口，标准地下三居室住宅的开凿成本和地面盖房相当。",
+          "source": "https://en.wikipedia.org/wiki/Coober_Pedy"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coober_Pedy_-_Underground_house.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Lodo27",
+          "page": "https://commons.wikimedia.org/wiki/File:Coober_Pedy_-_Underground_house.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coober_Pedy_underground_motel_room%2C_2007.jpg",
+          "license": "CC BY 4.0",
+          "author": "Kerry Raymond",
+          "page": "https://commons.wikimedia.org/wiki/File:Coober_Pedy_underground_motel_room,_2007.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
