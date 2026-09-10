@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T07:05:00+08:00",
+  "items": [
+    {
+      "id": "coopers-hill-cheese-roll",
+      "scope": "全球",
+      "thesis": "追那块滚下坡的奶酪，没人真的能追上，摔跤才是重点。",
+      "title": "一块奶酪把人往山下摔",
+      "body": "英国格洛斯特郡布罗克沃斯村外有一座库珀山，赛道长约180米，坡度接近1:2。每年五月最后一个星期一，山顶有人把一个8磅重的双料格洛斯特奶酪推下坡，几十人紧跟着往下扑——谁先冲到坡底，或者拦住奶酪，奶酪就归谁。\n\n奶酪滚得比人快得多，坡陡草滑，大多数人跑不到几步就摔倒，靠翻滚而不是奔跑冲到终点，摔伤、脱臼、骨折是家常便饭。1997年的比赛一次就有33人受伤，直接导致次年两场比赛被取消。现存最早的文字记录出现在1836年6月9日，是写给格洛斯特镇报事员的一张便条，当地人相信这项活动的历史比记录更早。\n\n如今赛事不设裁判发令、不核实参赛资格，谁想跑都能报名，山脚常年停着救护车待命。吉尼斯世界纪录认定它是全世界持续时间最长的奶酪滚坡比赛，选手Chris Anderson累计赢过23次冠军，最近一次夺冠是在2022年的第一场比赛。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg",
+      "link": { "url": "https://www.guinnessworldrecords.com/world-records/755460-longest-running-cheese-rolling-race", "label": "去看看" },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-10",
+      "_facts": [
+        { "claim": "库珀山赛道长约180米，坡度约1:2", "source": "https://www.guinnessworldrecords.com/world-records/755460-longest-running-cheese-rolling-race" },
+        { "claim": "现存最早的文字记录见于1836年6月9日的Berrow's Worcester Journal", "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake" },
+        { "claim": "1997年比赛33人受伤，导致1998年两场比赛取消", "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake" },
+        { "claim": "选手Chris Anderson累计赢得23次冠军，最近一次在2022年", "source": "https://www.guinnessworldrecords.com/world-records/755460-longest-running-cheese-rolling-race" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg", "license": "CC BY-SA 3.0", "author": "Dave Farrance", "page": "https://commons.wikimedia.org/wiki/File:A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake,_on_Cooper%27s_Hill,_Brockworth,_Gloucestershire,_on_27_May_2013.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "longyearbyen-frozen-graves",
+      "scope": "全球",
+      "thesis": "冻土不会腐烂尸体，一具遗体可能比一种病毒活得更久。",
+      "title": "北极小镇不许人埋进土里",
+      "body": "朗伊尔城是斯瓦尔巴群岛的中心镇子，北纬78度，比北极圈还靠北约1000公里，冬天有整整四个月见不到太阳。镇上有一片建于二十世纪初的墓地，最早一批坟里躺着1918年死于西班牙流感的矿工，一共七人，是那年一艘运煤船带来的病毒夺走的命。\n\n这片墓地此后再没添过新坟。1950年，当地评估认为永久冻土会让尸体常年不腐烂，一旦体内还留着活性病毒，冻土反而成了保存它的冰箱，于是镇政府正式停止在这里安葬——病重的居民要提前转运到挪威本土的医院，去世的人也运回本土下葬，镇上从此没有产科也没有临终病房。\n\n1998年，一支由科学家Kirsty Duncan带队的国际团队专程飞来，想从那七具遗体里提取1918年病毒的基因样本，填补医学史上的一处空白。他们先用探地雷达定位坟墓，又挖开冻土——结果发现棺材只埋在地表以下约30厘米，常年经历季节性冻融，组织早已腐坏，最终没能测出完整的病毒序列。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Longyearbyen_colourful_homes.jpg",
+      "link": { "url": "https://definingmomentscanada.ca/1918-influenza-pandemic/history/excavating-the-flu/", "label": "去看看" },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-10",
+      "_facts": [
+        { "claim": "朗伊尔城墓地自1950年起不再接受新的下葬", "source": "https://polarpedia.eu/en/dying-is-illegal-in-longyearbyen/" },
+        { "claim": "1918年有7名矿工死于西班牙流感，葬在朗伊尔城墓地", "source": "https://definingmomentscanada.ca/1918-influenza-pandemic/history/excavating-the-flu/" },
+        { "claim": "1998年一支国际科研团队试图从遗体中提取病毒样本，发现棺材埋深仅约30厘米、组织已腐坏，未能测出完整病毒序列", "source": "https://definingmomentscanada.ca/1918-influenza-pandemic/history/excavating-the-flu/" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Longyearbyen_colourful_homes.jpg", "license": "CC BY", "author": "Svalbard Global Seed Vault/Peter Vermeij", "page": "https://commons.wikimedia.org/wiki/File:Longyearbyen_colourful_homes.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "jingdezhen-72-steps",
+      "scope": "中国",
+      "thesis": "没有一个人做完一只碗，七十二道工序分给七十二双手。",
+      "title": "一只碗过手七十二次",
+      "body": "景德镇的瓷器从五代开始烧造，宋代确立了拉坯、利坯这些核心工序，元代又多了一道关键改良——把瓷石和高岭土两种原料按比例配合，瓷胎才经得住高温不变形，不会一烧就塌。明清两代在珠山设御厂，专供宫廷用瓷，景德镇从此成为全国的制瓷中心。\n\n一件瓷器从矿石到成品，传统上要经七十二道工序，\"共一坯之力，过手七十二，方克成器\"这句话出自古代手工业记录。淘泥、拉坯、印坯、利坯、画坯、施釉、烧窑……每道工序单独交给一个工匠，拉坯的一辈子只管拉坯，画坯的一辈子只管画坯，谁都不做完整的一只碗，也没人需要会做完整的一只碗。\n\n这种分工延续到今天，景德镇仍有大量作坊按老办法生产，一件青花瓷从素坯画到烧成，中间要经手十几个不同的匠人，缺一道工序都出不了窑。2006年，景德镇手工制瓷技艺被列入中国第一批国家级非物质文化遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Porcelain_Workshop%2C_Jingdezhen%2C_Jiangxi%2C_China.jpg",
+      "link": { "url": "https://www.ihchina.cn/project_details/14270.html", "label": "去看看" },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-10",
+      "_facts": [
+        { "claim": "景德镇传统制瓷工序共72道，分工极细", "source": "https://www.ihchina.cn/project_details/14270.html" },
+        { "claim": "元代发明瓷石加高岭土的二元配方法", "source": "https://www.ihchina.cn/project_details/14270.html" },
+        { "claim": "2006年，景德镇手工制瓷技艺列入第一批国家级非物质文化遗产名录", "source": "https://www.ihchina.cn/project_details/14270.html" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Porcelain_Workshop%2C_Jingdezhen%2C_Jiangxi%2C_China.jpg", "license": "CC BY 2.5", "author": "Asteiner (assumed)", "page": "https://commons.wikimedia.org/wiki/File:Porcelain_Workshop,_Jingdezhen,_Jiangxi,_China.jpg", "attributionRequired": true }
+      ]
+    },
+    {
+      "id": "squero-san-trovaso-gondola",
+      "scope": "全球",
+      "thesis": "贡多拉从没换过产地，产量却从上万条缩到几百条，手艺因为稀缺才被留住。",
+      "title": "威尼斯贡多拉还是手工造",
+      "body": "威尼斯全盛时期，水面上跑着上万条贡多拉，是这座水城最主要的交通工具。造船的地方叫squero，圣特罗瓦索的这一家开在多尔索杜罗区的一条小运河边，建于十七世纪，木结构、坡屋顶，样式带着造船工人老家阿尔卑斯山区的痕迹，和周围威尼斯式的石头房子明显不一样，河对岸随便一个游客都能看见船坞里立着的船体。\n\n一条贡多拉长约11米、宽1.6米，由八种木材拼成两百八十块手工部件，一位工匠从下料到下水大约要花两个月，全程不用图纸，尺寸全凭经验和口传的比例。十六世纪的威尼斯有上万条贡多拉在跑，到1878年降到四千条左右，今天登记在册的只剩四百条上下，配套的造船厂也从几十家缩减到六家。\n\n圣特罗瓦索这家至今仍归威尼斯市政府所有，是仅存的六家之一，主要工作已经从造新船变成给老船翻修——毕竟一条船能用几十年，城里现在真正需要的是维修，不是增量。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Squero_di_San_Trovaso_%28Venice%29_02.jpg",
+      "link": { "url": "https://www.homofaber.com/en/artisans/squero-san-trovaso-boat-building-italy", "label": "去看看" },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-10",
+      "_facts": [
+        { "claim": "贡多拉由八种木材拼成约280个手工部件，建造一条约需两个月", "source": "https://en.wikipedia.org/wiki/Gondola" },
+        { "claim": "十六世纪威尼斯约有一万条贡多拉，1878年约四千条，如今约四百条", "source": "https://en.wikipedia.org/wiki/Gondola" },
+        { "claim": "圣特罗瓦索船坞建于十七世纪，是威尼斯现存六家船坞之一，归市政府所有", "source": "https://it.wikipedia.org/wiki/Squero_veneziano" }
+      ],
+      "_imageCredits": [
+        { "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Squero_di_San_Trovaso_%28Venice%29_02.jpg", "license": "CC BY-SA 4.0", "author": "Abxbay", "page": "https://commons.wikimedia.org/wiki/File:Squero_di_San_Trovaso_(Venice)_02.jpg", "attributionRequired": true }
+      ]
+    }
+  ]
+}
