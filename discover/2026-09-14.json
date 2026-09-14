@@ -1,0 +1,159 @@
+{
+  "schema": 1,
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T08:55:00+08:00",
+  "items": [
+    {
+      "id": "miao-batik-guizhou",
+      "scope": "中国",
+      "thesis": "留白不是画出来的，是蜂蜡先一步占住了布，靛蓝就渗不进那块地方。",
+      "title": "蜡染的白，是蜂蜡挡出来的",
+      "body": "贵州丹寨、安顺一带的苗族女人染布，先用草木灰水把布泡软，再拿蜡刀蘸熔化的黄蜡，顺着底稿在布上一笔一笔点，不是往布上画颜色，是画一层挡住颜色的蜡。蜡一凝固，布就被送进蓝靛缸里反复浸泡，靛蓝一层层染深，唯独蜡盖住的地方，颜色渗不进去。\n\n染够遍数，把布放进热水里煮，蜡遇热化开浮起来，捞净了，底下露出的仍是原来的白，边缘常带着一圈细碎裂纹——那是蜡在染缸里被冷水激出的裂缝，靛蓝顺着裂缝渗进去一点点，也算进了成品的花纹里，谁也没法提前画出这道纹路，每一块蜡染布的裂纹都长得不一样。\n\n丹寨的做法里，煮蜡之前还要在留白处点一层红、黄颜料，出锅才是青底白花里带彩的样子。这门手艺不靠拜师，按苗族习俗传给下一代女儿，从种蓝靛、纺纱织布，到画蜡、下缸、漂洗，一步都要亲手学过，做不好一道工序，整块布就得推倒重染。2006年，苗族蜡染技艺被列入第一批国家级非物质文化遗产名录，申报地是贵州丹寨县、安顺县和织金县。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Miao_batik_%E8%8B%97%E6%97%8F%E8%9C%A1%E6%9F%93%2C_Guizhou%2C_2016_%2852410714397%29.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://www.ihchina.cn/project_details/14300.html",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-14",
+      "_facts": [
+        {
+          "claim": "苗族蜡染技艺于2006年被列入第一批国家级非物质文化遗产名录（编号Ⅷ-25），申报地为贵州省丹寨县、安顺县、织金县",
+          "source": "https://www.ihchina.cn/project_details/14300.html"
+        },
+        {
+          "claim": "蜡染工艺需先用草木灰水泡布，再用熔化的黄蜡点画图案，经蓝靛反复浸染后煮沸脱蜡，蜡因遇冷开裂形成天然纹路",
+          "source": "https://www.ihchina.cn/project_details/14300.html"
+        },
+        {
+          "claim": "按苗族习俗，所有女性都有义务传承蜡染技艺，每位母亲都必须教会女儿制作蜡染",
+          "source": "https://www.ihchina.cn/project_details/14300.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Miao_batik_%E8%8B%97%E6%97%8F%E8%9C%A1%E6%9F%93%2C_Guizhou%2C_2016_%2852410714397%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "JL Cogburn",
+          "page": "https://commons.wikimedia.org/wiki/File:Miao_batik_%E8%8B%97%E6%97%8F%E8%9C%A1%E6%9F%93,_Guizhou,_2016_(52410714397).jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "iss-16-sunrises",
+      "scope": "全球",
+      "thesis": "轨道替他们把一天切成十六份日夜，可作息表翻的还是地面的钟点。",
+      "title": "空间站一天看十六次日出",
+      "body": "国际空间站在距地面约400公里的轨道上，以每秒7.7公里、时速约2.76万公里的速度绕地球飞行，绕一整圈只要九十分钟。地球把阳光挡住又露出来，对站上的人来说，一天不是经历一次天亮天黑，而是十六次，每次日出日落都只持续几秒钟，天光变化快得来不及细看。\n\n但站内的生活没有跟着轨道重排——时间表仍然按24小时走，起床、吃饭、锻炼、睡觉都卡着地面协调世界时的钟点，跟窗外那十六次日出日落几点发生没有关系，不少人得戴上遮光眼罩、塞上耳塞才睡得着，昼夜完全靠人为制造出来。\n\n失重环境会让骨密度以每月百分之一到百分之二的速度流失，肌肉也在萎缩，这是空间站上最实在的代价。为了拖住这个速度，每名乘组成员每天要在跑步机、自行车和阻力训练器上锻炼将近两个半小时，年复一年，不能中断。自2000年11月2日\"远征一号\"乘组搭乘联盟号飞船抵达以来，国际空间站已经连续有人居住超过二十五年，是人类在近地轨道上持续驻留时间最长的纪录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tracy_Caldwell_Dyson_in_Cupola_ISS.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://www.nasa.gov/international-space-station/space-station-facts-and-figures/",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-14",
+      "_facts": [
+        {
+          "claim": "国际空间站以约每秒7.7公里（时速约2.76万公里）的速度绕地球飞行，每90分钟绕一圈，乘组一天经历约16次日出和日落",
+          "source": "https://www.nasa.gov/international-space-station/space-station-facts-and-figures/"
+        },
+        {
+          "claim": "自2000年11月2日“远征一号”乘组搭乘联盟TM-31飞船抵达以来，国际空间站已持续载人超过25年",
+          "source": "https://en.wikipedia.org/wiki/Expedition_1"
+        },
+        {
+          "claim": "长期处于微重力环境会使宇航员骨密度每月流失约1%至2%，需通过日常锻炼减缓流失",
+          "source": "https://www.nasa.gov/missions/station/iss-research/counteracting-bone-and-muscle-loss-in-microgravity/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tracy_Caldwell_Dyson_in_Cupola_ISS.jpg",
+          "license": "Public domain",
+          "author": "NASA / Tracy Caldwell Dyson",
+          "page": "https://commons.wikimedia.org/wiki/File:Tracy_Caldwell_Dyson_in_Cupola_ISS.jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "lathmar-holi-barsana",
+      "scope": "全球",
+      "thesis": "这场追打重演的是四百年前一个未遂的调戏，输赢从来不是重点。",
+      "title": "胡里节，女人拿棍子打人",
+      "body": "印度北方邦的南德冈和巴尔萨纳是隔着几公里的两个村子，胡里节这天，南德冈的男人结伴走去巴尔萨纳，手里举着藤牌当盾牌，等在村口的是巴尔萨纳的女人，手里攥着一人多高的木棍——这个环节专门叫\"棍棒胡里\"，是当地胡里节庆祝活动里最出名的一段。\n\n传说当年黑天跑去巴尔萨纳撩逗罗陀和她的女伴，被追打着赶出了村子，这段追逐后来被原样重演了几百年：男人举盾不还手，女人抡棍不留情，围观的人趁乱往两边身上泼颜色粉，谁都逃不掉，连举着相机的游客也常常被顺手糊一脸。\n\n打完这一场，双方并不记仇，转身一起唱歌跳舞，分吃裹着干果馅的甜点古齐亚。胡里节从满月前一夜的篝火晚会开始，叫\"焚烧火魔\"，泼洒颜色粉和水是第二天的正戏，整套仪式按印度教历定在十二月月圆前后，换算到阳历大约落在三月中旬。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lathmar_Holi_2022_in_Nandgaon%2C_Uttar_Pradesh.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Lathmar_Holi",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-14",
+      "_facts": [
+        {
+          "claim": "巴尔萨纳和南德冈的棍棒胡里节中，女人用木棍击打举藤牌的男人，源自黑天调戏罗陀被追打的传说",
+          "source": "https://en.wikipedia.org/wiki/Lathmar_Holi"
+        },
+        {
+          "claim": "胡里节从满月前夜的篝火晚会“焚烧火魔”开始，次日互相泼洒颜色粉与水，按印度教历定于帕勒古纳月满月前后（阳历约三月）",
+          "source": "https://en.wikipedia.org/wiki/Holi"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lathmar_Holi_2022_in_Nandgaon%2C_Uttar_Pradesh.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Sachinghai09",
+          "page": "https://commons.wikimedia.org/wiki/File:Lathmar_Holi_2022_in_Nandgaon,_Uttar_Pradesh.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "metropolitan-line-1863",
+      "scope": "全球",
+      "thesis": "隧道是为了躲开马车拥堵才挖的，一百六十多年后照样卡着早高峰。",
+      "title": "世界第一条地铁，还在通勤",
+      "body": "1863年1月10日，伦敦大都会铁路在帕丁顿和法灵顿之间通车，这是世界第一条载客地铁。当时的车厢没有电灯，靠煤气灯照明，由蒸汽机车牵引，隧道里终日弥漫着煤烟味，乘客得忍着熏眼睛坐完全程。\n\n为了少冒烟，工程师约翰·福勒专门设计过一款\"凝烟\"机车，想把废气存在车厢里的耐火砖中，不当场排出，结果试车时锅炉几乎爆炸，试跑七英里半就宣告失败，这台车后来被人叫做\"福勒的鬼\"，成了地铁史上有名的一次翻车。\n\n通车当天就卖出三万八千张票，这条线后来并入伦敦地铁系统，改名大都会线，牵引方式换成了电力，蒸汽机车早早退役，只在纪念活动上被重新点火，拉着老式车厢跑一趟怀旧班次。这条线现在全长66.7公里，设34座车站，2019年全年运送了近九千四百万人次乘客，是伦敦地铁里唯一还保留高峰快车服务的线路。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Metropolitan_Railway%2C_Praed_Street_Junction.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_line",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-14",
+      "_facts": [
+        {
+          "claim": "伦敦大都会铁路于1863年1月10日在帕丁顿至法灵顿之间通车，是世界第一条载客地铁",
+          "source": "https://en.wikipedia.org/wiki/London_Underground"
+        },
+        {
+          "claim": "工程师约翰·福勒设计的“凝烟”机车（绰号“福勒的鬼”）试车时未能抑制烟雾，仅跑约7.5英里即告失败",
+          "source": "https://en.wikipedia.org/wiki/Fowler%27s_Ghost"
+        },
+        {
+          "claim": "大都会线现全长66.7公里，共34座车站，2019年全年运送近9400万人次乘客",
+          "source": "https://en.wikipedia.org/wiki/Metropolitan_line"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Metropolitan_Railway%2C_Praed_Street_Junction.jpg",
+          "license": "Public domain",
+          "author": "Samuel J. Hodson",
+          "page": "https://commons.wikimedia.org/wiki/File:Metropolitan_Railway,_Praed_Street_Junction.jpg",
+          "attributionRequired": false
+        }
+      ]
+    }
+  ]
+}
