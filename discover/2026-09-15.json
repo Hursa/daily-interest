@@ -1,0 +1,176 @@
+{
+  "schema": 1,
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T07:12:00+08:00",
+  "items": [
+    {
+      "id": "xian-great-mosque-no-dome",
+      "scope": "西安",
+      "thesis": "大殿照着中国庙的样子盖,朝向却始终对着麦加,六百年没人挪动。",
+      "title": "清真寺里没有宣礼塔",
+      "body": "西安鼓楼往西北走几百米,拐进化觉巷,两侧全是卖香料和牛羊肉的铺子,寺门藏在巷子深处,并不起眼。走进去才发现里面是五进院落,一进比一进安静,砖雕的月洞门、木构的牌楼,乍看和城里的文庙、城隍庙没什么两样——飞檐、琉璃瓦、抱厦,连主体建筑都叫“省心楼”“一真亭”,没有一个字带着外来的痕迹。\n\n真正的分野在方向。中国传统建筑讲究坐北朝南,这里的礼拜大殿却执意朝西——那是麦加的方向,和外壳的中式样式毫无关系。殿内墙面雕的是《古兰经》经文,不是龙凤纹样,能同时容纳约一千人礼拜。寺里也没有惯常认知里清真寺该有的穹顶和宣礼塔,唤礼靠的是一座八角形的省心楼,而不是尖塔。\n\n这座寺始建于唐天宝元年,现存格局定型于明洪武年间。此后六百多年,它一直是当地回民礼拜的场所,从没有中断过,每逢主麻日仍有上百信众前来。全寺占地约一点二三公顷,共有二十多座建筑分布在五进院落里,一九八八年被定为全国重点文物保护单位。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Great_Mosque_of_Xi%27an_20240808_112.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Xi%27an",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-15",
+      "_facts": [
+        {
+          "claim": "清真寺始建于唐天宝元年(742年),现存格局定型于明洪武年间",
+          "source": "https://en.wikipedia.org/wiki/Great_Mosque_of_Xi%27an"
+        },
+        {
+          "claim": "礼拜大殿朝西对着麦加,与外部中式建筑样式无关",
+          "source": "https://en.wikipedia.org/wiki/Great_Mosque_of_Xi%27an"
+        },
+        {
+          "claim": "主殿可容纳约一千人同时礼拜,寺内没有常见的穹顶和宣礼塔",
+          "source": "https://en.wikipedia.org/wiki/Great_Mosque_of_Xi%27an"
+        },
+        {
+          "claim": "全寺占地约1.23公顷,五进院落内有二十多座建筑",
+          "source": "https://en.wikipedia.org/wiki/Great_Mosque_of_Xi%27an"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Great_Mosque_of_Xi%27an_20240808_112.jpg",
+          "license": "CC0",
+          "author": "沈澄心",
+          "page": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Xi%27an_20240808_112.jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "hani-terraces-1300-years",
+      "scope": "中国",
+      "thesis": "森林蓄水、村寨截留、梯田耕作,一条链子哈尼人接了一千三百年。",
+      "title": "森林把水喂进梯田",
+      "body": "云南红河州的山头,云雾常年不散,哈尼人几百年前就摸清了这套规矩:海拔两千米以上留住森林,雨水渗进土里往下走;两千米上下建村寨,人住在这条线上,生活废水顺坡往下淌,正好肥了梯田;再往下才是梯田本身,一层叠一层顺着山势铺到谷底,最陡的地方能有三千级。\n\n这条链子最巧的地方在水。森林像一块海绵,把雨水存住,再顺着地下的沙岩层慢慢渗出,汇成沟渠往下引,不用水泵,全靠地势自己往下流,常年不断。梯田种的是红米,一年一季,产量不算高,但地力几百年不衰,秘密就在于上头那片森林一直没被砍。\n\n这套系统覆盖元阳、红河、金平、绿春四个县,核心区里有八十二个哈尼村寨,每个村五十到一百户人家,村规里明文写着森林不能动。二零一三年,联合国教科文组织把它整体列入世界遗产名录,认定面积一万六千六百零三公顷。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hani_Rice_Terraces_%2853695149067%29.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "有力",
+      "verifiedAt": "2026-09-15",
+      "_facts": [
+        {
+          "claim": "哈尼梯田被哈尼族持续耕作维护已超过1300年",
+          "source": "https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces"
+        },
+        {
+          "claim": "森林(2000米以上)-村寨(1400-2000米)-梯田-水系构成四素同构系统",
+          "source": "https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces"
+        },
+        {
+          "claim": "遗产核心区包含82个哈尼村寨,每个村寨50-100户",
+          "source": "https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces"
+        },
+        {
+          "claim": "2013年被列入世界遗产名录,总面积16603公顷,覆盖元阳、红河、金平、绿春四县",
+          "source": "https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hani_Rice_Terraces_%2853695149067%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "xiquinhosilva",
+          "page": "https://commons.wikimedia.org/wiki/File:Hani_Rice_Terraces_(53695149067).jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "hanami-cherry-blossom-picnic",
+      "scope": "全球",
+      "thesis": "花期只有一两周,日本人把它当成一年一度必须请假的正事。",
+      "title": "开花那几天谁都不上班",
+      "body": "日本人记录赏樱这件事,最早能查到公元八百一十二年,史书《日本后纪》里写着那一年宫里办了首次正式的赏花宴。一开始赏的是梅花,到平安时代之后,樱花才慢慢反客为主,成了“花”这个字默认指代的对象。\n\n赏花不是走马观花,是找一片树荫铺开野餐垫,坐下来吃便当、喝清酒,从白天坐到天黑,晚上挂起纸灯笼接着看,叫“夜樱”。东京的代代木公园、上野公园一到花期,草坪上密密麻麻全是占位置的蓝色防水布,占位置这件事本身也成了赏花文化的一部分。\n\n樱花开花的日期每年被专门机构预测、逐日更新,叫“樱前线”,从南边的冲绳一路往北推到北海道,间隔能拉开三个月。这套预测最早由气象厅在做,现在多半交给民间机构。二零二一年京都的盛花期落在三月二十六日,是八百一十二年有记录以来最早的一次。",
+      "tryThis": "这周找一棵你没留意过的树,任何一棵都行,站着看满三分钟,不拍照。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Picnic_%40_White_cherry_blossoms_%40_Yoyogi_Park_%2813607036213%29.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Hanami",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-15",
+      "_facts": [
+        {
+          "claim": "日本文献《日本后纪》记载812年宫廷举办首次正式赏花宴",
+          "source": "https://en.wikipedia.org/wiki/Hanami"
+        },
+        {
+          "claim": "赏花习俗奈良时代始于赏梅,平安时代起樱花成为主流对象",
+          "source": "https://en.wikipedia.org/wiki/Hanami"
+        },
+        {
+          "claim": "夜间赏花称为夜樱,常挂纸灯笼",
+          "source": "https://en.wikipedia.org/wiki/Hanami"
+        },
+        {
+          "claim": "2021年京都盛花期为3月26日,是812年有记录以来最早的一次",
+          "source": "https://en.wikipedia.org/wiki/Hanami"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Picnic_%40_White_cherry_blossoms_%40_Yoyogi_Park_%2813607036213%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "Guilhem Vellut",
+          "page": "https://commons.wikimedia.org/wiki/File:Picnic_@_White_cherry_blossoms_@_Yoyogi_Park_(13607036213).jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "alberobello-trulli-no-mortar",
+      "scope": "全球",
+      "thesis": "干垒石头不抹灰,是为了税吏一来就能拆掉屋顶重新算成荒地。",
+      "title": "石头房子不用一滴灰浆",
+      "body": "意大利普利亚大区的阿尔贝罗贝洛镇,家家户户的屋顶都是灰白色的圆锥,像倒扣的甜筒。这种房子叫特鲁洛,砌法很特别:石灰岩一层层干垒上去,不加灰浆也不用水泥,屋顶靠石块自身的重量互相咬住。\n\n传说的起因是税。这片地当年属那不勒斯王国管辖,领主为了不让农民的房子被算成永久建筑、逃掉王室的房产税,便要求佃户盖房不许用灰浆——检查的人一来,顶上的石头一抽,整座房子瞬间变回一堆乱石,查不出个所以然,人走了再一层层垒回去。\n\n这套建法一路传到十九世纪末,建造高峰就落在那几十年里。今天镇上还留着一千五百多座特鲁洛,集中在蒙蒂区和阿亚·皮科拉区两片老城,不少人家仍旧住在里头,更多的已经改成了民宿和小店。一九九六年十二月七日,联合国教科文组织把阿尔贝罗贝洛的特鲁洛群列入世界遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alberobello_-_Trulli_del_Rione_Monti_-_06.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Trullo",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "独特",
+      "verifiedAt": "2026-09-15",
+      "_facts": [
+        {
+          "claim": "特鲁洛屋顶用石灰岩干垒,不用灰浆或水泥",
+          "source": "https://en.wikipedia.org/wiki/Trullo"
+        },
+        {
+          "claim": "传说源于领主为规避房产税要求建筑可快速拆除",
+          "source": "https://en.wikipedia.org/wiki/Trullo"
+        },
+        {
+          "claim": "特鲁洛建造高峰在19世纪末",
+          "source": "https://en.wikipedia.org/wiki/Trullo"
+        },
+        {
+          "claim": "阿尔贝罗贝洛现存1500多座特鲁洛,集中在蒙蒂区和阿亚·皮科拉区,1996年列入世界遗产名录",
+          "source": "https://europeupclose.com/article/historical-trulli-of-alberobello-italy/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alberobello_-_Trulli_del_Rione_Monti_-_06.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Benjamin Smith",
+          "page": "https://commons.wikimedia.org/wiki/File:Alberobello_-_Trulli_del_Rione_Monti_-_06.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
