@@ -1,0 +1,211 @@
+{
+  "schema": 1,
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T07:00:00+08:00",
+  "items": [
+    {
+      "id": "xian-guyue-tang-score",
+      "scope": "西安",
+      "thesis": "从三千首到三四百首，没被抄下来的，就是真的没了。",
+      "title": "还在吹的唐代谱子",
+      "body": "西安鼓乐流传于西安及周边地区，是吹奏乐器与锣鼓乐结合的大型器乐合奏，当地人也叫它长安古乐，脱胎于唐代宫廷与寺庙音乐，历经宋元明清的民间传承，逐渐变成城隍庙、何家营、南集贤等地乐社世代接办的营生。演奏分坐乐、行乐两种，坐乐讲究曲牌联套，行乐边走边奏，笙、笛、管子和锣鼓交替出场。\n\n乐社记谱不用简谱或五线谱，用的是被称为半字谱的古谱，乐师们一代代手抄传本，靠口传心授学会怎么把谱子上的符号唱出来、吹出来。何家营鼓乐社相传源自唐代驻军将领何昌期在此屯兵，乐社的传承便与这支军队的历史一起流传了下来，如今仍有三十多位民间艺人定期聚在一起排练传统曲目，也开始走进中小学课堂教孩子认谱。2009年，西安鼓乐被联合国教科文组织列入人类非物质文化遗产代表作名录。\n\n1953年的一次普查统计，西安地区的鼓乐乐谱抄本共记录下三千余首曲目；到今天，各家乐社手里还能演奏的只剩三四百首。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg/1280px-%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E5%A9%86%E7%BD%97%E9%97%A8%E5%BC%95%E3%80%8B.jpg/1280px-%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E5%A9%86%E7%BD%97%E9%97%A8%E5%BC%95%E3%80%8B.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://ich.unesco.org/en/RL/xian-wind-and-percussion-ensemble-00212",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-20",
+      "_facts": [
+        {
+          "claim": "西安鼓乐2009年被联合国教科文组织列入人类非物质文化遗产代表作名录",
+          "source": "https://ich.unesco.org/en/RL/xian-wind-and-percussion-ensemble-00212"
+        },
+        {
+          "claim": "1953年普查统计西安地区鼓乐抄本共记录三千余首曲目，现存乐社能演奏的仅剩三四百首",
+          "source": "https://shx.chinadaily.com.cn/a/202508/04/WS68903b5da3105a871d62d5b7.html"
+        },
+        {
+          "claim": "何家营鼓乐社相传源自唐代驻军将领何昌期在此屯兵，现仍有三十多位民间艺人定期排练传统曲目",
+          "source": "https://shx.chinadaily.com.cn/a/202508/04/WS68903b5da3105a871d62d5b7.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg/1280px-%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Liuxingy",
+          "page": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E5%9D%90%E4%B9%90%E6%9B%B2%E8%81%94%E5%A5%8F.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E5%A9%86%E7%BD%97%E9%97%A8%E5%BC%95%E3%80%8B.jpg/1280px-%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E5%A9%86%E7%BD%97%E9%97%A8%E5%BC%95%E3%80%8B.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Liuxingy",
+          "page": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E4%BA%A4%E8%A5%BF%E5%AE%89%E9%BC%93%E4%B9%90%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B9%8B%E3%80%8A%E5%A9%86%E7%BD%97%E9%97%A8%E5%BC%95%E3%80%8B.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "yingge-dance-chaoshan",
+      "scope": "中国",
+      "thesis": "英歌舞的气势不是化装画出来的，是几个月苦练的棒法走出来的。",
+      "title": "梁山好汉的棒子舞",
+      "body": "英歌舞是广东潮汕地区的一种广场舞蹈，逢年过节，一支队伍少则十几人、多至上百人，涂面化装成《水浒传》里的梁山好汉，手里各执一对彩色木棒，跟着锣鼓点边走边舞，木棒相击的声响能传出很远。关于它的来历，有人说是从山东大鼓子秧歌演化而来，也有人说是明末清初民间习武自保编出来的套路，还有人说最初只是祭祀请神时用来烘托气氛。\n\n这种舞蹈至明代吸收北方大鼓子秧歌逐渐演化成型，在潮汕扎根三百多年，2006年被列入首批国家级非物质文化遗产名录。舞步里揉进了南拳的架势和戏曲的身段，练一支英歌队，先得练几个月的棒法和步伐，才能在人群里走出气势。2023年春节，几段英歌舞视频在网上被点击了数亿次，不少外地游客专程赶去潮汕看现场。\n\n普宁一个县级市，如今还留着将近一百支英歌队，逢年过节挨村挨镇地巡演。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%E6%BD%AE%E6%B1%95%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94.jpg/1280px-%E6%BD%AE%E6%B1%95%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%97%E5%A4%B4%E5%B7%A1%E6%BC%94.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.ihchina.cn/news_1_details/26621.html",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "有力",
+      "verifiedAt": "2026-09-20",
+      "_facts": [
+        {
+          "claim": "英歌舞2006年入选首批国家级非物质文化遗产名录",
+          "source": "https://www.ihchina.cn/news_1_details/26621.html"
+        },
+        {
+          "claim": "英歌舞相传在潮汕地区已有300多年历史，表演人数少则12人多至108人，双数成行",
+          "source": "https://www.chinanews.com.cn/gn/2024/03-07/10176157.shtml"
+        },
+        {
+          "claim": "普宁市现有近百支英歌队",
+          "source": "https://www.ihchina.cn/news_1_details/26621.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%E6%BD%AE%E6%B1%95%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94.jpg/1280px-%E6%BD%AE%E6%B1%95%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Zoemonday",
+          "page": "https://commons.wikimedia.org/wiki/File:%E6%BD%AE%E6%B1%95%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%97%E5%A4%B4%E5%B7%A1%E6%BC%94.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Zoemonday",
+          "page": "https://commons.wikimedia.org/wiki/File:%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%97%E5%A4%B4%E5%B7%A1%E6%BC%94.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "ijen-sulfur-miners-load",
+      "scope": "全球",
+      "thesis": "游客拍的是蓝色火焰，矿工扛的是75公斤硫磺，同一个火山口两种生活。",
+      "title": "扛着硫磺下火山的人",
+      "body": "伊真火山口在印尼爪哇岛东部的班尤旺吉，火山湖是全世界酸性最强的湖泊之一，湖底不断渗出富含硫磺的火山气体。矿工们每天摸黑上山，蹲在滚烫的岩壁边，用铁棍把凝固的硫磺敲成块，装进两个竹筐，再靠一根扁担和一双脚，把货挑下山，白天步行的这趟活儿和夜里游客专程赶来看的风景，其实是同一个火山口。\n\n一趟下山要走三公里陡峭碎石路，两筐硫磺加起来常常达到75到90公斤，接近矿工自己的体重。这份工作在当地家族里一代代传下来，多数人干这行是因为方圆几十公里内找不到别的活计，日收入约合13美元，常年吸入硫磺气体对肺和眼睛都是慢性损耗。\n\n夜里，从裂缝里逸出的硫磺气体接触氧气会燃起蓝色的火焰，温度可达600摄氏度，是全世界面积最大的蓝色火焰区域之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg/1280px-Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kawah-Ijen_Indonesia_Ijen-Sulfur-Miner-01.jpg/1280px-Kawah-Ijen_Indonesia_Ijen-Sulfur-Miner-01.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Ijen",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-20",
+      "_facts": [
+        {
+          "claim": "伊真火山硫磺矿工负重75至90公斤，沿陡峭山路步行约3公里下山",
+          "source": "https://en.wikipedia.org/wiki/Ijen"
+        },
+        {
+          "claim": "矿工日收入约合13美元",
+          "source": "https://en.wikipedia.org/wiki/Ijen"
+        },
+        {
+          "claim": "伊真火山口逸出的硫磺气体燃烧时温度可达600摄氏度",
+          "source": "https://en.wikipedia.org/wiki/Ijen"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg/1280px-Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Sémhur",
+          "page": "https://commons.wikimedia.org/wiki/File:Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kawah-Ijen_Indonesia_Ijen-Sulfur-Miner-01.jpg/1280px-Kawah-Ijen_Indonesia_Ijen-Sulfur-Miner-01.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "CEphoto, Uwe Aranas",
+          "page": "https://commons.wikimedia.org/wiki/File:Kawah-Ijen_Indonesia_Ijen-Sulfur-Miner-01.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "lopburi-monkey-buffet",
+      "scope": "全球",
+      "thesis": "华富里人过节的方式，是给一整座城的猴子摆一桌流水席。",
+      "title": "给猴子摆的流水席",
+      "body": "每年11月的最后一个星期天，泰国华富里的帕南三峰塔前会摆开长桌，桌上堆满整整齐齐码好的水果、蔬菜和泰式甜点，专门招待城里的猕猴。当地人相信这些猕猴是印度神猴哈奴曼的后代，能带来好运，所以每年都要摆一桌像样的宴席请它们吃饭，猴子们则毫不客气地爬上桌子连抢带啃，抢不到座位的干脆蹲在树梢和屋檐上等机会。\n\n这个节日始于1989年，由当地一位经营酒店生意、以猴子做吉祥物的商人永育·基瓦他那努颂发起，最初只是在三处地点摆了35张桌子，感谢哈奴曼保佑生意兴隆。没过几年，泰国旅游局也参与进来，从2007年开始协助举办，把它变成了当地一年一度、专程吸引游客前来围观的固定活动。\n\n如今这场宴席一次要摆上超过8000磅、约合3.6吨的水果与食物，供聚集在寺庙周围的猕猴争抢享用。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Crab-eating_macaques_San_Phra_Kan_Lop_Buri.jpg/1280px-Crab-eating_macaques_San_Phra_Kan_Lop_Buri.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Monkey_at_Prang_Sam_Yot_%28Monkey_Temple%29_-_Lop_Buri_-_Thailand_-_03_%2835028544595%29.jpg/1280px-Monkey_at_Prang_Sam_Yot_%28Monkey_Temple%29_-_Lop_Buri_-_Thailand_-_03_%2835028544595%29.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.ripleys.com/stories/thailands-eclectic-monkey-buffet-festival",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-20",
+      "_facts": [
+        {
+          "claim": "泰国华富里猴子自助餐节由商人永育·基瓦他那努颂于1989年发起，首届在三处地点摆了35张宴席桌",
+          "source": "https://www.ripleys.com/stories/thailands-eclectic-monkey-buffet-festival"
+        },
+        {
+          "claim": "该节日固定在每年11月最后一个星期日举行",
+          "source": "https://www.ripleys.com/stories/thailands-eclectic-monkey-buffet-festival"
+        },
+        {
+          "claim": "节日现场摆出超过8000磅（约3.6吨）水果蔬菜与食物供猕猴食用",
+          "source": "https://www.ripleys.com/stories/thailands-eclectic-monkey-buffet-festival"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Crab-eating_macaques_San_Phra_Kan_Lop_Buri.jpg/1280px-Crab-eating_macaques_San_Phra_Kan_Lop_Buri.jpg",
+          "license": "CC BY 2.5",
+          "author": "Christian Rebernik",
+          "page": "https://commons.wikimedia.org/wiki/File:Crab-eating_macaques_San_Phra_Kan_Lop_Buri.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Monkey_at_Prang_Sam_Yot_%28Monkey_Temple%29_-_Lop_Buri_-_Thailand_-_03_%2835028544595%29.jpg/1280px-Monkey_at_Prang_Sam_Yot_%28Monkey_Temple%29_-_Lop_Buri_-_Thailand_-_03_%2835028544595%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Adam Jones (Flickr)",
+          "page": "https://commons.wikimedia.org/wiki/File:Monkey_at_Prang_Sam_Yot_(Monkey_Temple)_-_Lop_Buri_-_Thailand_-_03_(35028544595).jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
