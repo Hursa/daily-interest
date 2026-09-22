@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T07:00:00+08:00",
+  "items": [
+    {
+      "id": "darvaza-gate-of-hell",
+      "scope": "全球",
+      "thesis": "为了防止毒气扩散点的一把火，五十多年后成了关不掉的地标。",
+      "title": "沙漠里烧了五十年的坑",
+      "body": "1971年，苏联地质队在土库曼斯坦卡拉库姆沙漠钻探天然气，钻头凿穿了一处地下溶洞，洞顶随即塌陷，在地表留下一个直径六十到七十米、深约三十米的巨坑，钻井设备也一并陷了进去。\n\n坑里持续往外冒天然气，工程师担心甲烷四散会危及附近的居民和牲畜，决定点一把火烧掉，按当时的估计，几周就能烧完。没人料到坑底的气源源不断，这把火一直烧到了下一个世纪，当地人把它叫作地狱之门，夜里几公里外都能看见坑口的橙红色光。\n\n这个坑离首都阿什哈巴德约260公里，进沙漠要办签证、开四个多小时的车，游客常在附近扎营过夜，隔着几十米看它整夜燃烧。\n\n2010年，土库曼斯坦总统下令限制天然气田开发对这个坑的影响；2022年他又公开表示要设法把火彻底扑灭。当局这些年在坑周围打了多口甲烷回收井，据国营天然气公司官员在一次国际油气会议上的说法，坑内的火势已经比过去缩小了将近三倍，如今要走到近前才能看见火光，不像从前隔着老远的沙漠都能望见。",
+      "tryThis": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Darvaza_Gas_Crater.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Darvaza_gas_crater",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-21",
+      "_facts": [
+        {
+          "claim": "1971年苏联工程师钻探天然气时钻穿地下溶洞导致坍塌，形成直径60-70米、深约30米的巨坑",
+          "source": "https://en.wikipedia.org/wiki/Darvaza_gas_crater"
+        },
+        {
+          "claim": "点火本意是防止有毒气体扩散，原计划几周内燃尽，实际持续燃烧至今已超过50年",
+          "source": "https://en.wikipedia.org/wiki/Darvaza_gas_crater"
+        },
+        {
+          "claim": "2022年土库曼斯坦总统公开表示要设法彻底扑灭这处天然气坑",
+          "source": "https://en.wikipedia.org/wiki/Darvaza_gas_crater"
+        },
+        {
+          "claim": "据土库曼国家天然气公司官员在国际油气会议上的说法，近年坑内火势已缩小到接近原来的三分之一，如今要走近才能看见火光",
+          "source": "https://www.popsci.com/environment/darvaza-gas-crater/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Darvaza_Gas_Crater.jpg",
+          "license": "CC BY 2.0",
+          "author": "David Stanley",
+          "page": "https://commons.wikimedia.org/wiki/File:Darvaza_Gas_Crater.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "la-tomatina-bunol",
+      "scope": "全球",
+      "thesis": "一整年攒下来的过熟番茄，全镇人用一个小时把它们扔光。",
+      "title": "西班牙小镇打一小时番茄",
+      "body": "1945年8月的一次巡游上，布尼奥尔镇的年轻人在广场上起了争执，有人顺手从菜摊抓起番茄砸向对方，引发一场混战。第二年，大家索性专门带着番茄再闹一场，番茄大战就这样年复一年办了下来，一开始既没人组织，也没人限制。\n\n1950年代初，佛朗哥政府以没有宗教意义为由叫停过这个节日，镇民在1957年抬着棺材游行为它办丧事抗议，节日才又被批准恢复，2002年被官方列为国际旅游节庆。如今每年8月最后一个周三，两万多人挤进这座常住人口不到一万的小镇，一小时内扔完上百吨番茄，用的都是不适合上市的过熟品，扔完不算浪费。\n\n参赛者要先把番茄捏碎再扔，不能对着房子和穿制服的人扔，水炮响第一声开打，响第二声全场立刻停手，随后消防车会把满街番茄汁冲进下水道。\n\n2015年的一次统计显示，当年扔出的番茄接近14.5万公斤。",
+      "tryThis": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Arrojando_tomates_desde_un_cami%C3%B3n_-_La_Tomatina_2010.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/La_Tomatina",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-21",
+      "_facts": [
+        {
+          "claim": "番茄大战起源可追溯到1945年8月布尼奥尔镇一次巡游中的即兴冲突",
+          "source": "https://www.history.com/articles/tomatina-festival-spain-biggest-food-fight-tomatoes"
+        },
+        {
+          "claim": "1950年代初曾被佛朗哥政府以缺乏宗教意义为由禁止，1957年镇民游行抗议后恢复，2002年被列为国际旅游节庆",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        },
+        {
+          "claim": "如今每年约有两万多名参与者，布尼奥尔常住人口约九千人，活动固定在每年8月最后一个周三举行",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        },
+        {
+          "claim": "2015年的番茄大战估计使用了约14.5万公斤番茄",
+          "source": "https://en.wikipedia.org/wiki/La_Tomatina"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Arrojando_tomates_desde_un_cami%C3%B3n_-_La_Tomatina_2010.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "flydime",
+          "page": "https://commons.wikimedia.org/wiki/File:Arrojando_tomates_desde_un_cami%C3%B3n_-_La_Tomatina_2010.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "nepal-cliff-honey-hunters",
+      "scope": "全球",
+      "thesis": "没有安全绳，没有专业装备，采蜜人靠的是一架绳梯和几百年传下来的默契。",
+      "title": "悬崖上采蜂蜜的人",
+      "body": "世界上最大的蜜蜂喜马拉雅巨蜜蜂体长能到3厘米，只在海拔2500到3000米一带的悬崖南壁筑巢，蜂群觅食时能飞到4100米高处，一个蜂巢最多能攒下60公斤蜂蜜。\n\n尼泊尔东部的库隆人一年只采两次蜜，分别赶在春秋两季鲜花盛开的时候。采蜜前要先编一架专用绳梯——把几百根细竹条手工编成一条能长达近百米的软梯，光编这一条就要花上两周。\n\n采蜜人爬到悬崖中段，手里捏着一把闷烧的杂草，让烟丝丝缕缕飘向蜂巢，先把蜂群熏得迟钝一些；再用一根七米多长、削尖了头的竹竿把蜂巢从岩壁上一点点锯下来，随后用两根木钉穿进蜂巢，拴上细竹绳，一片一片往下放，全程只能靠喊话和地面的人配合。\n\n开采前，族里的萨满会在专门圈出的场地里主持一场仪式，摆上两座香蕉叶搭的祭坛，分别敬蜂神和山神，供上豆子、大米，还要宰一只鸡，祈求这次攀爬平安。\n\n蜜蜂常年采食白杜鹃花蜜，花蜜里的木藜芦毒素会带进蜂蜜里，这种疯蜜吃多了会让人手脚发麻、头晕甚至呕吐，也因为这个效果，它在市场上能卖到普通蜂蜜五倍左右的价钱。",
+      "tryThis": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Honey_hunting_by_Gurung_Tribesman.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Apis_laboriosa",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-21",
+      "_facts": [
+        {
+          "claim": "喜马拉雅巨蜜蜂体长可达3厘米，是已知体型最大的蜜蜂，常在海拔2500-3000米的悬崖南壁筑巢，觅食范围可达4100米",
+          "source": "https://en.wikipedia.org/wiki/Apis_laboriosa"
+        },
+        {
+          "claim": "单个喜马拉雅巨蜜蜂蜂巢最多可积攒约60公斤蜂蜜",
+          "source": "https://en.wikipedia.org/wiki/Apis_laboriosa"
+        },
+        {
+          "claim": "尼泊尔库隆人一年采蜜两次，分别在春秋两季，用手工编织的竹制绳梯攀爬悬崖，一条约90米长的绳梯需编织两周",
+          "source": "https://www.nationalgeographic.com/magazine/article/honey-hunters-bees-climbing-nepal"
+        },
+        {
+          "claim": "采蜜时用闷烧杂草的烟驱使蜂群迟钝，用削尖的长竹竿锯下蜂巢，再用木钉与竹绳把蜂巢分片吊运下来",
+          "source": "https://www.nationalgeographic.com/magazine/article/honey-hunters-bees-climbing-nepal"
+        },
+        {
+          "claim": "蜂蜜中的木藜芦毒素来自白杜鹃花蜜，含此成分的“疯蜜”售价约为普通蜂蜜的五倍",
+          "source": "https://en.wikipedia.org/wiki/Apis_laboriosa"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Honey_hunting_by_Gurung_Tribesman.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kandelrashmi",
+          "page": "https://commons.wikimedia.org/wiki/File:Honey_hunting_by_Gurung_Tribesman.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "kyoto-maiko-apprentice",
+      "scope": "全球",
+      "thesis": "能不能成为舞妓，靠的不是几天几周的练习，是几年扎进生活里的重复。",
+      "title": "舞妓出道前的几年学徒",
+      "body": "在京都的花街，女孩通常十五六岁初中毕业后就住进置屋，从打杂的仕込み学起，每天做家务、跟着师姐跑腿，先要学会说地道的京都腔，才有资格接触正式课程。\n\n真正的舞妓课程包括日本舞、三味线、小呗、茶道、花道，还有怎么穿和服、系腰带、在榻榻米上跪坐待客。一支舞的手势要拆成几十个动作反复练，师傅当场纠正，做不到位就重来，没有速成这一说；京都的训练又被认为是全日本几个花街里最严格的一档。\n\n从入门到能以舞妓身份正式登场（业内称见世出し），学徒期短则几个月、长则数年，登场时年纪多在十七到二十岁之间。登场当天，发髻两侧要垂下特定样式的簪子，唇妆也要换成初出茅庐者才有的样式，向外界宣告这个人真正入行了。\n\n舞妓通常在二十岁前后换发型、改口称呼，正式升为艺伎，衣着与妆容风格也随之切换成成年艺伎的样式。",
+      "tryThis": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Maiko_in_Gion.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Maiko",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "有力",
+      "verifiedAt": "2026-09-21",
+      "_facts": [
+        {
+          "claim": "京都舞妓多在十五六岁初中毕业后入行，先在置屋做打杂的仕込み，并须学会地道京都腔",
+          "source": "https://en.wikipedia.org/wiki/Maiko"
+        },
+        {
+          "claim": "舞妓课程包括日本舞、三味线、小呗、茶道等技艺，学徒期从数月到数年不等，登场时年纪多为十七到二十岁",
+          "source": "https://en.wikipedia.org/wiki/Maiko"
+        },
+        {
+          "claim": "见世出し（misedashi）是舞妓正式登场的仪式，发髻两侧会垂下特定样式的簪子",
+          "source": "https://en.wikipedia.org/wiki/Misedashi"
+        },
+        {
+          "claim": "舞妓通常在二十至二十一岁左右经衿替え（erikae）仪式升为正式艺伎，和服款式与发型随之改变",
+          "source": "https://en.wikipedia.org/wiki/Geisha"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Maiko_in_Gion.jpg",
+          "license": "CC BY 2.0",
+          "author": "Flickr user Joi",
+          "page": "https://commons.wikimedia.org/wiki/File:Maiko_in_Gion.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
