@@ -1,0 +1,183 @@
+{
+  "schema": 1,
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T07:00:00+08:00",
+  "items": [
+    {
+      "id": "siena-palio-scosso-horse-wins",
+      "scope": "全球",
+      "thesis": "街区赌的是马不是人，骑手中途摔下去，马自己跑到终点照样算赢。",
+      "title": "广场赛马不用马鞍",
+      "body": "锡耶纳城里分十七个街区，本地话叫contrada，彼此较劲了几百年。孩子一出生就被记进所在街区的花名册，一辈子几乎不会换，搬家也照样算原来街区的人。每年七月二日和八月十六日，十七个街区里抽出十个，牵着马进贝壳形的坎波广场，绕场跑三圈，一分半钟内决出胜负。骑手不铺鞍垫，光背骑马，过弯道常常被甩出去。\n\n正式开跑前有一小时的历史游行，各街区代表穿中世纪盔甲和服装，举着自己的旗子入场，但游行再隆重，真正算数的只有广场上那三圈。规则写得很直白：谁的马先到终点，谁赢，不管背上还有没有人。被甩下骑手、自己跑完全程的马专门有个名字叫scosso，一样能让所在的街区捧回锦标旗。街区里的人押上的从来是马，不是骑手，骑手年年换人，马赢一次就够街坊吹一整年。\n\n每个街区都有指定的头号对手，输给这个对手比输给别人都难受，接下来一整年都会被人挂在嘴边。比赛前一晚，参赛马会被牵进各自街区的教堂，接受神父洒圣水；赢的街区把锦标旗挂进教堂正厅供起来。这项以现在的规则举办的赛事，从1633年办到今天没有停过。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Il_Palio_di_Siena_luglio_2008_4.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Palio_di_Siena",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-23",
+      "_facts": [
+        {
+          "claim": "锡耶纳现有17个contrada（街区），每场比赛只有10个抽签轮换参赛。",
+          "source": "https://en.wikipedia.org/wiki/Palio_di_Siena"
+        },
+        {
+          "claim": "比赛沿坎波广场绕跑三圈，通常90秒以内结束。",
+          "source": "https://en.wikipedia.org/wiki/Palio_di_Siena"
+        },
+        {
+          "claim": "骑手落马后，只要马匹（称为scosso）自己跑到终点，仍算所属街区获胜。",
+          "source": "https://en.wikipedia.org/wiki/Palio_di_Siena"
+        },
+        {
+          "claim": "现行赛制的帕里奥赛事（palio alla tonda）自1633年起举办。",
+          "source": "https://en.wikipedia.org/wiki/Palio_di_Siena"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Il_Palio_di_Siena_luglio_2008_4.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Mirco",
+          "page": "https://commons.wikimedia.org/wiki/File:Il_Palio_di_Siena_luglio_2008_4.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "naica-crystal-cave-500000-years",
+      "scope": "全球",
+      "thesis": "让水晶长这么大的，正是人类进去待不了几分钟的环境。",
+      "title": "五十万年长成的水晶柱",
+      "body": "2000年，墨西哥奇瓦瓦州内卡矿的两名矿工打通一条新巷道，凿穿了一整面石膏晶体墙，晶体最长的接近11米，直径超过一米，重达55吨，是地球上已知最大的天然晶体之一，比一整节公交车还长。\n\n它们能长这么大，靠的是几乎不被打扰的几十万年：地下矿液常年稳定在58摄氏度左右，晶体在这种匀速环境里一点点析出、生长了超过五十万年，中途没有一次剧烈的温度波动打断结晶过程。矿藏被人类找到之前，这里没有任何人类活动能靠近它，更谈不上破坏它。\n\n矿工抽干矿脉里的地下水开采银铅矿的同时，也顺带把这个洞穴暴露给了人。抽水降温以后，洞内气温仍有45到50摄氏度，湿度接近饱和，水汽多到汗水根本蒸发不掉，不穿专门配备制冷背心和呼吸装置的防护服进去，人待上十分钟左右就会中暑虚脱。矿场2017年彻底停止抽水后，洞穴重新被地下水淹没，从那以后再没有人能进去过。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cristales_cueva_de_Naica.JPG",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "独特",
+      "verifiedAt": "2026-09-23",
+      "_facts": [
+        {
+          "claim": "内卡水晶洞由两名矿工在2000年打通新巷道时发现。",
+          "source": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals"
+        },
+        {
+          "claim": "洞内石膏晶体最长约11米，最重达55吨，是已知最大的天然晶体之一。",
+          "source": "https://www.nationalgeographic.com/science/article/photos-mexico-cave-of-crystals"
+        },
+        {
+          "claim": "晶体在约58摄氏度的稳定矿液中生长，形成过程持续超过50万年。",
+          "source": "https://www.nationalgeographic.com/science/article/photos-mexico-cave-of-crystals"
+        },
+        {
+          "claim": "停止抽水降温后，洞内气温仍达45到50摄氏度，湿度接近饱和，未着降温防护服进入约十分钟即有中暑风险。",
+          "source": "https://www.nationalgeographic.com/science/article/photos-mexico-cave-of-crystals"
+        },
+        {
+          "claim": "矿场2017年停止抽水后，洞穴重新被地下水淹没，此后无法再进入。",
+          "source": "https://en.wikipedia.org/wiki/Naica_Mine"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cristales_cueva_de_Naica.JPG",
+          "license": "CC BY 3.0",
+          "author": "Alexander Van Driessche",
+          "page": "https://commons.wikimedia.org/wiki/File:Cristales_cueva_de_Naica.JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "xian-beilin-stele-forest-1087",
+      "scope": "西安",
+      "thesis": "九百年间朝代换了好几轮，收藏石碑这件事一次没断过。",
+      "title": "碑林盖了九百年还在收",
+      "body": "公元1087年，北宋元祐二年，官府在西安孔庙旧址建了一处专门存放唐代开成石经和颜真卿、柳公权等人书法碑刻的房子，这是西安碑林最早的雏形。1103年，碑林迁到现在这个位置，往后金、元、明、清历代都在原址上扩建，藏碑越收越多，没有哪一朝把它当成过时的东西拆掉。\n\n碑林现在收藏碑石墓志四千余件，年代从汉代一直排到近代，跨了一千八百多年。馆里至今还有工匠在做传拓——把宣纸蒙在碑面上，蘸墨拓出碑文，这门手艺跟碑林本身差不多老，拓出来的效果比拍照还清楚每一道刀痕的深浅。\n\n游客现在能买到的碑林拓片，工序和一千年前工匠用的几乎一样：纸要蒙湿、捶要均匀、墨要薄，拓完晾干才能小心揭下来，一张拓片做完往往要大半天，比印一张照片慢得多。1961年，西安碑林被国务院列为全国第一批重点文物保护单位。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gate_of_beilin_museum_%284104708913%29.jpg",
+      "link": {
+        "url": "https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E5%AE%89%E7%A2%91%E6%9E%97",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "有力",
+      "verifiedAt": "2026-09-23",
+      "_facts": [
+        {
+          "claim": "西安碑林始建于北宋元祐二年（1087年），最初为保存唐代碑刻而建。",
+          "source": "https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E5%AE%89%E7%A2%91%E6%9E%97"
+        },
+        {
+          "claim": "1103年，碑林迁至现址，此后历代不断增建扩藏。",
+          "source": "http://paper.people.com.cn/rmrbhwb/html/2020-08/04/content_2001294.htm"
+        },
+        {
+          "claim": "碑林现藏碑石墓志四千余件，年代跨越汉代至近代，约一千八百余年。",
+          "source": "http://paper.people.com.cn/rmrbhwb/html/2020-08/04/content_2001294.htm"
+        },
+        {
+          "claim": "1961年，西安碑林被国务院列为全国第一批重点文物保护单位。",
+          "source": "http://paper.people.com.cn/rmrbhwb/html/2020-08/04/content_2001294.htm"
+        },
+        {
+          "claim": "西安碑林是中国收藏历代碑石数量最多的博物馆。",
+          "source": "https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E5%AE%89%E7%A2%91%E6%9E%97"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gate_of_beilin_museum_%284104708913%29.jpg",
+          "license": "CC BY 2.0",
+          "author": "Hiroshi Miyazaki",
+          "page": "https://commons.wikimedia.org/wiki/File:Gate_of_beilin_museum_(4104708913).jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "wudang-taichi-transmission",
+      "scope": "中国",
+      "thesis": "太极拳到底是谁发明的还在争，武当山道观内部的师徒传承没有停过。",
+      "title": "武当山的太极拳没断过",
+      "body": "武当山流传的说法是，元末明初一个叫张三丰的道士在这里悟出以柔克刚的拳理，创出太极拳；但中国武术协会根据可查证的史料认定，太极拳真正的发源地是河南温县陈家沟，由明末清初的陈王廷所创，张三丰的说法目前没有确凿证据支持。两种说法谁对谁错，武术界至今没有统一定论。\n\n不管源头怎么争，武当山自己这一支武术传承没有断过。山上的玄武派在1989年农历九月九日正式恢复，现任第十四代掌门人是1965年出生的游玄德，道号玉京子，仍在山上收徒教拳、传授内丹功，弟子里既有常住山上的道士，也有专程上山拜师的外来学生。\n\n练拳这件事在武当山从来不是表演项目：道士每天在观里打坐、练功、诵经，武术只是修行日课的一部分，跟游客在山下广场看到的表演场子是两回事。武当山现存宫观庙宇两百多处，1994年被联合国教科文组织列入世界文化遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Taoist_priest_wudang.JPG",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Wudang_Mountains",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-23",
+      "_facts": [
+        {
+          "claim": "中国武术协会根据可查证史料认定，太极拳发源于河南温县陈家沟，由明末清初的陈王廷所创。",
+          "source": "https://zh.wikipedia.org/zh-cn/%E6%AD%A6%E5%BD%93%E6%B4%BE"
+        },
+        {
+          "claim": "武当玄武派于1989年农历九月九日正式恢复。",
+          "source": "https://zh.wikipedia.org/zh-cn/%E6%AD%A6%E5%BD%93%E6%B4%BE"
+        },
+        {
+          "claim": "武当玄武派现任第十四代掌门人为1965年出生的游玄德，道号玉京子。",
+          "source": "https://zh.wikipedia.org/zh-cn/%E6%AD%A6%E5%BD%93%E6%B4%BE"
+        },
+        {
+          "claim": "武当山古建筑群于1994年被联合国教科文组织列入世界文化遗产名录。",
+          "source": "https://en.wikipedia.org/wiki/Wudang_Mountains"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Taoist_priest_wudang.JPG",
+          "license": "Public domain",
+          "author": "Chris Bacigalupo",
+          "page": "https://commons.wikimedia.org/wiki/File:Taoist_priest_wudang.JPG",
+          "attributionRequired": false
+        }
+      ]
+    }
+  ]
+}
