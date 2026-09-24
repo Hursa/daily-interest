@@ -1,0 +1,191 @@
+{
+  "schema": 1,
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T07:00:00+08:00",
+  "items": [
+    {
+      "id": "danakil-salt-caravan-afar",
+      "scope": "全球",
+      "thesis": "极端环境淘汰不了骆驼，因为柴油机在那儿反而更容易报废。",
+      "title": "把盐从死亡谷驮出来的人",
+      "body": "埃塞俄比亚东北部的达纳基尔洼地，部分区域海拔低于海平面九十多米，是地球上平均气温最高的地区之一。旱季最热的月份，白天气温常达到四十六点七摄氏度，历史记录的最高气温接近四十九摄氏度。地表遍布盐壳和硫磺矿层，空气里终年带着刺鼻的气味，方圆很远看不到一棵树。\n\n阿法尔人世代靠开采这片盐湖为生。盐工用斧头把盐层凿成砖块大小的盐板，每块约四公斤重，再交给骆驼驮运，一头骆驼一次能背大约三十块。商队通常连成长队，沿着固定路线走两天，才能把盐运到最近的城镇，途中没有遮阴，水和干粮都要提前备够。\n\n盐板曾经是埃塞俄比亚高原通行的货币，如今已经换成现金结算，但驮运的方式没有跟着换。当地登记在册的盐工约七百五十人，平均每年从这片洼地采出约一百三十万吨盐，靠的还是同一支骆驼商队。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Salt_miners%2C_Danakil_Depression.jpg/960px-Salt_miners%2C_Danakil_Depression.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Danakil_Desert",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-09-24",
+      "_facts": [
+        {
+          "claim": "达纳基尔洼地部分区域海拔低于海平面约92米，是地球上平均气温最高的地区之一",
+          "source": "https://en.wikipedia.org/wiki/Danakil_Desert"
+        },
+        {
+          "claim": "该地区最热月份日间高温可达46.7摄氏度，历史记录最高气温约49摄氏度",
+          "source": "https://en.wikipedia.org/wiki/Danakil_Desert"
+        },
+        {
+          "claim": "阿法尔盐工用斧头把盐湖表层凿成砖状盐板，每块约4公斤，一头骆驼可驮约30块",
+          "source": "https://en.wikipedia.org/wiki/Danakil_Desert"
+        },
+        {
+          "claim": "商队从盐湖到最近城镇通常要走两天",
+          "source": "https://en.wikipedia.org/wiki/Danakil_Desert"
+        },
+        {
+          "claim": "当地登记在册的盐工约750人，平均每年开采约130万吨盐",
+          "source": "https://www.fairplanet.org/story/the-hottest-place-on-earth-the-salt-mines-of-danakil-depression/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Salt_miners%2C_Danakil_Depression.jpg/960px-Salt_miners%2C_Danakil_Depression.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Niels Van Iperen",
+          "page": "https://commons.wikimedia.org/wiki/File:Salt_miners,_Danakil_Depression.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "junkanoo-bahamas-boxing-day",
+      "scope": "全球",
+      "thesis": "殖民政府批准的三天假期，被奴隶们过成了一场不肯散场的狂欢。",
+      "title": "圣诞假期，游行办了三百年",
+      "body": "十八世纪的巴哈马，被奴役的非洲人在圣诞节前后能得到三天假期。这几乎是全年唯一被允许离开种植园、按自己的方式庆祝的时间，他们用面具、彩纸和即兴的鼓点办起游行，这就是琼卡努的起源。名字的来历没有定论，一种说法认为它来自一位争取保留部族习俗的西非酋长约翰·卡诺。\n\n一八三四年英国废除奴隶制后，这项游行没有消失，反而成了拿骚每年圣诞节和元旦的固定节目。一九四二年到一九四七年，殖民政府一度禁止街头游行，琼卡努也在其中；一九四八年游行重新回到海湾街，交由市民组成的委员会接手组织，规则延续至今。\n\n如今的游行队伍动辄上百人，服装从最初的海绵、旧报纸，变成了纸板、绉纸和亮片拼出的巨大头饰，一套要花几个月制作。二〇二三年，琼卡努被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Junkanoo_Festival%2C_Nassau_2.jpg/960px-Junkanoo_Festival%2C_Nassau_2.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Junkanoo",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-24",
+      "_facts": [
+        {
+          "claim": "18世纪，巴哈马的非洲奴隶在圣诞节前后可获得三天假期，现存最早的琼卡努游行记录可追溯到19世纪20年代",
+          "source": "https://time.com/7202192/junkanoo-holiday-history/"
+        },
+        {
+          "claim": "1834年英国废除奴隶制后，琼卡努游行在拿骚延续下来，成为圣诞节和元旦的固定节目",
+          "source": "https://time.com/7202192/junkanoo-holiday-history/"
+        },
+        {
+          "claim": "1942年至1947年，殖民政府一度禁止街头游行；1948年游行恢复，交由市民组成的委员会接手组织",
+          "source": "https://time.com/7202192/junkanoo-holiday-history/"
+        },
+        {
+          "claim": "现代游行参与者有时超过千人，服装用纸板、绉纸、羽毛和珠子等材料制作，需数月完成",
+          "source": "https://www.nassauparadiseisland.com/blog/all-about-junkanoo"
+        },
+        {
+          "claim": "2023年，琼卡努被联合国教科文组织列入人类非物质文化遗产代表作名录",
+          "source": "https://en.wikipedia.org/wiki/Junkanoo"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Junkanoo_Festival%2C_Nassau_2.jpg/960px-Junkanoo_Festival%2C_Nassau_2.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Jon Worth",
+          "page": "https://commons.wikimedia.org/wiki/File:Junkanoo_Festival,_Nassau_2.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "dujiangyan-irrigation-2300-years",
+      "scope": "中国",
+      "thesis": "不建一座水坝拦江，却能把岷江精确分成两半，而且用了两千多年。",
+      "title": "两千三百年前的水坝还在分水",
+      "body": "都江堰位于四川成都平原西侧，由战国时期秦国蜀郡郡守李冰父子主持修建，约在公元前二五六年到公元前二五一年间完工。工程不筑坝拦断岷江，而是利用河道天然的弯曲和落差，把水流一分为二，这个思路两千多年来没有被推倒重建过。\n\n整套系统靠三处工程配合运作：鱼嘴把岷江分成内江和外江，枯水期内江多进水、外江少进水；飞沙堰负责在洪水季把多余的江水和泥沙自动排回外江；宝瓶口是凿开玉垒山山体形成的引水口，控制进入成都平原的水量。三处工程环环相扣，不需要额外的机械操作。\n\n维持这套系统正常运转还要靠一项延续下来的老规矩：每年冬春枯水期，用竹笼装卵石筑起临时围堰，把水挡到一侧，趁机清淤加固另一侧的河床和堤堰，当地人把这道工序叫岁修。两千多年过去，都江堰至今仍在使用，灌溉面积已经扩大到一千多万亩，年引水总量约一百亿立方米，是现今世界上灌溉面积最大的水利工程。二〇〇〇年，都江堰与青城山一起被列入世界遗产名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dujiang_Weir.jpg/1280px-Dujiang_Weir.jpg",
+      "link": {
+        "url": "https://zh.wikipedia.org/wiki/%E9%83%BD%E6%B1%9F%E5%A0%B0",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-09-24",
+      "_facts": [
+        {
+          "claim": "都江堰由战国时期秦国蜀郡郡守李冰及其子主持修建，约建于公元前256年至前251年间",
+          "source": "https://zh.wikipedia.org/wiki/%E9%83%BD%E6%B1%9F%E5%A0%B0"
+        },
+        {
+          "claim": "工程由鱼嘴、飞沙堰、宝瓶口三大主体构成，不筑坝拦断岷江，靠地形自然分水排沙",
+          "source": "https://zh.wikipedia.org/wiki/%E9%83%BD%E6%B1%9F%E5%A0%B0"
+        },
+        {
+          "claim": "都江堰传统维护制度称为岁修，在每年冬春枯水期用竹笼卵石筑临时围堰清淤加固",
+          "source": "https://news.qq.com/rain/a/20221117A00TXH00"
+        },
+        {
+          "claim": "都江堰灌溉面积已达1000多万亩，年引水总量约100亿立方米，是现今世界灌溉面积最大的水利工程",
+          "source": "https://zh.wikipedia.org/wiki/%E9%83%BD%E6%B1%9F%E5%A0%B0"
+        },
+        {
+          "claim": "2000年，都江堰与青城山一起被列入世界遗产名录",
+          "source": "https://zh.wikipedia.org/wiki/%E9%83%BD%E6%B1%9F%E5%A0%B0"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dujiang_Weir.jpg/1280px-Dujiang_Weir.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "星星",
+          "page": "https://commons.wikimedia.org/wiki/File:Dujiang_Weir.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "cremona-violin-luthier-craft",
+      "scope": "全球",
+      "thesis": "四百年没有换过做法，因为还没有别的办法能替代手感。",
+      "title": "一把琴，七十多块木头拼成",
+      "body": "小提琴制作技艺在意大利克雷莫纳延续了四百多年。十六世纪，阿马蒂家族在这座城市定下制琴的基本方法，安东尼奥·斯特拉迪瓦里在十七世纪末到十八世纪初把这套方法磨到顶点，他的琴至今仍是这门手艺公认的参照标杆。\n\n一把小提琴由七十多块经过手工挑选和阴干的木料拼装而成，琴身各部位用的木材种类都不一样，全靠工匠凭经验判断每块木料的振动特性。一名熟练的制琴师一年通常只能做出三到六把琴，产量始终提不上去。\n\n这门手艺没有被工业化替代。克雷莫纳所在的意大利制琴师协会目前登记会员超过一百四十人，当地的国际制琴学校创立于一九三八年，新人要先在校学习基本功，再进作坊跟老师傅打磨手感，没有捷径可走。二〇一二年，克雷莫纳传统制琴技艺被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Workshop_luthier.jpg",
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Traditional_violin_craftsmanship_in_Cremona",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-24",
+      "_facts": [
+        {
+          "claim": "小提琴制作技艺在意大利克雷莫纳延续超过400年，16世纪由阿马蒂家族奠定基本方法",
+          "source": "https://en.wikipedia.org/wiki/Traditional_violin_craftsmanship_in_Cremona"
+        },
+        {
+          "claim": "一把小提琴由70多块经手工挑选、阴干的木料拼装而成",
+          "source": "https://en.wikipedia.org/wiki/Traditional_violin_craftsmanship_in_Cremona"
+        },
+        {
+          "claim": "一名熟练制琴师一年通常只能完成3到6把小提琴",
+          "source": "https://en.wikipedia.org/wiki/Traditional_violin_craftsmanship_in_Cremona"
+        },
+        {
+          "claim": "意大利制琴师协会目前登记会员超过140人，克雷莫纳国际制琴学校创立于1938年9月12日",
+          "source": "https://en.wikipedia.org/wiki/Traditional_violin_craftsmanship_in_Cremona"
+        },
+        {
+          "claim": "2012年，克雷莫纳传统制琴技艺被联合国教科文组织列入人类非物质文化遗产代表作名录",
+          "source": "https://en.wikipedia.org/wiki/Traditional_violin_craftsmanship_in_Cremona"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Workshop_luthier.jpg",
+          "license": "Public domain",
+          "author": "Hildegard Dodel",
+          "page": "https://commons.wikimedia.org/wiki/File:Workshop_luthier.jpg",
+          "attributionRequired": false
+        }
+      ]
+    }
+  ]
+}
