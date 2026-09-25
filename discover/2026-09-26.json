@@ -1,0 +1,171 @@
+{
+  "schema": 1,
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T07:20:05+08:00",
+  "items": [
+    {
+      "id": "heimaey-lava-heats-town",
+      "scope": "全球",
+      "thesis": "把整座城埋掉一半的岩浆,后来变成了这座城自己的暖气。",
+      "title": "烧了五个月的岩浆,给全岛供暖",
+      "body": "1973年1月23日凌晨,冰岛韦斯特曼纳岛的海迈岛东侧地表突然裂开,岩浆从裂缝里涌出来,一直喷了五个多月。全岛五千多名居民连夜撤离,四百多栋房子被岩浆吞掉或被火山灰埋住,岛的陆地面积因为新长出的岩石反而增加了两平方多公里。\n\n居民没有直接放弃小镇,而是想办法拦住岩浆——把海水用泵和管道一路抽到熔岩前沿,一共浇下去六百二十万吨海水,硬是把岩流逼得改道,保住了小镇赖以为生的渔港入口。\n\n喷发停了以后,还没冷透的熔岩体成了现成的地热资源。1974年第一户人家接上了试验性的供暖管线,到1979年岛上建起四座取热站,从冷却中的岩浆里抽出热量,高峰时能产生四十兆瓦的热能,岛上几乎家家户户的暖气和热水都靠这些岩浆供着。今天的海迈镇仍是冰岛重要的渔业中心之一,当年被岩浆埋掉的老城区里,有一栋房子被原样挖出来,盖进了一座火山纪念馆里。",
+      "tryThis": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lava_flow_advances_down_a_Heimaey_street.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://pubs.usgs.gov/gip/heimaey/heimaey.pdf",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "有力",
+      "verifiedAt": "2026-09-26",
+      "_facts": [
+        {
+          "claim": "1973年1月23日海迈岛东侧裂开喷发,持续五个多月,四百多栋建筑被岩浆或火山灰摧毁,岛屿面积因新岩浆增加约2.24平方公里",
+          "source": "https://commons.wikimedia.org/wiki/Category:Heimaey_eruption_1973"
+        },
+        {
+          "claim": "居民用泵和管道向岩浆前沿喷洒了约620万吨海水,成功让岩流改道,保住了港口",
+          "source": "https://commons.wikimedia.org/wiki/Category:Heimaey_eruption_1973"
+        },
+        {
+          "claim": "1974年第一户人家接入试验性地热供暖,1979年建成四座取热站,利用冷却中的岩浆产生最高40兆瓦热能,供全岛几乎所有住户使用",
+          "source": "https://visitwestmanislands.com/volcanic-eruption-1973/"
+        },
+        {
+          "claim": "海迈镇后来成为冰岛重要的渔业中心之一;当地的Eldheimar火山纪念馆是围绕一栋从火山灰下原地挖出的房屋建成的",
+          "source": "https://www.wonderfulmuseums.com/museum/eldheimar-museum/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lava_flow_advances_down_a_Heimaey_street.jpg",
+          "license": "Public Domain (USGS)",
+          "author": "Richard S. Williams, Jr. / USGS",
+          "page": "https://commons.wikimedia.org/wiki/File:Lava_flow_advances_down_a_Heimaey_street.jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "gesar-epic-illiterate-bards",
+      "scope": "中国",
+      "thesis": "唱这部史诗的人大多不识字,史诗却是世界上篇幅最长的几部之一。",
+      "title": "一百多万诗行,靠嘴传下来",
+      "body": "《格萨尔王传》是藏族的英雄史诗,讲岭国国王格萨尔降妖伏魔、统一各部的故事。现存的版本加起来超过一百万诗行,单是中国境内整理出的藏文汇编就有约一百二十卷,常被认为是世界上篇幅最长的史诗之一。\n\n这部史诗至今没有一个固定的“标准文本”,主要靠说唱艺人一代代口头传下来。艺人分几种:有人对着写本照本宣科,也有人完全不识字,全凭幼年听来的调子和情节,现场即兴把几万行内容唱出来;还有一类艺人声称自己是在大病一场、经历幻象之后才忽然会唱的。\n\n目前中国境内活跃的格萨尔说唱艺人大约还有一百人左右,分布在藏、蒙古、土族等多个民族里,用各自的语言演唱同一个故事框架。现存最早的印本,是清朝康熙皇帝在1716年下令刻印的一部蒙文木刻版。2009年,格萨尔史诗传统被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "tryThis": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Statue_of_King_Gesar_%28cropped%29.JPG",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Epic_of_King_Gesar",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-09-26",
+      "_facts": [
+        {
+          "claim": "《格萨尔王传》现存版本超过一百万诗行,中国境内藏文汇编约120卷,常被认为是世界上篇幅最长的史诗之一",
+          "source": "https://en.wikipedia.org/wiki/Epic_of_King_Gesar"
+        },
+        {
+          "claim": "说唱艺人分多种,包括完全不识字、全凭记忆和即兴演唱的艺人;现存最早印本是1716年康熙皇帝下令刻印的蒙文木刻版",
+          "source": "https://en.wikipedia.org/wiki/Epic_of_King_Gesar"
+        },
+        {
+          "claim": "目前中国境内活跃的格萨尔说唱艺人约有100人;该史诗传统2009年被列入教科文组织人类非物质文化遗产代表作名录",
+          "source": "https://ich.unesco.org/en/RL/gesar-epic-tradition-00204"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Statue_of_King_Gesar_%28cropped%29.JPG",
+          "license": "CC BY-SA 4.0",
+          "author": "Hana Cincerova",
+          "page": "https://commons.wikimedia.org/wiki/File:Statue_of_King_Gesar_(cropped).JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "lalibela-rock-churches-still-worship",
+      "scope": "全球",
+      "thesis": "教堂不是盖在地上,是从地面往下凿出来的,凿好了八百年一直在用。",
+      "title": "十一座教堂,凿了二十四年",
+      "body": "埃塞俄比亚拉利贝拉的十一座教堂,没有一块是垒起来的——工匠先在整片火山岩上凿出深沟,把一整块石头孤立出来,再由上往下凿空,凿出门窗、廊柱和内部空间。相传是十二世纪末到十三世纪初,扎格维王朝的拉利贝拉国王下令修建,整套工程用了二十四年。\n\n十一座教堂里,四座是完全独立于山体的整块巨石建筑,另外七座和周围岩壁还连着,靠隧道和沟渠相通。其中最有名的一座平面呈十字形,从地面往下凿了十几米,只有走到沟底才能看清全貌。\n\n这些教堂不是遗址,现在仍是埃塞俄比亚正教会的活跃场所,神职人员常年驻守,每天有人来做礼拜。每年圣诞节和主显节期间,来自埃塞俄比亚各地的朝圣者会聚集在这里,人数达到数万人。1978年,拉利贝拉岩石教堂群被列入教科文组织首批世界遗产名录。",
+      "tryThis": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bet_Giyorgis_Rock-Hewn_Church_-_Lalibela_-_Ethiopia_-_01_%288732144036%29.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://whc.unesco.org/en/list/18/",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-26",
+      "_facts": [
+        {
+          "claim": "拉利贝拉共有11座岩石教堂,由拉利贝拉国王下令于12世纪末至13世纪初开凿,整个工程耗时24年",
+          "source": "https://www.wmf.org/projects/rock-hewn-churches"
+        },
+        {
+          "claim": "11座教堂中4座为完全独立于山体的整块巨石建筑,其余7座与岩壁相连,靠隧道和沟渠连通",
+          "source": "https://www.metmuseum.org/perspectives/lalibela"
+        },
+        {
+          "claim": "教堂至今仍由埃塞俄比亚正教会用于日常礼拜,圣诞节和主显节期间有数万朝圣者前来;1978年被列入教科文组织首批世界遗产名录",
+          "source": "https://whc.unesco.org/en/list/18/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bet_Giyorgis_Rock-Hewn_Church_-_Lalibela_-_Ethiopia_-_01_%288732144036%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Adam Jones",
+          "page": "https://commons.wikimedia.org/wiki/File:Bet_Giyorgis_Rock-Hewn_Church_-_Lalibela_-_Ethiopia_-_01_(8732144036).jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "caber-toss-highland-games-clock",
+      "scope": "全球",
+      "thesis": "扔的不是远近,是能不能让一根七十斤的圆木翻着跟头正对着你倒下。",
+      "title": "扔木头,扔的是一个钟点",
+      "body": "苏格兰高地运动会里的“掷杆”,扔的是一整根去皮的落叶松原木,长五到六米,重四十到七十公斤,比一个成年人还高。选手把杆子竖着抱在怀里助跑,靠冲刺的力道把它甩到空中,让杆子在空中整根翻转过来,粗的一头先落地。\n\n评判标准不是扔得多远,而是杆子落地后指向哪个方向:把落点想象成钟面,杆子直挺挺地指向选手原来站的方向算“十二点”,是最高分;如果杆子翻转不够,歪着倒向一侧,只能算九点或三点,分数就低。扔得远却扔歪了,反而不如扔得近但方向正的成绩好。\n\n这项运动的起源没有确切记载,常见的说法是苏格兰高地伐木工人用扔圆木炫耀力气,渐渐演变成比赛项目。今天一场高地运动会上,掷杆和其他几项投掷比赛并列进行,裁判现场读秒报出钟点,观众听报数就知道这一掷成不成。",
+      "tryThis": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tossing_the_caber.jpg",
+      "inlineImages": [],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Caber_toss",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-26",
+      "_facts": [
+        {
+          "claim": "掷杆所用的原木通常为落叶松,长5-6米,重40-70公斤",
+          "source": "https://en.wikipedia.org/wiki/Caber_toss"
+        },
+        {
+          "claim": "评分依据原木落地后指向的方向,以钟面比喻:正对选手原地为12点、最高分,偏向一侧则记9点或3点等更低分",
+          "source": "https://en.wikipedia.org/wiki/Caber_toss"
+        },
+        {
+          "claim": "掷杆是苏格兰高地运动会的传统项目之一,常见说法认为起源于伐木工人比拼力气",
+          "source": "https://www.scotland.com/blog/caber-toss-scotland/"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tossing_the_caber.jpg",
+          "license": "CC BY-SA 3.0 / GFDL",
+          "author": "D. Gordon E. Robertson",
+          "page": "https://commons.wikimedia.org/wiki/File:Tossing_the_caber.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
