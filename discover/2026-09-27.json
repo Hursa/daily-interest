@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T07:03:00+08:00",
+  "items": [
+    {
+      "id": "dapeng-suo-city-still-lived",
+      "scope": "深圳",
+      "thesis": "这座明代海防城没有变成空景区,城墙里至今住着正常过日子的人。",
+      "title": "六百年所城,还住着人",
+      "body": "1394年,明朝在广东沿海设千户所城防御倭寇,大鹏守御千户所由此建成,占地约十万平方米。深圳后来的别称鹏城,就来自这座城的名字。\n\n城墙内至今保留着明清两代的格局,四座城门、多座祠堂府第和一座天后宫都还立在原地。城内现存约六十栋传统民居,近七百间房屋仍有人在用,墙根下开着茶舍咖啡馆和小饭馆,旧时的学堂和粮仓也还留着,只是换了用途,登记在册的不可移动文物共有八十一处,其中二十一处是全国重点文物保护建筑。\n\n这里从来不是一座只供参观的空城。所城最初由世袭军户驻守,后代不少人在近代迁去香港乃至海外,但城里始终有人接着住下去,把老房子一间接一间地续用下去,没有整体搬空过。\n\n2001年,大鹏所城被列为第五批全国重点文物保护单位。2016年,大鹏新区管委会与华侨城集团签约,开始按维保、修缮、监测的方式推进城内文物的保护和活化。2024年6月15日,持续强降雨造成南门东侧城墙(1984年重建部分)局部坍塌,现场没有人员伤亡。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dapeng_Fortress%2C_Shenzhen.jpg/1280px-Dapeng_Fortress%2C_Shenzhen.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Dapeng_Fortress%2C_Shenzhen_%2843%29.jpg/1280px-Dapeng_Fortress%2C_Shenzhen_%2843%29.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "http://wtl.sz.gov.cn/whfw/wwyc/content/post_11642428.html",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-09-27",
+      "_facts": [
+        {
+          "claim": "大鹏守御千户所城建于明洪武二十七年(1394年),为防御倭寇而设,占地约十万平方米",
+          "source": "https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E"
+        },
+        {
+          "claim": "城内登记不可移动文物共81处,其中21处为全国重点文物保护建筑,传统民居约60栋,近700间房屋仍在使用",
+          "source": "http://wtl.sz.gov.cn/whfw/wwyc/content/post_11642428.html"
+        },
+        {
+          "claim": "2001年6月25日,大鹏所城被列为第五批全国重点文物保护单位",
+          "source": "https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E"
+        },
+        {
+          "claim": "2016年10月,大鹏新区管委会与华侨城集团签署战略合作协议,推进所城保护与活化利用",
+          "source": "http://tzb.sz.gov.cn/xwzx/gzdt/content/post_1134973.html"
+        },
+        {
+          "claim": "2024年6月15日,持续强降雨造成大鹏所城南门东侧城墙(1984年重建部分)局部坍塌,现场无人员伤亡",
+          "source": "https://www.thepaper.cn/newsDetail_forward_27746460"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dapeng_Fortress%2C_Shenzhen.jpg/1280px-Dapeng_Fortress%2C_Shenzhen.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Dinkun Chen",
+          "page": "https://commons.wikimedia.org/wiki/File:Dapeng_Fortress,_Shenzhen.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Dapeng_Fortress%2C_Shenzhen_%2843%29.jpg/1280px-Dapeng_Fortress%2C_Shenzhen_%2843%29.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Dinkun Chen",
+          "page": "https://commons.wikimedia.org/wiki/File:Dapeng_Fortress,_Shenzhen_(43).jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "xuan-paper-three-years",
+      "scope": "中国",
+      "thesis": "宣纸的韧性不是配方决定的,是拿三年时间等出来的。",
+      "title": "一张纸,要等足足三年",
+      "body": "安徽泾县出产的宣纸,原料是青檀树皮和沙田稻草。树皮要先蒸煮、捶打成浆,稻草要沤制成草浆,两种浆按比例配好后再抄纸、烘干、剪裁,整套工序细分下来有一百零八道。从备料到成纸,一张够格的宣纸通常要等上三年左右。\n\n工序里最费时间的一步,是把处理过的原料摊在向阳的山坡上,经年累月接受日晒雨淋霜冻的反复作用,让纤维自然漂白老化。这一步没有捷径,也没法用机器替代,想缩短周期就会伤纸的寿命和吸墨性能。抄纸这一步通常由两名工人配合完成,靠竹帘在纸浆里一次次捞出均匀的薄层。\n\n宣纸按吸墨程度分生宣、半熟宣、熟宣三类,书画界公认生宣最考验功力,墨一落纸就洇开,不容修改,写坏一笔就得整张重来。\n\n1886年,泾县宣纸曾在巴拿马万国博览会上获得金奖。2006年,宣纸制作技艺被列入中国第一批国家级非物质文化遗产名录,2009年又被联合国教科文组织列入人类非物质文化遗产代表作名录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Making_Xuan_Paper_%289974514453%29.jpg/1280px-Making_Xuan_Paper_%289974514453%29.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Materials_and_Making_of_the_Xuan_Paper_%289974379945%29.jpg/1280px-Materials_and_Making_of_the_Xuan_Paper_%289974379945%29.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://news.cnr.cn/native/gd/20241130/t20241130_526994358.shtml",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "有力",
+      "verifiedAt": "2026-09-27",
+      "_facts": [
+        {
+          "claim": "宣纸制作需经108道纯手工传统工序,原料为青檀树皮和沙田稻草,从取材到成纸约需三年",
+          "source": "https://news.cnr.cn/native/gd/20241130/t20241130_526994358.shtml"
+        },
+        {
+          "claim": "宣纸按吸墨、渗透性能分为生宣、半熟宣、熟宣三类",
+          "source": "https://zh.wikipedia.org/zh-hans/%E5%AE%A3%E7%BA%B8"
+        },
+        {
+          "claim": "2006年,宣纸制作技艺被列入中国第一批国家级非物质文化遗产名录",
+          "source": "https://zh.wikipedia.org/zh-hans/%E5%AE%A3%E7%BA%B8"
+        },
+        {
+          "claim": "2009年,联合国教科文组织将宣纸传统制作技艺列入人类非物质文化遗产代表作名录",
+          "source": "https://zh.wikipedia.org/zh-hans/%E5%AE%A3%E7%BA%B8"
+        },
+        {
+          "claim": "1886年,泾县宣纸曾获巴拿马万国博览会金奖",
+          "source": "https://www.ahjx.gov.cn/News/show/33654.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Making_Xuan_Paper_%289974514453%29.jpg/1280px-Making_Xuan_Paper_%289974514453%29.jpg",
+          "license": "CC0",
+          "author": "Gary Todd",
+          "page": "https://commons.wikimedia.org/wiki/File:Making_Xuan_Paper_(9974514453).jpg",
+          "attributionRequired": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Materials_and_Making_of_the_Xuan_Paper_%289974379945%29.jpg/1280px-Materials_and_Making_of_the_Xuan_Paper_%289974379945%29.jpg",
+          "license": "CC0",
+          "author": "Gary Todd",
+          "page": "https://commons.wikimedia.org/wiki/File:Materials_and_Making_of_the_Xuan_Paper_(9974379945).jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "world-stone-skimming-easdale",
+      "scope": "全球",
+      "thesis": "三块石头、三次机会,就能决定谁是今年最会打水漂的人。",
+      "title": "打水漂,打出个世界冠军",
+      "body": "苏格兰西海岸的伊斯戴尔岛曾是采石重镇,十九世纪盛产石板瓦,矿坑挖空后渗满地下水,变成一个个方正的水塘。1983年,当地居民阿尔伯特·贝克把其中一个废弃采石坑当成赛场,办起了世界打水漂锦标赛,后来一度中断,1997年由岛上的社区组织重新办起来,此后固定在每年九月举行,靠门票和捐款维持运转。\n\n比赛用的石头必须是伊斯戴尔本地的天然石板岩,直径不超过三英寸,现场按形状挑选。每位选手有三次投掷机会,石头落水后至少要跳动两下才算成绩有效,裁判量的是石头最终滑出的距离,不是跳动次数。参赛组别按性别和年龄细分到五十岁以上组和十岁以下组,公开组打平要加赛,石头砸中对岸石墙按六十三米计。\n\n伊斯戴尔岛常住人口不到一百人,比赛当天却能吸引二十多个国家的选手赶到岛上参赛。2025年,美国选手乔恩·詹宁斯以三次投掷累计177米的成绩夺冠,创下赛会纪录,也是首位拿到该项世界冠军的美国人。",
+      "tryThis": "找片有水的地方,捡几块扁石头打十分钟水漂,不用数成绩",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flooded_slate_quarry_on_Easdale_-_geograph.org.uk_-_140356.jpg/500px-Flooded_slate_quarry_on_Easdale_-_geograph.org.uk_-_140356.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stone_skimming_-Patagonia-9Mar2010.jpg/1280px-Stone_skimming_-Patagonia-9Mar2010.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://www.stoneskimming.com/about/",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "欢快",
+      "verifiedAt": "2026-09-27",
+      "_facts": [
+        {
+          "claim": "世界打水漂锦标赛1983年由阿尔伯特·贝克创办,1997年由社区组织Eilean Eisdeal恢复,此后每年九月在伊斯戴尔岛举行",
+          "source": "https://www.stoneskimming.com/about/"
+        },
+        {
+          "claim": "比赛用石必须是伊斯戴尔本地天然石板岩,直径不超过三英寸,每位选手三次投掷机会,石头须至少跳动两次才算有效,以最终滑行距离计分,砸中对岸石墙记63米",
+          "source": "https://www.stoneskimming.com/faq/"
+        },
+        {
+          "claim": "2025年,美国选手乔恩·詹宁斯以三次投掷累计177米的成绩夺得公开组冠军并创下赛会纪录,是首位夺冠的美国人",
+          "source": "https://www.lex18.com/news/covering-kentucky/kentucky-man-becomes-first-american-to-win-world-stone-skimming-championship"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flooded_slate_quarry_on_Easdale_-_geograph.org.uk_-_140356.jpg/500px-Flooded_slate_quarry_on_Easdale_-_geograph.org.uk_-_140356.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Eileen Henderson",
+          "page": "https://commons.wikimedia.org/wiki/File:Flooded_slate_quarry_on_Easdale_-_geograph.org.uk_-_140356.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stone_skimming_-Patagonia-9Mar2010.jpg/1280px-Stone_skimming_-Patagonia-9Mar2010.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Killy Ridols",
+          "page": "https://commons.wikimedia.org/wiki/File:Stone_skimming_-Patagonia-9Mar2010.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "ladakh-ice-stupa-winter-water",
+      "scope": "全球",
+      "thesis": "把整个冬天的水冻成一座塔,比修水库省钱也省事。",
+      "title": "冬天造座冰塔,存水到春天",
+      "body": "拉达克是喜马拉雅山背风面的高寒沙漠,年降水量不到五十毫米,农田全靠春天的冰川融水浇灌。气候变暖让高山冰川退得越来越靠后,融水到得晚,庄稼却等不了这么久。\n\n2013年,当地工程师索南·旺楚克想出一个办法:冬天把山上的溪水用地下管道引下来,末端接一段垂直立管,利用高低落差让水在零下气温里从管口喷出、边喷边冻,一层层堆成一座锥形冰塔。第一座冰塔在2014年1月建成,高约六米,冻住的水约十五万升。锥形比平摊的冰面暴露给阳光的表面积小得多,能一直撑到春耕时节才化完,正好接上灌溉用水。\n\n整套装置不用电也不用水泵,只靠地形高差和冬天的低温运转,造价比修水库低得多。到2020年,拉达克一年新建的冰塔就有约二十五座,累计已为周边村庄多提供两千五百多万升灌溉用水。\n\n2016年,索南·旺楚克因这项工程获得劳力士雄才伟略大奖。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_view_of_Ice_stupa_and_Phyang_monastery_from_flight_IMG_2411_1.jpg/1280px-Aerial_view_of_Ice_stupa_and_Phyang_monastery_from_flight_IMG_2411_1.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ice_stupas_near_Phyang_monastery_DSCN7587_1.jpg/1280px-Ice_stupas_near_Phyang_monastery_DSCN7587_1.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Ice_stupa",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "独特",
+      "verifiedAt": "2026-09-27",
+      "_facts": [
+        {
+          "claim": "拉达克是喜马拉雅山背风面高寒沙漠,年降水量不足50毫米,农业依赖春季冰川融水灌溉",
+          "source": "https://en.wikipedia.org/wiki/Ice_stupa"
+        },
+        {
+          "claim": "工程师索南·旺楚克于2013年设计出冰塔技术,利用地下管道和高度落差,在无电力驱动的情况下让水在冬季喷出并冻结成锥形冰塔",
+          "source": "https://en.wikipedia.org/wiki/Ice_stupa"
+        },
+        {
+          "claim": "第一座冰塔于2014年1月建成,高约6米,冻结蓄水约15万升",
+          "source": "https://en.wikipedia.org/wiki/Ice_stupa"
+        },
+        {
+          "claim": "2020年拉达克新建冰塔约25座,项目累计已提供超过2500万升灌溉用水",
+          "source": "https://en.wikipedia.org/wiki/Ice_stupa"
+        },
+        {
+          "claim": "2016年11月15日,索南·旺楚克因冰塔工程获颁劳力士雄才伟略大奖",
+          "source": "https://en.wikipedia.org/wiki/Ice_stupa"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_view_of_Ice_stupa_and_Phyang_monastery_from_flight_IMG_2411_1.jpg/1280px-Aerial_view_of_Ice_stupa_and_Phyang_monastery_from_flight_IMG_2411_1.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Goutam1962",
+          "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Ice_stupa_and_Phyang_monastery_from_flight_IMG_2411_1.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ice_stupas_near_Phyang_monastery_DSCN7587_1.jpg/1280px-Ice_stupas_near_Phyang_monastery_DSCN7587_1.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Sumita Roy Dutta",
+          "page": "https://commons.wikimedia.org/wiki/File:Ice_stupas_near_Phyang_monastery_DSCN7587_1.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
