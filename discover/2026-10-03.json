@@ -1,0 +1,251 @@
+{
+  "schema": 1,
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T07:00:00+08:00",
+  "items": [
+    {
+      "id": "chung-ying-street-boundary-stones",
+      "scope": "深圳",
+      "thesis": "边界不一定是一堵墙,有时只是街中央立着的几块石头。",
+      "title": "一条街,中间的石碑分开两个地方",
+      "body": "沙头角有一条长约四百米的街,叫中英街。街中央立着界碑,碑的一边是深圳,另一边是香港。\n\n这条街原本是一条河。1898年,英国和清政府签订《展拓香港界址专条》,租借新界。1899年勘界时,沙头角河涨潮时的最高水位线被定为东面的分界。河床干涸之后,两岸的居民在上面摆摊做买卖,慢慢踩出了一条街。\n\n这条街在1990年代是有名的购物街,本世纪初起,慢慢变成了观光的去处。\n\n街上一共立着八块界碑,碑面刻着“光绪二十四年 中英地界”和编号,背面是英文。八块碑里,一到四号和七号由深圳管理,五号和六号由香港管理,八号由两地共同管理。2024年12月24日,耗资5000万港元的香港方检查站重置完成,启用了人脸识别。\n\n1967年7月8日,这里发生过沙头角枪战,边境此后一直封闭到1979年。深圳一侧的沙头角边境特别管理区,从2024年1月起对游客开放,通关时间是每天9点到22点。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Chung_Ying_Street_%2820230204%29.jpg/960px-Chung_Ying_Street_%2820230204%29.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/20250928_Anglo-Chinese_Boundary_1898_No._5.jpg/960px-20250928_Anglo-Chinese_Boundary_1898_No._5.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://zh.wikipedia.org/wiki/中英街",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "独特",
+      "verifiedAt": "2026-10-03",
+      "_facts": [
+        {
+          "claim": "中英街长约0.4公里,街中央竖立界石,共8块界碑,编号1-8,正面刻“光绪二十四年 中英地界”",
+          "source": "https://zh.wikipedia.org/wiki/中英街"
+        },
+        {
+          "claim": "1898年签订《展拓香港界址专条》,1899年3月勘界,以沙头角河潮涨最高水位为东面分界,河床后来成为街道",
+          "source": "https://zh.wikipedia.org/wiki/中英街"
+        },
+        {
+          "claim": "1-4号和7号界碑由深圳管理,5-6号由香港管理,8号由两地共同管理",
+          "source": "https://zh.wikipedia.org/wiki/中英街"
+        },
+        {
+          "claim": "1967年7月8日沙头角枪战,边境此后封闭至1979年",
+          "source": "https://zh.wikipedia.org/wiki/中英街"
+        },
+        {
+          "claim": "2024年1月起深圳沙头角边境特别管理区对游客开放,通关时间9:00-22:00",
+          "source": "https://zh.wikipedia.org/wiki/中英街"
+        },
+        {
+          "claim": "2024年12月24日耗资5000万港元的香港方检查站重置完成,引入人脸识别",
+          "source": "https://zh.wikipedia.org/wiki/中英街"
+        },
+        {
+          "claim": "街道原为河,1899年英方以高水位线为界,河床干涸后成为交易场所",
+          "source": "https://en.wikipedia.org/wiki/Chung_Ying_Street"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Chung_Ying_Street_%2820230204%29.jpg/960px-Chung_Ying_Street_%2820230204%29.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "写意人生",
+          "page": "https://commons.wikimedia.org/wiki/File:Chung_Ying_Street_(20230204).jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/20250928_Anglo-Chinese_Boundary_1898_No._5.jpg/960px-20250928_Anglo-Chinese_Boundary_1898_No._5.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Yumeto",
+          "page": "https://commons.wikimedia.org/wiki/File:20250928_Anglo-Chinese_Boundary_1898_No._5.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "coopers-hill-cheese-rolling",
+      "scope": "全球",
+      "thesis": "最荒唐的比赛,往往靠一个没人愿意停下的习惯撑着。",
+      "title": "追着奶酪冲下陡坡,先到坡底的赢",
+      "body": "在英格兰格洛斯特郡的库珀山,每年有一群人追着一块奶酪冲下山坡。奶酪是双层格洛斯特硬奶酪,重三到四公斤,从坡顶滚下去,选手跟在后面往下冲,先到坡底的人赢。男子组和女子组分开比。\n\n这段坡长约一百八十米,据维基百科的说法,坡度在百分之五十上下,山高287米。所以比赛看起来不像跑步,更像一群人连滚带摔地往下栽。\n\n最早的文字记录,出现在1836年6月9日的《贝罗氏伍斯特日报》上。也有说法认为,这个习俗至少已有六百年。\n\n活动在2010年和2011年取消过,2020年和2021年又停办。2022年起,它没有官方主办方,由当地人自发办下去。1993年那一届,有十六人受伤,其中四人伤势严重。每年通常都有人受伤,2023年就有六名选手被救护车送去医院。\n\n2026年的男子组冠军是德国选手汤姆·科普克,他2024年和2025年也夺过冠,这是第三次。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg/960px-A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg",
+      "inlineImages": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/CheeseRollingRace.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-10-03",
+      "_facts": [
+        {
+          "claim": "坡度约50%,长约180米;奶酪为双层格洛斯特,重7-9磅(3-4公斤)",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        },
+        {
+          "claim": "最早的文献记录为1836年6月9日《Berrow's Worcester Journal》;BBC称可能至少有600年",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        },
+        {
+          "claim": "2010、2011、2020、2021年取消;2022年起无官方主办方、非正式举办",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        },
+        {
+          "claim": "2023年六名选手被救护车送医",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        },
+        {
+          "claim": "1993年16人受伤,4人重伤;Tom Kopke 2024、2025年亦夺冠",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        },
+        {
+          "claim": "2026年男子组冠军Tom Kopke(德国),第三次夺冠",
+          "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg/960px-A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake%2C_on_Cooper%27s_Hill%2C_Brockworth%2C_Gloucestershire%2C_on_27_May_2013.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Dave Farrance",
+          "page": "https://commons.wikimedia.org/wiki/File:A_race_at_the_Cooper%27s_Hill_Cheese_Rolling_and_Wake,_on_Cooper%27s_Hill,_Brockworth,_Gloucestershire,_on_27_May_2013.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/CheeseRollingRace.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Dave Farrance",
+          "page": "https://commons.wikimedia.org/wiki/File:CheeseRollingRace.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "qinghai-tibet-railway-thermosyphons",
+      "scope": "中国",
+      "thesis": "对付冻土不能硬扛,得让地基自己在冬天把热量交出去。",
+      "title": "冻土上修铁路,靠一根根热棒",
+      "body": "青藏铁路全长1956公里,其中大约550公里铺在多年冻土上。冻土一旦融化,地基就不稳,所以这一段路最怕的是热。\n\n工程师的办法之一,是在路基旁插热棒。热棒是一根密封的空心金属管,管里装着液氨,大半截埋在冻土里,小半截露在风中。\n\n冬天,空气比地下冷,地里残留的热量把管底的液氨烧成气体。气体升到露在外面的一段,被冷风带走热量,又变回液体,顺着管壁流回地下。这样循环往复,冻土里的热一点点被抽走。夏天气温升高,循环自己放慢,挡住外面的暖意。整个过程不用电。\n\n这条路的最高点是唐古拉山口,海拔5072米。山上的唐古拉站海拔5068米,是世界上海拔最高的运营火车站。\n\n除了热棒,这条铁路还用了片石通风路基和以桥代路。清水河大桥全长11.7公里,是建在冻土地段上最长的铁路桥。\n\n据新华社2026年6月的报道,青藏铁路上的热棒有3.7万多根。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/201107_Qinghai-Tibet_Railway_and_Road.JPG/960px-201107_Qinghai-Tibet_Railway_and_Road.JPG",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Tanggula_Railway_Station_20240522.jpg/960px-Tanggula_Railway_Station_20240522.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://zh.wikipedia.org/wiki/青藏铁路",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-10-03",
+      "_facts": [
+        {
+          "claim": "青藏铁路全长1956公里,约550公里铺设在多年冻土上",
+          "source": "https://en.wikipedia.org/wiki/Qinghai%E2%80%93Tibet_railway"
+        },
+        {
+          "claim": "热棒是密封空心金属管,利用液氨汽液循环,冬季散热、夏季放慢,不用充电",
+          "source": "https://www.news.cn/politics/20260629/a6d5c03d7ccd4aaaae03198ab4f7749e/c.html"
+        },
+        {
+          "claim": "唐古拉山口海拔5072米;唐古拉站海拔5068米,为世界最高运营火车站",
+          "source": "https://en.wikipedia.org/wiki/Qinghai%E2%80%93Tibet_railway"
+        },
+        {
+          "claim": "采用片石通风路基、热导管、以桥代路;清水河大桥全长11.7公里",
+          "source": "https://zh.wikipedia.org/wiki/青藏铁路"
+        },
+        {
+          "claim": "青藏铁路热棒3.7万多根",
+          "source": "https://www.news.cn/politics/20260629/a6d5c03d7ccd4aaaae03198ab4f7749e/c.html"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/201107_Qinghai-Tibet_Railway_and_Road.JPG/960px-201107_Qinghai-Tibet_Railway_and_Road.JPG",
+          "license": "CC BY-SA 4.0",
+          "author": "MNXANL",
+          "page": "https://commons.wikimedia.org/wiki/File:201107_Qinghai-Tibet_Railway_and_Road.JPG",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Tanggula_Railway_Station_20240522.jpg/960px-Tanggula_Railway_Station_20240522.jpg",
+          "license": "CC BY 4.0",
+          "author": "Schwalbe",
+          "page": "https://commons.wikimedia.org/wiki/File:Tanggula_Railway_Station_20240522.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "murano-glass-1291-decree",
+      "scope": "全球",
+      "thesis": "一门手艺被圈在小岛上几百年,圈出了名声,也圈出了断档。",
+      "title": "为防火灾,威尼斯把玻璃匠搬上了小岛",
+      "body": "1291年11月8日,威尼斯颁布法令,把城里大部分制玻璃的作坊迁到穆拉诺岛上,不是全部,但大头都在岛上了。原因很实际:熔炉是火灾隐患,而当时城里到处是木头房子。\n\n玻璃匠在岛上受到严格管束。擅自离岛的匠人,家人可能被关押,本人可能遭到追杀。据记载,泄露行业秘密的处罚可以是死刑。作为交换,他们的地位很高:1376年有一项规定,玻璃匠的女儿嫁给贵族,孩子仍算贵族。他们的夏季假期也长,十四世纪时长达五个月,后来缩短到三个半月。\n\n现存最早提到“cristallo”的文献,日期是1453年5月24日。距离搬岛已经过去一百六十多年。这是一种几乎透明的苏打玻璃,通常认为由安杰洛·巴罗维耶创制,后来成了欧洲最好的玻璃。\n\n这门手艺后来逐渐萎缩。据维基百科引用的数字,专业玻璃匠从1990年的约六千人,到2012年已不足一千人。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Murano_glassblowing_demo.jpg/960px-Murano_glassblowing_demo.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Murano_Fornace.jpg/960px-Murano_Fornace.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Murano_glass",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-10-03",
+      "_facts": [
+        {
+          "claim": "1291年11月8日法令把威尼斯大部分玻璃工业限定在穆拉诺岛,原因是熔炉有火灾风险",
+          "source": "https://en.wikipedia.org/wiki/Murano_glass"
+        },
+        {
+          "claim": "擅自离开受罚、泄密可处死;1376年规定玻璃匠之女嫁贵族,子女仍为贵族",
+          "source": "https://en.wikipedia.org/wiki/Murano_glass"
+        },
+        {
+          "claim": "cristallo最早文献日期为1453年5月24日,由Angelo Barovier创制",
+          "source": "https://en.wikipedia.org/wiki/Murano_glass"
+        },
+        {
+          "claim": "专业玻璃匠从1990年约6000人降至2012年不足1000人",
+          "source": "https://en.wikipedia.org/wiki/Murano_glass"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Murano_glassblowing_demo.jpg/960px-Murano_glassblowing_demo.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Wknight94",
+          "page": "https://commons.wikimedia.org/wiki/File:Murano_glassblowing_demo.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Murano_Fornace.jpg/960px-Murano_Fornace.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Both Előd at Hungarian Wikipedia",
+          "page": "https://commons.wikimedia.org/wiki/File:Murano_Fornace.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
