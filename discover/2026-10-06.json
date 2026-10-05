@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T07:14:21+08:00",
+  "items": [
+    {
+      "id": "sechselauten-zurich-booegg",
+      "scope": "全球",
+      "thesis": "一个雪人烧得多快,苏黎世人拿来当一整个夏天的天气预报。",
+      "title": "烧雪人的时间,预报一个夏天",
+      "body": "每年四月,苏黎世湖边的广场上会堆起一座柴堆,柴堆顶上绑着一个雪人模样的人偶,名字叫勃格。点火以后,广场上的人都盯着它看。\n\n传统的说法是:人偶的头炸得越快,夏天就越暖和、越晴朗;烧得越久,夏天就越冷、越多雨。所以这场火不光是热闹,还是一次当众揭晓的预报,准不准另说,点火的那几分钟,谁都想看个究竟。\n\n这个节日叫六点钟敲钟节,来由是中世纪的作息:它标志着夏季工作时间开始。后来行会接过了烧人偶的差事,1892年起由行会负责。1902年,游行和烧人偶合在一起办,成了今天的样子。游行那天,26个行会穿着传统服装,每个行会带着自己的乐队,一路走到湖边。\n\n节期原本定在春分后的第一个星期一,1952年起改成四月的第三个星期一。人偶从点火到炸开,最短的一次只用了5分07秒,出现在1974年;最长的一次是2023年,烧了整整57分钟。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/B%C3%B6%C3%B6gg_am_explodiere_am_S%C3%A4chsil%C3%BC%C3%BCte.jpg/960px-B%C3%B6%C3%B6gg_am_explodiere_am_S%C3%A4chsil%C3%BC%C3%BCte.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2015_Sechsel%C3%A4uten_-_Umzug_-_Limmatquai_2015-04-13_14-47-45.JPG/960px-2015_Sechsel%C3%A4uten_-_Umzug_-_Limmatquai_2015-04-13_14-47-45.JPG",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Sechseläuten",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-10-06",
+      "_facts": [
+        {
+          "claim": "1902年起游行与烧Böögg合并;1892年行会接手烧人偶;今日26个行会参加游行",
+          "source": "https://en.wikipedia.org/wiki/Sechseläuten"
+        },
+        {
+          "claim": "节日标志夏季工作时间开始;爆炸快预示暖夏,烧得久预示冷雨夏",
+          "source": "https://en.wikipedia.org/wiki/Sechseläuten"
+        },
+        {
+          "claim": "1902-1951年定在春分后第一个星期一,1952年起改为4月第三个星期一",
+          "source": "https://en.wikipedia.org/wiki/Sechseläuten"
+        },
+        {
+          "claim": "烧毁时间最短5分07秒(1974),最长57分整(2023)",
+          "source": "https://en.wikipedia.org/wiki/Sechseläuten"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/B%C3%B6%C3%B6gg_am_explodiere_am_S%C3%A4chsil%C3%BC%C3%BCte.jpg/960px-B%C3%B6%C3%B6gg_am_explodiere_am_S%C3%A4chsil%C3%BC%C3%BCte.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Paradise Chronicle",
+          "page": "https://commons.wikimedia.org/wiki/File:B%C3%B6%C3%B6gg_am_explodiere_am_S%C3%A4chsil%C3%BC%C3%BCte.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2015_Sechsel%C3%A4uten_-_Umzug_-_Limmatquai_2015-04-13_14-47-45.JPG/960px-2015_Sechsel%C3%A4uten_-_Umzug_-_Limmatquai_2015-04-13_14-47-45.JPG",
+          "license": "CC BY-SA 3.0",
+          "author": "Roland zh",
+          "page": "https://commons.wikimedia.org/wiki/File:2015_Sechsel%C3%A4uten_-_Umzug_-_Limmatquai_2015-04-13_14-47-45.JPG",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "banpo-village-moat-xian",
+      "scope": "西安",
+      "thesis": "村子的边界不是墙,是一圈沟,六千多年前的人就是这么划的。",
+      "title": "半坡人在村子外挖了一圈沟",
+      "body": "西安东郊有一处六千多年前的村子遗址,叫半坡。1954年春天,人们在这里发现了它。\n\n遗址的年代经碳十四测定,距今约6800到5300年。整个遗址大约五万平方米,1954年到1957年的发掘就清出了一万平方米,还不到遗址总面积的五分之一。\n\n那时候的人已经定居下来,在固定的地方种地、盖房。村子里的房子是半地穴式的,一半砌在土里,也就是说房子有一部分埋在地面以下,有方形的,也有圆形的。人们种的是粟这类旱地作物,\n\n房子的外面绕着一道大围沟。这道沟有两个用处:一是防护,把村子和外面隔开;二是泄洪,雨大的时候水有地方去。\n\n出土的陶器里,最有名的是一只人面鱼纹彩陶盆,盆里画着人脸和鱼,如今是国家一级文物。\n\n发掘从1954年做到1957年,前后四年,博物馆就建在发掘出来的村子上。半坡遗址博物馆1958年4月建成并正式对外开放。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Banpo_basin_with_human_face_and_fish_designs.JPG/960px-Banpo_basin_with_human_face_and_fish_designs.JPG",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Xian_China_Banpo-Museum-01.jpg/960px-Xian_China_Banpo-Museum-01.jpg",
+          "after": 4
+        }
+      ],
+      "link": {
+        "url": "https://zh.wikipedia.org/wiki/半坡遗址",
+        "label": "去看看"
+      },
+      "category": "twohours",
+      "tone": "质朴",
+      "verifiedAt": "2026-10-06",
+      "_facts": [
+        {
+          "claim": "半坡遗址1954年春被发现,距今6800至5300年,面积约5万平方米",
+          "source": "https://zh.wikipedia.org/wiki/半坡遗址"
+        },
+        {
+          "claim": "1954-1957年发掘面积1万平方米",
+          "source": "https://zh.wikipedia.org/wiki/半坡遗址"
+        },
+        {
+          "claim": "半地穴式房屋,方形与圆形;大围沟起防护和泄洪作用;种植粟等旱地作物",
+          "source": "https://zh.wikipedia.org/wiki/半坡遗址"
+        },
+        {
+          "claim": "人面鱼纹彩陶盆为国家一级文物;博物馆1958年4月建成开放",
+          "source": "https://zh.wikipedia.org/wiki/半坡遗址"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Banpo_basin_with_human_face_and_fish_designs.JPG/960px-Banpo_basin_with_human_face_and_fish_designs.JPG",
+          "license": "CC BY-SA 4.0",
+          "author": "Prof. Gary Lee Todd",
+          "page": "https://commons.wikimedia.org/wiki/File:Banpo_basin_with_human_face_and_fish_designs.JPG",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Xian_China_Banpo-Museum-01.jpg/960px-Xian_China_Banpo-Museum-01.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "CEphoto, Uwe Aranas",
+          "page": "https://commons.wikimedia.org/wiki/File:Xian_China_Banpo-Museum-01.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "endurance-shackleton-all-28",
+      "scope": "全球",
+      "thesis": "船沉了、路断了,这趟探险最后算的是人头:二十八个人,一个不少。",
+      "title": "船被冰压碎以后,二十八个人全回来了",
+      "body": "1915年1月24日,坚忍号被浮冰困住,再没能开出来。船上一共28个人,打算横穿南极大陆,现在连登陆都做不到了。\n\n他们先是守着船,在冰上等了将近十个月。1915年11月21日,船被冰挤压沉没,人只能带着雪橇和小艇,在浮冰上扎营。\n\n1916年4月,这些人才到了象岛。那是一座荒岛,没有人会路过。船长沙克尔顿带着另外五个人,驾着一条小艇出海,去南乔治亚岛求援。其余的人留在岛上等,这一等又是几个月,一直到1916年8月。\n\n救援在1916年8月30日到来,智利的耶尔乔号把留在岛上的人接走了。从弃船算起,整个过程差不多十个月。\n\n这次探险没有到达目的地,却留下了一个让人反复提起的数字:28个人里,没有一个死在这次沉船之后的漫长求生里。\n\n坚忍号沉在威德尔海的海底,一百多年后才被人找到,保存得相当完好。2022年3月5日,搜寻队在3008米深处找到了它的残骸。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Endurance_trapped_in_pack_ice.jpg/960px-Endurance_trapped_in_pack_ice.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/The_%27Endurance%27%2C_The_pink_glow_of_the_rising_sun_shining_on_a_pressure_ridge%2C_1915_-_photographed_by_Frank_Hurley_%283534602329%29.jpg/960px-The_%27Endurance%27%2C_The_pink_glow_of_the_rising_sun_shining_on_a_pressure_ridge%2C_1915_-_photographed_by_Frank_Hurley_%283534602329%29.jpg",
+          "after": 2
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-10-06",
+      "_facts": [
+        {
+          "claim": "船上28人,全部在沉船后生还",
+          "source": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+        },
+        {
+          "claim": "1915年1月24日被冰困住,11月21日沉没",
+          "source": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+        },
+        {
+          "claim": "1916年4月抵达象岛,沙克尔顿与另五人乘小艇赴南乔治亚求援",
+          "source": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+        },
+        {
+          "claim": "1916年8月30日耶尔乔号救出剩余人员",
+          "source": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+        },
+        {
+          "claim": "2022年3月5日在威德尔海3008米深处发现残骸,保存状态极好",
+          "source": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Endurance_trapped_in_pack_ice.jpg/960px-Endurance_trapped_in_pack_ice.jpg",
+          "license": "Public domain",
+          "author": "Frank Hurley",
+          "page": "https://commons.wikimedia.org/wiki/File:Endurance_trapped_in_pack_ice.jpg",
+          "attributionRequired": false
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/The_%27Endurance%27%2C_The_pink_glow_of_the_rising_sun_shining_on_a_pressure_ridge%2C_1915_-_photographed_by_Frank_Hurley_%283534602329%29.jpg/960px-The_%27Endurance%27%2C_The_pink_glow_of_the_rising_sun_shining_on_a_pressure_ridge%2C_1915_-_photographed_by_Frank_Hurley_%283534602329%29.jpg",
+          "license": "Public domain",
+          "author": "Frank Hurley",
+          "page": "https://commons.wikimedia.org/wiki/File:The_%27Endurance%27,_The_pink_glow_of_the_rising_sun_shining_on_a_pressure_ridge,_1915_-_photographed_by_Frank_Hurley_(3534602329).jpg",
+          "attributionRequired": false
+        }
+      ]
+    },
+    {
+      "id": "yingxian-wooden-pagoda-1056",
+      "scope": "中国",
+      "thesis": "一座纯木头的塔,扛过了地震、炮弹和近千年的时间。",
+      "title": "九百七十年的木塔,挨过七天地震",
+      "body": "山西应县有一座塔,全是木头搭的。它在佛宫寺里,正式名字叫释迦塔,当地人叫它应县木塔。它建于辽代清宁二年,也就是1056年,到今天已经九百七十年。\n\n它高67.31米(2006年的卫星数据测出的是65.86米),从外面看是五层,可是每两层之间还藏着一个暗层。整座塔是纯木结构,不用钉子,靠一块块木头相互咬合立在那里。\n\n它经历过的事不少。元代的时候,应县附近连续七天发生强烈地震,塔没有严重受损。1926年军阀混战,塔被炮弹多次击中。1948年,又有十二发炮弹打到塔身上,没有一发爆炸。\n\n九百多年下来,木头自己也在变。塔身出现了扭曲变形,有一百多处残损,里面所有的立柱都在倾斜,其中十二根倾斜得最厉害。塔顶的位移方向是北偏东10.8度。\n\n人们量了它,也记了它的毛病,并没有拆了重来。\n\n2016年,应县木塔被吉尼斯世界纪录认证为世界最高的木塔。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Pagodaoffogongtemple2019.jpg/960px-Pagodaoffogongtemple2019.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Fogong_temple_corner_dougong.JPG/960px-Fogong_temple_corner_dougong.JPG",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://zh.wikipedia.org/wiki/佛宫寺释迦塔",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "独特",
+      "verifiedAt": "2026-10-06",
+      "_facts": [
+        {
+          "claim": "建于辽清宁二年(1056年),高67.31米,外观五层,一至四层间有暗层,纯木结构无钉",
+          "source": "https://zh.wikipedia.org/wiki/佛宫寺释迦塔"
+        },
+        {
+          "claim": "元代应县附近连续7天强震,塔未严重受损",
+          "source": "https://zh.wikipedia.org/wiki/佛宫寺释迦塔"
+        },
+        {
+          "claim": "1926年军阀混战中多次遭炮击;1948年被12发炮弹击中均未爆炸",
+          "source": "https://zh.wikipedia.org/wiki/佛宫寺释迦塔"
+        },
+        {
+          "claim": "塔身扭曲变形,100多处残损,全部内柱倾斜,12根严重;塔顶位移北偏东10.8°",
+          "source": "https://zh.wikipedia.org/wiki/佛宫寺释迦塔"
+        },
+        {
+          "claim": "2006年卫星数据测得塔高65.86米",
+          "source": "https://zh.wikipedia.org/wiki/佛宫寺释迦塔"
+        },
+        {
+          "claim": "2016年吉尼斯认证世界最高木塔",
+          "source": "https://zh.wikipedia.org/wiki/佛宫寺释迦塔"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Pagodaoffogongtemple2019.jpg/960px-Pagodaoffogongtemple2019.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Charlie fong",
+          "page": "https://commons.wikimedia.org/wiki/File:Pagodaoffogongtemple2019.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Fogong_temple_corner_dougong.JPG/960px-Fogong_temple_corner_dougong.JPG",
+          "license": "CC BY 3.0",
+          "author": "Gisling",
+          "page": "https://commons.wikimedia.org/wiki/File:Fogong_temple_corner_dougong.JPG",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
