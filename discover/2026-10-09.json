@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T07:20:00+08:00",
+  "items": [
+    {
+      "id": "fierljeppen-frisian-pole-vault",
+      "scope": "全球",
+      "thesis": "在水渠多过道路的地方,跳过去比绕过去更快,这件事慢慢变成了运动。",
+      "title": "荷兰人撑着长杆,跳过一条水渠",
+      "body": "荷兰北部的弗里斯兰一带,水渠多得像路。据说农民最早就是拿一根长杆,撑着跳过去,省得绕远。后来这件事成了运动,叫 fierljeppen,大意是“远远地跳”。\n\n规则看着简单:助跑,抓住插在水里的杆子,一路往上爬,趁杆子倒向对岸的时候,落到对面的沙地上。杆子长八到十三米,底下装一个圆盘,免得陷进泥里。爬得不对的人,结局大多是掉进水里。\n\n这项运动最早的正式比赛记录在1771年,到1957年才有了一套成形的规则。杆子的材料也换了几轮,从木头到铝,再到碳纤维增强的复合材料。\n\n锦标赛分成六个组别,选手在杆子上爬的时候,时机稍有不对,杆子就不肯往对岸倒。\n\n2017年8月12日,在乌得勒支省的泽赫维尔德,雅科·德·赫鲁特跳出了22.21米,这是荷兰国内的最高纪录;外国选手的最好成绩,是加拿大人艾伦·巴思在2002年跳出的19.64米。全世界登记在册的选手有532人,其中190人在荷兰。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dame-klimmen-polsstokverspringen.jpg/960px-Dame-klimmen-polsstokverspringen.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/De_uitsprong_fierljeppen.jpg/960px-De_uitsprong_fierljeppen.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Fierljeppen",
+        "label": "去看看"
+      },
+      "category": "elsewhere",
+      "tone": "欢快",
+      "verifiedAt": "2026-10-09",
+      "_facts": [
+        {
+          "claim": "杆长8–13米、底部有圆盘;材料从木到铝到碳纤维复合材料",
+          "source": "https://en.wikipedia.org/wiki/Fierljeppen"
+        },
+        {
+          "claim": "最早正式比赛1771年,1957年成形",
+          "source": "https://en.wikipedia.org/wiki/Fierljeppen"
+        },
+        {
+          "claim": "荷兰纪录22.21米,Jaco de Groot,2017年8月12日,Zegveld",
+          "source": "https://en.wikipedia.org/wiki/Fierljeppen"
+        },
+        {
+          "claim": "登记选手532人,荷兰190人",
+          "source": "https://en.wikipedia.org/wiki/Fierljeppen"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dame-klimmen-polsstokverspringen.jpg/960px-Dame-klimmen-polsstokverspringen.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Rian-baas",
+          "page": "https://commons.wikimedia.org/wiki/File:Dame-klimmen-polsstokverspringen.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/De_uitsprong_fierljeppen.jpg/960px-De_uitsprong_fierljeppen.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Peter van der Sluijs",
+          "page": "https://commons.wikimedia.org/wiki/File:De_uitsprong_fierljeppen.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "ise-shrine-rebuilt-every-20-years",
+      "scope": "全球",
+      "thesis": "一座建筑靠不断拆掉重来活下去,手艺也跟着一代代传了下来。",
+      "title": "伊势神宫,每二十年重盖一遍",
+      "body": "日本三重县的伊势神宫,每隔二十年,会把主要的殿宇拆掉,在旁边另一块地基上,照原样再盖一遍。这个制度叫式年迁宫。\n\n内宫和外宫的正殿,连同宇治桥,都在重建之列。新旧两块地基轮流使用:这一次盖在这块上,下一次就盖到那块上。内宫的建筑用的是日本扁柏,木头要先泡在水池里放上好几年,再晾干,才能动工。\n\n整个过程不是“二十年盖一次”那么简单。从组织、筹划到完工,前后大约要十七年。也就是说,前一次刚落成,下一次的准备就已经在路上了。扁柏原先取自本地,如今要从日本国内别的产地调运。这套做法最初为什么而设,没人说得准,只知道它对应“常若”的想法,也就是让一切保持崭新。\n\n这样一代一代重盖,木匠的手艺就不会断在谁手里。2013年的这一次是第六十二次,费用约五百七十亿日元,全部来自民间捐款。下一次定在2033年。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ise_Grand_Shrine,_Mie_Prefecture;_November_2016_(01).jpg/960px-Ise_Grand_Shrine,_Mie_Prefecture;_November_2016_(01).jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Ise_grand_shrine_Naiku_,_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio.jpg/960px-Ise_grand_shrine_Naiku_,_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine",
+        "label": "去看看"
+      },
+      "category": "mastery",
+      "tone": "独特",
+      "verifiedAt": "2026-10-09",
+      "_facts": [
+        {
+          "claim": "每20年重建内宫、外宫建筑和宇治桥;2013年为第62次;下一次2033年",
+          "source": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine"
+        },
+        {
+          "claim": "新旧两处地基轮流;扁柏需在水池中放置数年再干燥",
+          "source": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine"
+        },
+        {
+          "claim": "全过程约17年",
+          "source": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine"
+        },
+        {
+          "claim": "2013年费用约570亿日元,全部来自私人捐款",
+          "source": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ise_Grand_Shrine,_Mie_Prefecture;_November_2016_(01).jpg/960px-Ise_Grand_Shrine,_Mie_Prefecture;_November_2016_(01).jpg",
+          "license": "CC BY 2.0",
+          "author": "雷太",
+          "page": "https://commons.wikimedia.org/wiki/File:Ise_Grand_Shrine%2C_Mie_Prefecture%3B_November_2016_%2801%29.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Ise_grand_shrine_Naiku_,_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio.jpg/960px-Ise_grand_shrine_Naiku_,_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio.jpg",
+          "license": "CC BY 3.0",
+          "author": "z tanuki",
+          "page": "https://commons.wikimedia.org/wiki/File:Ise_grand_shrine_Naiku_%2C_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "longyearbyen-burial-ban-1950",
+      "scope": "全球",
+      "thesis": "一个镇子因为一场百年前的流感,把“怎么告别”的规矩改成了搬家。",
+      "title": "在这个小镇,人是不能下葬的",
+      "body": "朗伊尔城在挪威的斯瓦尔巴群岛,常住人口大约两千四百到两千八百人。每年10月27日到2月15日是极夜,一共111天。2020年税务部门登记的居民是2354人。因为周围有山,太阳要到3月8日前后才照进镇里。出门的人被建议随身带上步枪,防备北极熊。\n\n这里有个常被人传的说法:在这个镇上死亡是违法的。严格说不对,死在这里并不犯法,只是这里不能下葬。\n\n原因要追到1918年的大流感。那一年死在这里的人被埋在永冻土里,后来人们发现,遗体几乎没有腐烂。1950年,镇上定下了不再安葬的规矩。科学家担心,那些保存下来的遗体里,说不定还留着活的病毒。\n\n镇上有一家挪威北部大学医院的诊所,但没有护理服务,病重的人很难在这里长期养病。所以病重到临终的居民,通常要搬回挪威本土去。至于骨灰,在得到政府许可的情况下,可以埋在这里。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/960px-Longyearbyen-as-of-2022.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Longyearbyen-from-above-Hiorthfjellet.jpg/960px-Longyearbyen-from-above-Hiorthfjellet.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Longyearbyen",
+        "label": "去看看"
+      },
+      "category": "limits",
+      "tone": "有力",
+      "verifiedAt": "2026-10-09",
+      "_facts": [
+        {
+          "claim": "人口估计2400–2800,2020年税务登记2354人;极夜10月27日–2月15日共111天",
+          "source": "https://en.wikipedia.org/wiki/Longyearbyen"
+        },
+        {
+          "claim": "死亡不违法但不能下葬;禁令始于1950年;1918流感死者遗体未腐烂",
+          "source": "https://en.wikipedia.org/wiki/Longyearbyen"
+        },
+        {
+          "claim": "临终居民通常须迁往本土;骨灰经政府许可可埋葬",
+          "source": "https://en.wikipedia.org/wiki/Longyearbyen"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/960px-Longyearbyen-as-of-2022.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Bjørn Christian Tørrissen",
+          "page": "https://commons.wikimedia.org/wiki/File:Longyearbyen-as-of-2022.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Longyearbyen-from-above-Hiorthfjellet.jpg/960px-Longyearbyen-from-above-Hiorthfjellet.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Bjørn Christian Tørrissen",
+          "page": "https://commons.wikimedia.org/wiki/File:Longyearbyen-from-above-Hiorthfjellet.jpg",
+          "attributionRequired": true
+        }
+      ]
+    },
+    {
+      "id": "futian-mangrove-ramsar-2023",
+      "scope": "深圳",
+      "thesis": "一座城市把最值钱的海岸线,留了一段给泥滩和鸟。",
+      "title": "高楼脚下,一片给候鸟留的滩涂",
+      "body": "深圳福田,一边是高楼,一边是海,中间夹着一片红树林,叫福田红树林国家级自然保护区。\n\n红树是长在海水边的树,涨潮时根泡在水里,退潮了就露出一片滩涂。深圳湾的这一带,滩涂上常有水鸟觅食。每年11月到次年4月,是候鸟南下越冬的季节,黑脸琵鹭这种受国家保护的鸟,也在附近的观鸟点出现过。\n\n隔着深圳湾,对岸是香港的米埔自然保护区,两边遥遥相望。两边的红树林和滩涂,一起构成深圳湾的红树林湿地,是候鸟迁飞路上的一处落脚点。\n\n保护区的东边紧挨着一座约38万平方米的公园,2015年12月26日对外开放,红树林就这样和城里人的日常连在了一起。\n\n深圳这一侧的保护区,被称作中国唯一处在城市近郊的国家级自然保护区。2023年2月,福田红树林被列入《拉姆萨尔公约》的国际重要湿地名录。",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E4%B8%80%E9%A2%97%E7%94%9F%E9%95%BF%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B9%BE%E7%9A%84%E7%BA%A2%E6%A0%91.jpg/960px-%E4%B8%80%E9%A2%97%E7%94%9F%E9%95%BF%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B9%BE%E7%9A%84%E7%BA%A2%E6%A0%91.jpg",
+      "inlineImages": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%E8%BF%9C%E7%9C%8B%E7%A6%8F%E7%94%B0_-_panoramio.jpg/960px-%E8%BF%9C%E7%9C%8B%E7%A6%8F%E7%94%B0_-_panoramio.jpg",
+          "after": 3
+        }
+      ],
+      "link": {
+        "url": "https://www.sz.gov.cn/szzt2010/gysz/zrgy/content/post_10775958.html",
+        "label": "去看看"
+      },
+      "category": "stillrunning",
+      "tone": "质朴",
+      "verifiedAt": "2026-10-09",
+      "_facts": [
+        {
+          "claim": "紧邻福田红树林国家级自然保护区,南面隔水为香港米埔,均在深圳湾;11–4月水鸟越冬,黑脸琵鹭出现于飞兰堤观鸟点",
+          "source": "https://www.sz.gov.cn/szzt2010/gysz/zrgy/content/post_10775958.html"
+        },
+        {
+          "claim": "2023年2月列入拉姆萨尔国际重要湿地;中国唯一的城市近郊国家级保护区",
+          "source": "https://www.eyeshenzhen.com/content/2023-06/06/content_30259029.htm"
+        },
+        {
+          "claim": "福田保护区是候鸟迁飞要站",
+          "source": "https://www.chinaservicesinfo.com/s/202211/15/WS6372ec65498ea274927a845a/futians-nature-reserve-a-key-stop-for-migratory-birds.html"
+        },
+        {
+          "claim": "米埔与深圳湾红树林湿地",
+          "source": "https://en.wikipedia.org/wiki/Mai_Po_Nature_Reserve"
+        }
+      ],
+      "_imageCredits": [
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E4%B8%80%E9%A2%97%E7%94%9F%E9%95%BF%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B9%BE%E7%9A%84%E7%BA%A2%E6%A0%91.jpg/960px-%E4%B8%80%E9%A2%97%E7%94%9F%E9%95%BF%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B9%BE%E7%9A%84%E7%BA%A2%E6%A0%91.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "LEE3Lithium",
+          "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E9%A2%97%E7%94%9F%E9%95%BF%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B9%BE%E7%9A%84%E7%BA%A2%E6%A0%91.jpg",
+          "attributionRequired": true
+        },
+        {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%E8%BF%9C%E7%9C%8B%E7%A6%8F%E7%94%B0_-_panoramio.jpg/960px-%E8%BF%9C%E7%9C%8B%E7%A6%8F%E7%94%B0_-_panoramio.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "wanghongliu",
+          "page": "https://commons.wikimedia.org/wiki/File:%E8%BF%9C%E7%9C%8B%E7%A6%8F%E7%94%B0_-_panoramio.jpg",
+          "attributionRequired": true
+        }
+      ]
+    }
+  ]
+}
